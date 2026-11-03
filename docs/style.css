@@ -20,6 +20,9 @@ article h3 a{color:var(--text);text-decoration:none}
 article p{margin:0 0 8px;font-size:.9rem;color:var(--sub)}
 .info{display:flex;flex-wrap:wrap;gap:6px 10px;font-size:.75rem;color:var(--sub);align-items:center}
 .badge{border:1px solid var(--line);border-radius:4px;padding:0 5px}
+article[data-open]{cursor:pointer}
+article[data-open]:hover{border-color:var(--accent)}
+.info a.open{margin-left:auto;text-decoration:none;font-weight:600}
 article.read h3 a,article.read p{color:var(--read)}
 .info a{color:var(--accent)}
 .empty{color:var(--sub);text-align:center;padding:40px 0}
