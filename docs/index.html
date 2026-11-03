@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>毎日ダイジェスト</title>
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon.svg">
+<meta name="theme-color" content="#1f6feb">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <div class="top">
+    <h1>毎日ダイジェスト</h1>
+    <button id="settingsBtn" aria-label="分野の並び替え・表示設定">⚙ 並び替え</button>
+  </div>
+  <p id="meta" class="meta">読み込み中…</p>
+  <nav id="chips" aria-label="分野"></nav>
+</header>
+<main id="list"></main>
+<dialog id="dlg">
+  <h2>分野の並び替え・表示</h2>
+  <ul id="order"></ul>
+  <div class="actions">
+    <button id="reset">初期状態に戻す</button>
+    <button id="close" class="primary">閉じる</button>
+  </div>
+</dialog>
+<script src="app.js"></script>
+</body>
+</html>

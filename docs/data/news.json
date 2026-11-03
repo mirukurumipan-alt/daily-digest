@@ -1,0 +1,316 @@
+{
+ "generated_at": "2026-11-03T23:05+09:00",
+ "ai_summary": false,
+ "categories": [
+  {
+   "id": "medical",
+   "name": "医療・診療報酬"
+  },
+  {
+   "id": "dental",
+   "name": "歯科"
+  },
+  {
+   "id": "business",
+   "name": "ビジネス"
+  },
+  {
+   "id": "politics",
+   "name": "政治"
+  },
+  {
+   "id": "ai",
+   "name": "AI"
+  },
+  {
+   "id": "startup",
+   "name": "スタートアップ"
+  },
+  {
+   "id": "finance",
+   "name": "金融・市況"
+  },
+  {
+   "id": "society",
+   "name": "社会情勢"
+  },
+  {
+   "id": "world",
+   "name": "国際情勢"
+  },
+  {
+   "id": "science",
+   "name": "科学・テクノロジー"
+  },
+  {
+   "id": "law",
+   "name": "法律・制度"
+  },
+  {
+   "id": "environment",
+   "name": "環境・エネルギー"
+  },
+  {
+   "id": "work",
+   "name": "働き方・教育"
+  },
+  {
+   "id": "security",
+   "name": "防災・サイバー・防衛"
+  }
+ ],
+ "items": [
+  {
+   "category": "medical",
+   "title": "学会レポート─2026年欧州心臓病学会（ESC））［J-CLEAR通信（191）］ - 日本医事新報社",
+   "summary": "学会レポート─2026年欧州心臓病学会（ESC））［J-CLEAR通信（191）］ 日本医事新報社",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIX21GX05Pd1VaNTlnalpUT3Izc3gtaHpjdGFJeEI0YTF0cW8wZEpOc05wc3g0eGpTdURnaVFuVnZPdzk3TjByWXFTWVN2TVBuemliSmZWOTk2bHpEV0RCcQ?oc=5",
+   "source": "m3・MT・医事新報",
+   "lang": "ja",
+   "date": "2026-11-03T13:03+09:00"
+  },
+  {
+   "category": "medical",
+   "title": "歯科衛生士の業務のあり方等に関する検討会 中間報告",
+   "summary": "",
+   "link": "https://www.mhlw.go.jp/stf/shingi/newpage_77154.html",
+   "source": "厚生労働省",
+   "lang": "ja",
+   "date": "2026-11-02T17:06+09:00"
+  },
+  {
+   "category": "dental",
+   "title": "疑義解釈 - 歯科保険請求最新情報2026 - クインテッセンス出版",
+   "summary": "疑義解釈 - 歯科保険請求最新情報2026 クインテッセンス出版",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QN29JWjVCamZwNTk3LWNmbFY5TUpPeFROZTQ3a0lCYlVZcVVzQ2EwcFBNRDRxTlpvT3lWZGxfUW5vbGJhaHZQTkdHRUg0WGot?oc=5",
+   "source": "歯科専門(クインテッセンス・デンタルプラザ)",
+   "lang": "ja",
+   "date": "2026-11-03T19:14+09:00"
+  },
+  {
+   "category": "dental",
+   "title": "瑞宝双光章 学校歯科医・物江暁さん「子供の歯を守ることは歯科医の宿命」秋の叙勲 福島県からは64人 - Excite エキサイト",
+   "summary": "瑞宝双光章 学校歯科医・物江暁さん「子供の歯を守ることは歯科医の宿命」秋の叙勲 福島県からは64人 Excite エキサイト",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05dnV2anZzNk5WSFdSN1VzZFZ6VlhNN2tqc21PT2VFUUl0eEhiOXV1ZVNBdVBieWZBc2FLeWk5emVYXzVSbE4xVFhBcndsSDhiaUlYTGJQemp5TFBYTVJUMzJQdzRLbGdZOHJJTE1qWno2c09raWVWbXNR?oc=5",
+   "source": "Google News 歯科業界",
+   "lang": "ja",
+   "date": "2026-11-03T19:40+09:00"
+  },
+  {
+   "category": "business",
+   "title": "[ITmedia PC USER] 月額無料のAI通訳イヤフォン「W4 Plus」を試す 翻訳精度をオンラインとオフラインで比較した",
+   "summary": "Makuakeで先行販売中のAI通訳イヤフォン「W4 Plus」を検証。月額無料のAI機能や動画／オフライン翻訳の実力を確かめた。字幕が高精度な一方、訳が大幅に削られる設定やPC非対応などの注意点も解説する。",
+   "link": "https://www.itmedia.co.jp/pcuser/articles/2611/03/news004.html",
+   "source": "ITmedia",
+   "lang": "ja",
+   "date": "2026-11-03T12:00+09:00"
+  },
+  {
+   "category": "business",
+   "title": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+   "summary": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者4242件分の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70021",
+   "source": "NHK 経済",
+   "lang": "ja",
+   "date": "2026-11-03T19:15+09:00"
+  },
+  {
+   "category": "politics",
+   "title": "アメリカ中間選挙 投票始まる NW9広内キャスターが現地取材",
+   "summary": "日本にも影響を及ぼし得るアメリカの中間選挙。 先ほど投票が始まりました。 ニュースウオッチ9の広内キャスターが選挙の情勢などについて現地からお伝えします。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70051",
+   "source": "NHK 政治",
+   "lang": "ja",
+   "date": "2026-11-03T21:38+09:00"
+  },
+  {
+   "category": "politics",
+   "title": "あいち航空ミュージアムに幻の国産ジェット機「MRJ」搬入 令和9年1月末リニューアル - 産経ニュース",
+   "summary": "あいち航空ミュージアムに幻の国産ジェット機「MRJ」搬入 令和9年1月末リニューアル 産経ニュース あいち航空ミュージアムに幻の国産ジェット機「MRJ」搬入 令和9年1月末リニューアル（産経新聞） Yahoo!ニュース 三菱スペースジェット、名古屋空港で姿現す！11月3日にミュージアムへ搬入予定 FlyTeam 国産初の小型ジェット旅客機“スペースジェット”が目の前に あいち航空ミュージアムに搬入 抽選で選ばれた約100人が見守る 展示…",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByeU05eDNGRlk5enFfU3BlR0VlSkZVcHlOZXRqckJJSlppbFBDUkp0bDA5dTJZaDVmVGxQT3dJZ3Z6dEp4WVZ6dkxhSVh2ZGlCeTJyT2RkYUs4bDNwamx4M1lHOUExeFdHaW9pWXB1ZGVEcEM5Y0E?oc=5",
+   "source": "Google News 政治",
+   "lang": "ja",
+   "date": "2026-11-03T19:51+09:00"
+  },
+  {
+   "category": "ai",
+   "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
+   "summary": "Anthropicは、証券取引委員会（SEC）にIPOに向けた登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに拡大した一方、営業損益は赤字に転落。また、AI計算資源やインフラに関する将来の支出約束額が約8954億ドルに上ることも明らかにした。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "date": "2026-11-03T08:20+09:00"
+  },
+  {
+   "category": "ai",
+   "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r…",
+   "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-03T22:10+09:00"
+  },
+  {
+   "category": "startup",
+   "title": "Claudeの「Max 20x」が「Ultra」に、月額200ドルで認証済みなら5時間制限なし",
+   "summary": "Anthropic は現地時間10月30日、Claude の個人向け有料プラン「Max 20x」の名前を「Ultra」に変えたことを公表した。既存の Max 20x の契約者は、料金が変わらないまま自動で Ultra に […]",
+   "link": "https://thebridge.jp/2026/11/anthropic-claude-max-20x-renamed-ultra",
+   "source": "THE BRIDGE",
+   "lang": "ja",
+   "date": "2026-11-02T13:44+09:00"
+  },
+  {
+   "category": "startup",
+   "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+   "summary": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+   "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-03T23:00+09:00"
+  },
+  {
+   "category": "finance",
+   "title": "金融審議会「成長企業への資金供給の在り方等に関するワーキング・グループ」（第３回）の開催について公表しました。",
+   "summary": "",
+   "link": "https://www.fsa.go.jp/news/r8/singi/20261109.html",
+   "source": "金融庁",
+   "lang": "ja",
+   "date": "2026-11-03T02:00+09:00"
+  },
+  {
+   "category": "finance",
+   "title": "英ポンド/円【GBPJPY】：外国為替相場FXレート・チャートをリアルタイム表示 - Yahoo!ファイナンス",
+   "summary": "英ポンド/円【GBPJPY】：外国為替相場FXレート・チャートをリアルタイム表示 Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxT2xZZUdVWlItVS1jZXVOTDRla0NkN3hUZDBfTU5NbUE1YnphRmNoblNIbGVDczctbGxheEZDdTU1Q1pZaFpXeHFYcklmcFhZWkgtcEVR?oc=5",
+   "source": "Google News 市況",
+   "lang": "ja",
+   "date": "2026-11-03T19:36+09:00"
+  },
+  {
+   "category": "society",
+   "title": "【動画】Pickup NEWS（11月3日）",
+   "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。 （データ放送では動画をご覧いただけません）",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261102de69570",
+   "source": "NHK 社会",
+   "lang": "ja",
+   "date": "2026-11-03T19:47+09:00"
+  },
+  {
+   "category": "society",
+   "title": "サッカーアジア杯 開催を来年12月に延期 サウジ情勢の影響で",
+   "summary": "AFC＝アジアサッカー連盟は来年1月からサウジアラビアで開催予定だったアジアカップについて、現地の情勢悪化を受けて、来年12月の開幕へ延期することを発表しました。日本代表は森保一監督がこの大会を最後に…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69969",
+   "source": "NHK 主要",
+   "lang": "ja",
+   "date": "2026-11-03T22:34+09:00"
+  },
+  {
+   "category": "world",
+   "title": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ",
+   "summary": "アメリカのウィトコフ特使はウクライナとロシアの和平をめぐるアメリカも交えた3か国の実務者協議を11月、UAE＝アラブ首長国連邦で開催すると明らかにしました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69878",
+   "source": "NHK 国際",
+   "lang": "ja",
+   "date": "2026-11-03T20:55+09:00"
+  },
+  {
+   "category": "world",
+   "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+   "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+   "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "lang": "en",
+   "date": "2026-11-03T22:55+09:00"
+  },
+  {
+   "category": "science",
+   "title": "皇居で文化勲章の親授式",
+   "summary": "文化の日の3日、皇居で文化勲章の親授式が行われ、ことしのノーベル化学賞に選ばれた、そ※合憲三さんなどに天皇陛下から文化勲章が贈られました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69927",
+   "source": "NHK 科学・文化",
+   "lang": "ja",
+   "date": "2026-11-03T14:40+09:00"
+  },
+  {
+   "category": "science",
+   "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
+   "summary": "Appleの7月?9月期決算は、売上高が前年同期比12％増、純利益も12％増となり、共に同四半期の過去最高を記録した。通期でも過去最高を更新した。新CEOのジョン・ターナス氏による初の会見で、折りたたみ型「iPhone Duo」やAI戦略「Siri AI」の進捗を報告。次期も増収を見込む。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+   "source": "ITmedia NEWS",
+   "lang": "ja",
+   "date": "2026-11-03T09:44+09:00"
+  },
+  {
+   "category": "law",
+   "title": "栄養士法施行規則の一部を改正する省令案に関する御意見の募集について",
+   "summary": "案の公示日：2026/11/03 受付締切日時：2026/12/03 00:00 カテゴリー：厚生 問合せ先（所管省庁・部局名等）：厚生労働省健康・生活衛生局健康課 代表番号：03-5253-1111（内線8125）",
+   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260248&Mode=0",
+   "source": "パブリックコメント(e-Gov)",
+   "lang": "ja",
+   "date": "2026-11-03T00:00+09:00"
+  },
+  {
+   "category": "law",
+   "title": "不倫相手の夫から慰謝料400万円を請求されたが、 100 - 野口 潤之介弁護士が実際に解決した事例 - 弁護士ドットコム",
+   "summary": "不倫相手の夫から慰謝料400万円を請求されたが、 100 - 野口 潤之介弁護士が実際に解決した事例 弁護士ドットコム",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE91RGk3RDRsaURYTFJQS3NIMHVtd21pNWU3VE5lMVVzWFVHbDdIQzZoSXpWd1RuRzR3U010b2c4UGQ2WDBUR0N1UlZRQWs4SmNSOWMzaEtTVk1pR0N0QmJDV2Z4Z2s4VXlRenc?oc=5",
+   "source": "弁護士ドットコム・国税庁",
+   "lang": "ja",
+   "date": "2026-11-03T21:24+09:00"
+  },
+  {
+   "category": "environment",
+   "title": "Shinjuku Gyoen National Garden Orchid Exhibition - 環境省",
+   "summary": "Shinjuku Gyoen National Garden Orchid Exhibition 環境省",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RU1VtYjJnWWdLc1o4N2M4d05OTlNqcnFWNnNKWDRMakpGNExFXzJFalBPVFZVVGVwSXloVjMxQlpVTXNmRC11UmR1NFVmNjRvNVdQNEh3?oc=5",
+   "source": "環境省・資源エネルギー庁",
+   "lang": "ja",
+   "date": "2026-11-02T21:20+09:00"
+  },
+  {
+   "category": "environment",
+   "title": "New tool will help gardeners move away from thirsty English classics to drought-resistant plants",
+   "summary": "Exclusive: Garden Climate Assessment Tool will allow users to predict a plant’s response to the projected climate in a given location “In the 20th century, we could pretty much grow the same things with confidence, we co…",
+   "link": "https://www.theguardian.com/environment/2026/nov/03/garden-climate-assessment-tool-drought-gardening",
+   "source": "The Guardian Environment",
+   "lang": "en",
+   "date": "2026-11-03T22:05+09:00"
+  },
+  {
+   "category": "work",
+   "title": "理系学生を惹きつける秋冬インターン設計に！理系学生の就活動向レポート - HRプロ",
+   "summary": "理系学生を惹きつける秋冬インターン設計に！理系学生の就活動向レポート HRプロ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zdWRmWVU1WnlScGlXeTZabnN3TWtseTJkc1Ntd2lrLURmWG42Y1lXOUw3NzhoeG9DdTQ3UUhON3NoWUFXQmVlX0FQTEVjMWNxbDdFb3ZfT0V5OWtUYTZxeXkyalVNdjFjNTIyRmQzSQ?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-03T22:12+09:00"
+  },
+  {
+   "category": "work",
+   "title": "一緒に働きたいと思わせる「採用CX（候補者体験）」を設計する4STEP - HRプロ",
+   "summary": "一緒に働きたいと思わせる「採用CX（候補者体験）」を設計する4STEP HRプロ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQSGljNlVzTkNZWnVOQ1BTYjhVU3U0a19XLXlNOUVlMTlTU3hMOTV5Q3NkZ2lYRnRpbVBTX1k0Z25HNWJBQVFMaGJUSE4tQTBFdGlFUXAtUG1ZTjJMdHZGc1F0b0w4M29ITXBjZ09hVQ?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-03T22:12+09:00"
+  },
+  {
+   "category": "security",
+   "title": "更新：PHPの脆弱性対策について(CVE-2026-109618、CVE-2026-109619：PHP2shell)",
+   "summary": "",
+   "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261022.html",
+   "source": "IPA セキュリティ重要情報",
+   "lang": "ja",
+   "date": "2026-11-02T00:00+09:00"
+  },
+  {
+   "category": "security",
+   "title": "欧州各国で冷蔵設備の遠隔操作によるサイバー攻撃が急拡大 9カ国で食品の大量廃棄が発生 - 東京報道新聞",
+   "summary": "欧州各国で冷蔵設備の遠隔操作によるサイバー攻撃が急拡大 9カ国で食品の大量廃棄が発生 東京報道新聞",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GWTlSeGxwbWdUNS1VY1huY2s2dDlKMHVhdk9qYWN4NDZLWHRocjZhdlFqNDhsdmZVclA3YU53UWpiUEhzOXppNy13Wi10NDlUU0Jr?oc=5",
+   "source": "Google News 災害・防衛",
+   "lang": "ja",
+   "date": "2026-11-03T23:02+09:00"
+  }
+ ]
+}
