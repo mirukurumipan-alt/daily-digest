@@ -9,6 +9,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -138,18 +139,18 @@ def pick_model(key):
             models = json.load(r).get("models", [])
     except Exception as e:
         print(f"[warn] モデル一覧の取得失敗、{fallback} を使用: {type(e).__name__}: {e}", file=sys.stderr)
-        return fallback
-    best = None
+        return [fallback]
+    found = []
     for m in models:
         match = re.fullmatch(r"models/(gemini-(\d+(?:\.\d+)?)-flash)(-lite)?", m["name"])
         if match and "generateContent" in m.get("supportedGenerationMethods", []):
             rank = (float(match.group(2)), not match.group(3))  # 新しい版を優先、同版ならlite以外
-            if best is None or rank > best[0]:
-                best = (rank, match.group(1) + (match.group(3) or ""))
-    if best is None:
+            found.append((rank, match.group(1) + (match.group(3) or "")))
+    if not found:
         print(f"[warn] 該当モデルなし、{fallback} を使用。利用可能: {[m['name'] for m in models][:20]}", file=sys.stderr)
-        return fallback
-    return best[1]
+        return [fallback]
+    # 混雑時に切り替える候補として、新しい順に最大3つ返す
+    return [name for _, name in sorted(found, reverse=True)[:3]]
 
 
 def summarize(items, names, batch=30):
@@ -157,9 +158,9 @@ def summarize(items, names, batch=30):
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         return 0
-    model = os.environ.get("GEMINI_MODEL") or pick_model(key)
-    print(f"使用モデル: {model}")
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+    models = [os.environ["GEMINI_MODEL"]] if os.environ.get("GEMINI_MODEL") else pick_model(key)
+    print(f"使用モデル候補: {models}")
+    cur = 0
     done = 0
     for start in range(0, len(items), batch):
         chunk = items[start:start + batch]
@@ -180,17 +181,34 @@ def summarize(items, names, batch=30):
             "contents": [{"parts": [{"text": prompt}]}],
             "generationConfig": {"responseMimeType": "application/json"},
         }).encode()
-        req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+        text = None
+        # 混雑(429/500/503)は待って再試行し、だめなら次の候補モデルへ切り替える
+        while cur < len(models) and text is None:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{models[cur]}:generateContent"
+            req = urllib.request.Request(url, data=body, headers={"Content-Type": "application/json", "x-goog-api-key": key})
+            for attempt in range(3):
+                try:
+                    with urllib.request.urlopen(req, timeout=120) as r:
+                        text = json.load(r)["candidates"][0]["content"]["parts"][0]["text"]
+                    break
+                except Exception as e:
+                    detail = e.read().decode("utf-8", "replace")[:300] if isinstance(e, urllib.error.HTTPError) else ""
+                    print(f"[warn] {models[cur]} 失敗({attempt + 1}/3): {type(e).__name__}: {e} {detail}", file=sys.stderr)
+                    if not (isinstance(e, urllib.error.HTTPError) and e.code in (429, 500, 503)):
+                        break
+                    time.sleep(15 * (attempt + 1))
+            if text is None:
+                cur += 1
         try:
-            with urllib.request.urlopen(req, timeout=120) as r:
-                text = json.load(r)["candidates"][0]["content"]["parts"][0]["text"]
-            for row in json.loads(text):
+            for row in json.loads(text or "[]"):
                 it = chunk[row["id"]]
                 it["score"], it["title_ja"], it["summary"] = int(row["score"]), row["title"], row["summary"]
                 done += 1
         except Exception as e:
-            detail = e.read().decode("utf-8", "replace")[:300] if isinstance(e, urllib.error.HTTPError) else ""
-            print(f"[warn] AI処理失敗(この{len(chunk)}件はRSS概要・関連度判定なし): {type(e).__name__}: {e} {detail}", file=sys.stderr)
+            print(f"[warn] 応答の解析失敗: {type(e).__name__}: {e}", file=sys.stderr)
+        else:
+            if text is None:
+                print(f"[warn] 候補モデルすべて失敗(この{len(chunk)}件はRSS概要・関連度判定なし)", file=sys.stderr)
     return done
 
 
