@@ -9,6 +9,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from concurrent.futures import ThreadPoolExecutor
@@ -126,12 +127,38 @@ def select(cfg, results, limit):
     return out
 
 
+def pick_model(key):
+    """使えるモデルをAPIに問い合わせ、最新の安定版Flashを選ぶ(モデル名の廃止対策)。"""
+    fallback = "gemini-flash-latest"
+    try:
+        req = urllib.request.Request(
+            "https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+            headers={"x-goog-api-key": key})
+        with urllib.request.urlopen(req, timeout=30) as r:
+            models = json.load(r).get("models", [])
+    except Exception as e:
+        print(f"[warn] モデル一覧の取得失敗、{fallback} を使用: {type(e).__name__}: {e}", file=sys.stderr)
+        return fallback
+    best = None
+    for m in models:
+        match = re.fullmatch(r"models/(gemini-(\d+(?:\.\d+)?)-flash)(-lite)?", m["name"])
+        if match and "generateContent" in m.get("supportedGenerationMethods", []):
+            rank = (float(match.group(2)), not match.group(3))  # 新しい版を優先、同版ならlite以外
+            if best is None or rank > best[0]:
+                best = (rank, match.group(1) + (match.group(3) or ""))
+    if best is None:
+        print(f"[warn] 該当モデルなし、{fallback} を使用。利用可能: {[m['name'] for m in models][:20]}", file=sys.stderr)
+        return fallback
+    return best[1]
+
+
 def summarize(items, names, batch=30):
     """関連度(score 0-10)・日本語見出し・要約を付ける。成功した記事数を返す。"""
     key = os.environ.get("GEMINI_API_KEY")
     if not key:
         return 0
-    model = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+    model = os.environ.get("GEMINI_MODEL") or pick_model(key)
+    print(f"使用モデル: {model}")
     url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
     done = 0
     for start in range(0, len(items), batch):
@@ -162,7 +189,8 @@ def summarize(items, names, batch=30):
                 it["score"], it["title_ja"], it["summary"] = int(row["score"]), row["title"], row["summary"]
                 done += 1
         except Exception as e:
-            print(f"[warn] AI処理失敗(この{len(chunk)}件はRSS概要・関連度判定なし): {type(e).__name__}: {e}", file=sys.stderr)
+            detail = e.read().decode("utf-8", "replace")[:300] if isinstance(e, urllib.error.HTTPError) else ""
+            print(f"[warn] AI処理失敗(この{len(chunk)}件はRSS概要・関連度判定なし): {type(e).__name__}: {e} {detail}", file=sys.stderr)
     return done
 
 
