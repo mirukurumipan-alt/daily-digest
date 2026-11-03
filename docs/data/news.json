@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T06:24+09:00",
- "ai_summary": true,
+ "generated_at": "2026-11-04T08:41+09:00",
+ "ai_summary": false,
  "categories": [
   {
    "id": "medical",
@@ -62,103 +62,93 @@
  "items": [
   {
    "category": "medical",
-   "title": "歯科衛生士の業務のあり方等に関する検討会 中間報告",
-   "summary": "歯科衛生士の業務のあり方等に関する検討会から中間報告がまとめられた。歯科衛生士の役割や業務範囲の見直し、歯科医療現場における適切な業務遂行に関する検討結果が示された。",
-   "link": "https://www.mhlw.go.jp/stf/shingi/newpage_77154.html",
-   "source": "厚生労働省",
+   "title": "車中待機指示中に容態悪化で対処も「運良く救命できただけ」 - m3.com",
+   "summary": "車中待機指示中に容態悪化で対処も「運良く救命できただけ」 m3.com",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndUpMLWQzdkQ1elZiWmZxd1lfQWM2ci0zSG5YckdlQWU2RVBnQTlEdkZ2RDJPWlVfemNtZzRmaTdhbGhjc0VUMERISnBaWlRlS1E?oc=5",
+   "source": "m3・MT・医事新報",
    "lang": "ja",
-   "date": "2026-11-02T17:06+09:00",
-   "title_ja": "歯科衛生士の業務のあり方等に関する検討会の中間報告"
+   "date": "2026-11-04T06:11+09:00"
   },
   {
    "category": "medical",
-   "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
-   "summary": "仏製薬大手セルヴィエは、有効な治療法が存在しない筋ジストロフィーの一種を対象に開発中だった治療薬が、最初の主要な臨床試験で予期せぬ結果に終わり失敗したと発表した。",
-   "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
-   "source": "STAT",
-   "lang": "en",
-   "date": "2026-11-04T05:53+09:00",
-   "title_ja": "セルヴィエの筋ジストロフィー治療薬候補、最初の主要試験で失敗"
+   "title": "歯科衛生士の業務のあり方等に関する検討会 中間報告",
+   "summary": "",
+   "link": "https://www.mhlw.go.jp/stf/shingi/newpage_77154.html",
+   "source": "厚生労働省",
+   "lang": "ja",
+   "date": "2026-11-02T17:06+09:00"
   },
   {
    "category": "dental",
-   "title": "メタルフリーセラミックス市場、生体適合性インプラント需要と年率6.2%成長で2035年まで拡大へ - IndexBox",
-   "summary": "歯科用メタルフリーセラミックス市場に関する最新の調査結果が公開された。生体適合性の高いインプラントへの需要増加を背景に、2035年にかけて年平均6.2%の成長率で市場が拡大する見通しだ。",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFVlZEdtRFNta2NxU3VDNU9pSFd4TWd0bXlCVFhsNzJydzZCSGQ5UkdnWnM0Mkx3OXZHODdTeEh0RFFCRnpjQTM5WkZBVGZBTDZsUTBzYjA4b203YUItdDE2UXRkY1RJakdjQm1mRWQwcG1UMDA5ZUJ3b2gxMlZHczdnWWEwZmtwVU1mTU1RQ2tmMmd6UHFURzFnczVTd3NLLTNIZnU4aDRJbjBwaUlyeGNvNEhzWmhOYXlXMnNWREczejVFMnc?oc=5",
+   "title": "日本歯科審美学会、第37回学術大会を開催 - クインテッセンス出版",
+   "summary": "日本歯科審美学会、第37回学術大会を開催 クインテッセンス出版",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VQ3VhZzh6VmdFQnAyMVZzdVB0Z0ltbXpNREtzOEwxbzdUNDRyMWx2UGVJU2F3S2RuTTRXUWZTWlZYenNKd1N4YlNjZkZ3OF9IblZBdjExb0Y2UQ?oc=5",
+   "source": "歯科専門(クインテッセンス・デンタルプラザ)",
+   "lang": "ja",
+   "date": "2026-11-02T17:57+09:00"
+  },
+  {
+   "category": "dental",
+   "title": "「患者さんから信頼される歯科医師に」歯科医療で震災時の支援活動にも貢献 元宮城県歯科医師会長に旭日小綬章 - TBS NEWS DIG",
+   "summary": "「患者さんから信頼される歯科医師に」歯科医療で震災時の支援活動にも貢献 元宮城県歯科医師会長に旭日小綬章 TBS NEWS DIG",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM09rb0tpMG5oeVFIa0NUbjZNS09HU1drRjlXQVloejBuNWNTOERtbzl0N1QyRnFlVjk5TjNDQTJpTlFiVHc1X3ZaMnZxbTlmYk5MMVZpWEFlblNtN3ZIenR5X1VLaG1ZWlVjeURzZzdGMHlaNmpXN29TWUJUamE0dkwzTzRFUDJndUVJN0VGTTBuY2RrcWw1S1ZIZ210N0ZibHdJZmxLQVlYUER5cU1TX2s5M0VlcTdxcFg1YTZmZk5qMkctTXlOcUdWRWJqSVpKWHVfREdscl9XWk44S3VRTGx0NWU2UF94MFNiLXN1VGFZc0FsYXc?oc=5",
    "source": "Google News 歯科業界",
    "lang": "ja",
-   "date": "2026-11-03T21:41+09:00",
-   "title_ja": "メタルフリーセラミックス市場、生体適合インプラント需要で2035年まで年6.2%成長見込み"
-  },
-  {
-   "category": "dental",
-   "title": "Insights into the Dental Sterilization Market Emphasize Major Segments and Regional Expansion - openPR.com",
-   "summary": "歯科滅菌市場に関する分析調査が発表された。主要な市場セグメントの動向や、世界各地域における市場拡大の展望が詳しく示されており、今後の歯科機器・資材市場の成長が期待されている。",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeURCaXdQLWVrSl9hSWRacUpwZHdNYVhjTW5yNnJ0RGZxNmhIdGJSb19Kd2duS0t4Z0FkNjBmdWs5a3prckdjVnBuSjZoRlhFYVA2QzdXX2xSSnRyNjFnV3B6RE1ybmFCbWRyVlpIRmlFSkN6a0kyQzBsdnVfcDExQmZNcDBhWHNOX1hpeEgyaXVzWkR5b0EwVTJEZW5FUQ?oc=5",
-   "source": "Google News Dentistry",
-   "lang": "en",
-   "date": "2026-11-04T02:42+09:00",
-   "title_ja": "歯科滅菌市場の動向、主要分野と地域拡大に焦点を当てた分析を発表"
+   "date": "2026-11-03T22:03+09:00"
   },
   {
    "category": "business",
-   "title": "「バイナンス」へのサイバー攻撃 AI使った新たな手口か",
-   "summary": "約9900億円相当の影響が出た暗号資産取引所バイナンスへのサイバー攻撃で、北朝鮮のハッカー集団がAIを活用した新しい攻撃手法を用いていた可能性が指摘された。先端技術の悪用に懸念が高まっている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69892",
-   "source": "NHK 経済",
-   "lang": "ja",
-   "date": "2026-11-03T11:05+09:00",
-   "title_ja": "バイナンスへの巨額サイバー攻撃、AIを用いた新たな手口の可能性"
-  },
-  {
-   "category": "business",
-   "title": "[ITmedia ビジネスオンライン] 全社員3600人にChatGPTを配ったら、月半ばで「トークン枯渇」 クレディセゾンは想定外の事態をどう乗り切った？",
-   "summary": "クレディセゾンが国内全社員約3600人に「ChatGPT Enterprise」を導入した際、想定以上の活用により月半ばでAI利用枠が尽きる問題に遭遇。企業での大規模AI活用における課題と対処法が示された。",
-   "link": "https://www.itmedia.co.jp/business/articles/2611/04/news010.html",
+   "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
+   "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
    "source": "ITmedia",
    "lang": "ja",
-   "date": "2026-11-04T05:30+09:00",
-   "title_ja": "クレディセゾン、全社員3600人へのChatGPT導入で発生した「トークン枯渇」の裏側"
+   "date": "2026-11-04T08:22+09:00"
+  },
+  {
+   "category": "business",
+   "title": "インフラや防衛分野に向け国産AIの開発進む",
+   "summary": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+   "source": "NHK 経済",
+   "lang": "ja",
+   "date": "2026-11-04T07:19+09:00"
   },
   {
    "category": "politics",
-   "title": "小泉防衛相 防衛省のAI活用に関する基本方針見直す考え",
-   "summary": "小泉防衛大臣は、安全保障分野での急速なAI技術の進化に対応するため、防衛省のAI活用に関する基本方針を見直す考えを明らかにした。最新の先端技術を取り入れた運用体制の再構築を目指す。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70050",
+   "title": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
+   "summary": "食料品の消費税減税関連法案は4日も衆議院の委員会で審議が続くとともに、与野党の日程協議が行われる見通しです。与党側が衆議院の通過に向けて採決の時期を探ることにしているのに対し、野党側は高市総理大臣の委…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-03T20:14+09:00",
-   "title_ja": "小泉防衛相、安全保障におけるAI活用基本方針の見直しを表明"
+   "date": "2026-11-04T05:37+09:00"
   },
   {
    "category": "politics",
-   "title": "原子力潜水艦の導入議論、小泉防衛相が改めて意欲「原子力も選択肢に入れて議論を」 - 読売新聞",
-   "summary": "小泉防衛大臣は、日本の安全保障政策において原子力潜水艦の導入を選択肢に含めた議論を進める意欲を改めて示した。非核三原則や防衛戦略を巡り、多角的な検討の必要性を訴えている。",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VdTA4bFBuWTVyc0xvV19QbDJkam0yUmw1WXVBYmhLdDYxejczck1QOTc1bVlYWWowOUtRMFhlckJCU1ViOGhndXJ5T1BIamFySER6TFh3dGJNNHdJWnRIUkhjMVh4QQ?oc=5",
+   "title": "【独自】日本とベトナム、犯罪抑止へ新協定検討 ９日首脳会談で確認へ - 時事ドットコム",
+   "summary": "【独自】日本とベトナム、犯罪抑止へ新協定検討 ９日首脳会談で確認へ 時事ドットコム Google ニュースで見出しと意見をもっと見る",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGZXhTZUtmV2Fqb2JXaGJzNnZUd0w0dU95NXdDN0ROTlo5VEJ5SG9mc1B4dk04dWFha3pSWVJ6QVFBX3NTd2VibVFZTlRmWm9XWEV4dFJ6MmpObS1uY0xsVFFlbw?oc=5",
    "source": "Google News 政治",
    "lang": "ja",
-   "date": "2026-11-03T22:13+09:00",
-   "title_ja": "小泉防衛相、原子力潜水艦の導入議論へ意欲「選択肢として議論を」"
+   "date": "2026-11-04T07:58+09:00"
   },
   {
    "category": "ai",
-   "title": "Anthropic、IPO申請書を修正 7?9月売上高は約170億ドル、インフラ契約額は約8954億ドル",
-   "summary": "米AnthropicはSECへIPO登録届出書の修正版を提出した。第3四半期の売上高は前年同期比約12.3倍の約169億ドルに成長した一方、営業損益は赤字となった。将来のAIインフラ支出約束額は約8954億ドルに達する。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002831/",
+   "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
+   "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
    "source": "ITmedia AI+",
    "lang": "ja",
-   "date": "2026-11-03T08:20+09:00",
-   "title_ja": "AnthropicがIPO申請書を修正、第3四半期売上高169億ドルも営業赤字に"
+   "date": "2026-11-04T07:31+09:00"
   },
   {
    "category": "ai",
-   "title": "Marvell、光通信技術のLumentumを約18兆円で買収 AIデータセンターの高速化に対応",
-   "summary": "半導体大手Marvellが光通信のLumentum Holdingsを約1150億ドルで買収することで合意した。AIデータセンターにおける急増する通信需要に対応し、半導体と光技術の融合により次世代接続技術の提供を目指す。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002830/",
-   "source": "ITmedia AI+",
-   "lang": "ja",
-   "date": "2026-11-03T07:07+09:00",
-   "title_ja": "Marvell、光通信のLumentumを約1150億ドルで買収　AIデータセンターの高速化を強化"
+   "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r…",
+   "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-03T22:10+09:00"
   },
   {
    "category": "startup",
@@ -189,39 +179,39 @@
   },
   {
    "category": "finance",
-   "title": "ニューヨーク外国為替市場概況･4時 ユーロ円、じり高(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-   "summary": "ニューヨーク外国為替市場概況･4時 ユーロ円、じり高(トレーダーズ・ウェブ) Yahoo!ファイナンス",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3QzbTVGWjUxRlFUa0tvTDBVVHUzVUZYb0xoYml1M0xwN3RFaS0wdlQxRmxtMkJVWlBLbkIwTGtPQ1BUMjhuUzNWeXB5aGdZLVlKNEh0a1RVbnFyamNQQUdJOFl1RndzM0pfVXg4S1BIY3JoQkZBSjBLQkh4WUprUnVlaU0xVWs?oc=5",
+   "title": "今日の為替市場ポイント:◆ユーロ編◆リスク選好的なユーロ買い・円売りはやや抑制される可能性 - みんかぶ",
+   "summary": "今日の為替市場ポイント:◆ユーロ編◆リスク選好的なユーロ買い・円売りはやや抑制される可能性 みんかぶ",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HcnIzRHgxeWR5RURzWm9TUEw1Mk5JN0NmLUVqWkVCU2o0akJNTmhLT0dQNVpZbDFpNzlYN1ExWFFIVkNmWHc?oc=5",
    "source": "Google News 市況",
    "lang": "ja",
-   "date": "2026-11-04T04:07+09:00"
+   "date": "2026-11-04T08:29+09:00"
   },
   {
    "category": "society",
-   "title": "JR山手線 外回り 運転再開",
-   "summary": "JR東日本によりますと、山手線の外回りは巣鴨駅の線路内で煙が確認されたとして始発から運転を見合わせていましたが、安全が確認されたため午前5時16分ごろに運転を再開しました。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261104de70098",
+   "title": "【動画】Pickup NEWS（11月4日）",
+   "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。 （データ放送では動画をご覧いただけません）",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70039",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-04T05:33+09:00"
+   "date": "2026-11-04T06:39+09:00"
   },
   {
    "category": "society",
-   "title": "アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票",
-   "summary": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は全米各地で投票が行われていて、一部の州では日本時間の午前8時から開票が始まります。与党・共和党が上下両院で多数派を維持するのか、野党…",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69983",
+   "title": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
+   "summary": "サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
    "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-04T05:54+09:00"
+   "date": "2026-11-04T08:18+09:00"
   },
   {
    "category": "world",
-   "title": "旧統一教会 ハン・ハクチャ総裁 指定の病院離れ保釈取り消し",
-   "summary": "韓国で政治資金法違反などの罪で実刑判決を受けた旧統一教会のトップ、ハン・ハクチャ（韓鶴子）総裁が、治療を理由に保釈されていたにもかかわらず指定された病院を離れて教団施設を訪れていたとして、裁判所は3日…",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70061",
+   "title": "中国とフィリピンの外相が電話会談 対話維持などで一致",
+   "summary": "南シナ海の領有権などをめぐり中国とフィリピンのあつれきが深まる中、両国の外相は3日、電話会談を行い、対話を維持することなどで一致しました。両国はともに今月中旬に国際会議を控えていて、これを前に関係安定…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261104de70095",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-03T22:12+09:00"
+   "date": "2026-11-04T07:41+09:00"
   },
   {
    "category": "world",
@@ -230,25 +220,25 @@
    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "lang": "en",
-   "date": "2026-11-04T05:56+09:00"
+   "date": "2026-11-04T07:45+09:00"
   },
   {
    "category": "science",
-   "title": "皇居で文化勲章の親授式",
-   "summary": "文化の日の3日、皇居で文化勲章の親授式が行われ、ことしのノーベル化学賞に選ばれた、そ※合憲三さんなどに天皇陛下から文化勲章が贈られました。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69927",
+   "title": "横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい",
+   "summary": "タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者4242件分の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70021",
    "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-03T14:40+09:00"
+   "date": "2026-11-03T19:15+09:00"
   },
   {
    "category": "science",
-   "title": "Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」",
-   "summary": "Appleの7月?9月期決算は、売上高が前年同期比12％増、純利益も12％増となり、共に同四半期の過去最高を記録した。通期でも過去最高を更新した。新CEOのジョン・ターナス氏による初の会見で、折りたたみ型「iPhone Duo」やAI戦略「Siri AI」の進捗を報告。次期も増収を見込む。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/03/2000002840/",
+   "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
+   "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
    "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-03T09:44+09:00"
+   "date": "2026-11-04T08:22+09:00"
   },
   {
    "category": "law",
@@ -261,12 +251,12 @@
   },
   {
    "category": "law",
-   "title": "マッチングアプリで知り合い、既婚者だと知らずに交際してい - 工藤 慎一郎弁護士が実際に解決した事例 - 弁護士ドットコム",
-   "summary": "マッチングアプリで知り合い、既婚者だと知らずに交際してい - 工藤 慎一郎弁護士が実際に解決した事例 弁護士ドットコム",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBoTXo5OUUzcktmV01ULXMwSm5vSkN2ZF8tRWw4SjhqVDRoRmt0ak01QWU4Q0ZGU3RLZmNEc2NQZnlkVjI1enZzLTYtdWI3QVJDWExLXzhNNVlQc1NWaFN2Q0hIU281Y2JzNVE?oc=5",
+   "title": "- 確定申告書等作成コーナー",
+   "summary": "確定申告書等作成コーナー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QzA2RFlCS25ncmVaOUY1b0UzSTFsSERNd3NsV2twY0htc05HMERlZUJLeTA4UjVySnF3VXhYaEI1eHhUVnF2ZHFYMUl3elBEbVRTa2syLUo?oc=5",
    "source": "弁護士ドットコム・国税庁",
    "lang": "ja",
-   "date": "2026-11-04T01:20+09:00"
+   "date": "2026-11-04T06:25+09:00"
   },
   {
    "category": "environment",
@@ -288,21 +278,21 @@
   },
   {
    "category": "work",
-   "title": "国立大学法人等の組織及び業務全般の見直し等に関するワーキンググループ 委員名簿 - 文部科学省",
-   "summary": "国立大学法人等の組織及び業務全般の見直し等に関するワーキンググループ 委員名簿 文部科学省",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vZURBQ2Y5dWFNeFFsZTZvX29OQzMyc2U1eklENUVhN3ROdjcxMGplR0JsbWExQWh3dW9hREJXNFlOU25BRUg0YnhnYXp0cmV6RG1ZQmFqS3V3YkpidmVpZ1Z3dkNPWE5yQXd0NlZXME5nNGxuVHJIQw?oc=5",
+   "title": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第77回） 配付資料 - 文部科学省",
+   "summary": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第77回） 配付資料 文部科学省",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdmJxNzdXbXpsdHh1OTZTTjRsU1A0UnhRdWRVS212QlVwcngzMkRiU0sybU5taHNEVjJOcE5uNUs5MndqRm1ScEdBWWh2T2duYzVSSkFXSVpubG9KRGNFOFd0REJ1U25IeGtqOFFZOWMzeWhGS3AtWXZSM0M2RkY2QWQzX2huMmF5SEZv?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-04T05:32+09:00"
+   "date": "2026-11-04T08:01+09:00"
   },
   {
    "category": "work",
-   "title": "「個人の学び」を「組織の成長」にどうつなげるか 絶え間ない変化に適応する「組織学習」の実践 - 日本の人事部",
-   "summary": "「個人の学び」を「組織の成長」にどうつなげるか 絶え間ない変化に適応する「組織学習」の実践 日本の人事部",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE53VThVVG5sNkdUWlFDNDhPbXNVS0RCVTFjTVk1d2xOM0Qza0hvXzNuT2pja0wyenNqUVg0dUdCbW12WmZaaEdIUGhlZGpBdVVpTEk1YlEybVQ3a2M?oc=5",
+   "title": "「ロボットをつくることは、人間を知ることだ」人と人をつなぐロボット研究の最前線～同志社大学 文化情報学部 飯尾 尊優 - 大学ジャーナルオンライン",
+   "summary": "「ロボットをつくることは、人間を知ることだ」人と人をつなぐロボット研究の最前線～同志社大学 文化情報学部 飯尾 尊優 大学ジャーナルオンライン",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vNEpYTVdnVUNCN2lxc09fSUtXemw3czlMT0hDNFBETTZXQVQwaC1hMTJPZ3BYSE9BQnpHMk42LUxmaV81WXozVHdBSXhwWEtjOE05UDNR?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-04T04:31+09:00"
+   "date": "2026-11-04T07:11+09:00"
   },
   {
    "category": "security",
@@ -315,12 +305,12 @@
   },
   {
    "category": "security",
-   "title": "「防災庁」発足で災害対応の“縦割り打破”…一方で「警察庁」サイドが渋い顔をする理由「これでまた担当大臣の格付けが落ちるのではないか」（デイリー新潮） - Yahoo!ニュース",
-   "summary": "「防災庁」発足で災害対応の“縦割り打破”…一方で「警察庁」サイドが渋い顔をする理由「これでまた担当大臣の格付けが落ちるのではないか」（デイリー新潮） Yahoo!ニュース",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJVGhPMEVuUU83M0NBZVdPZ2hySVV1ZEpaVHA0VFk2a2FGR1BXc1RSeWVVUl9lYXVCbUJnRUFXbDBLVHdtb3lyY0E0Wkw2NWRVMi1kRjR4OVh4TjJlWTFnQzRoQllGUHgxY3I4dm5GcTFGMUNfcmZSblZnbGp2ekk?oc=5",
+   "title": "平時から災害時までHub360で急性期病院の救急医療現場をシームレスに支援 - 清水建設",
+   "summary": "平時から災害時までHub360で急性期病院の救急医療現場をシームレスに支援 清水建設",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SMkExTENiYWVERnhPZlJ5Q3hnT2pBWjJXb1U3NHpJZnBJOXctTG1DSnpheXpuS1dkaDhtUThoY01xZE1HQWl2MmtRMEFSTVliZE9ZMi1PeDJkdC1vbnpTTjNUTVlCQ2NuTHBtbmY0emJwVDlsWk9R?oc=5",
    "source": "Google News 災害・防衛",
    "lang": "ja",
-   "date": "2026-11-04T06:11+09:00"
+   "date": "2026-11-04T08:30+09:00"
   }
  ]
 }
