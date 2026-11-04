@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T09:01+09:00",
+ "generated_at": "2026-11-04T09:26+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,103 +62,103 @@
  "items": [
   {
    "category": "medical",
-   "title": "歯科衛生士の業務のあり方等に関する検討会 中間報告",
-   "summary": "歯科衛生士の業務のあり方等に関する検討会から中間報告が公表された。今後の歯科医療体制や歯科衛生士の役割、業務範囲の明確化などに向けた検討状況が示されている。",
-   "link": "https://www.mhlw.go.jp/stf/shingi/newpage_77154.html",
-   "source": "厚生労働省",
-   "lang": "ja",
-   "date": "2026-11-02T17:06+09:00",
-   "title_ja": "歯科衛生士の業務のあり方等に関する検討会 中間報告"
-  },
-  {
-   "category": "medical",
    "title": "75歳以上高齢者医療、NISAは対象外 - 選挙ドットコム",
-   "summary": "75歳以上の後期高齢者医療制度における医療費の窓口負担割合の判定にあたり、NISAによる投資益等を対象外とする方針が取り上げられている。制度の運用基準や高齢者医療制度への影響が注目される。",
+   "summary": "75歳以上の後期高齢者医療制度において、NISA（少額投資非課税制度）による資産や運用益が医療費負担の算定対象外となることが示された。医療制度と税制優遇措置に関する報道である。",
    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uOXcxOWxuZndHbzIySk9Cdm1iM2R3aGoyWnpRRTBqMWw2MHRKaEtWY2lFcmU1ZjhoVHRmNkJRZmJYSV9HcTQ4VjhQRTlkZWZVcTBUOFVvdTdiNzdwOS1z?oc=5",
    "source": "Google News 診療報酬・医療制度",
    "lang": "ja",
    "date": "2026-11-04T08:03+09:00",
-   "title_ja": "75歳以上高齢者医療の負担算定でNISAは対象外に"
+   "title_ja": "75歳以上高齢者医療でNISAは対象外"
+  },
+  {
+   "category": "medical",
+   "title": "STAT+: Servier’s $1.55 billion muscular dystrophy drug fails first major test",
+   "summary": "仏製薬大手セルヴィエが開発を進めていた治療法のない型の筋ジストロフィー治療薬が、最初の主要な臨床試験で失敗した。15億5000万ドル規模の開発計画であり、予期せぬ挫折となった。",
+   "link": "https://www.statnews.com/2026/11/03/becker-muscular-dystrophy-servier-edgewise-sevasemten-fail/?utm_campaign=rss",
+   "source": "STAT",
+   "lang": "en",
+   "date": "2026-11-04T05:53+09:00",
+   "title_ja": "セルヴィエの筋ジストロフィー治療薬、初の主要試験で失敗"
   },
   {
    "category": "dental",
-   "title": "メタルフリーセラミックス市場、生体適合性インプラント需要と年率6.2%成長で2035年まで拡大へ - IndexBox",
-   "summary": "メタルフリーセラミックス市場が、生体適合性インプラントへの需要高まりにより年平均6.2%の成長率で2035年まで拡大する見込みであると分析レポートで示された。",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFVlZEdtRFNta2NxU3VDNU9pSFd4TWd0bXlCVFhsNzJydzZCSGQ5UkdnWnM0Mkx3OXZHODdTeEh0RFFCRnpjQTM5WkZBVGZBTDZsUTBzYjA4b203YUItdDE2UXRkY1RJakdjQm1mRWQwcG1UMDA5ZUJ3b2gxMlZHczdnWWEwZmtwVU1mTU1RQ2tmMmd6UHFURzFnczVTd3NLLTNIZnU4aDRJbjBwaUlyeGNvNEhzWmhOYXlXMnNWREczejVFMnc?oc=5",
-   "source": "Google News 歯科業界",
+   "title": "疑義解釈 - 歯科保険請求最新情報2026 - クインテッセンス出版",
+   "summary": "2026年の歯科診療報酬および保険請求に関する最新の疑義解釈が公開された。歯科医院における保険請求の正確な運用や解釈について重要な指針を示す内容となっている。",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5QN29JWjVCamZwNTk3LWNmbFY5TUpPeFROZTQ3a0lCYlVZcVVzQ2EwcFBNRDRxTlpvT3lWZGxfUW5vbGJhaHZQTkdHRUg0WGot?oc=5",
+   "source": "歯科専門(クインテッセンス・デンタルプラザ)",
    "lang": "ja",
-   "date": "2026-11-03T21:41+09:00",
-   "title_ja": "メタルフリーセラミックス市場、2035年に向け年率6.2%で拡大予想"
+   "date": "2026-11-03T19:14+09:00",
+   "title_ja": "2026年歯科保険請求の疑義解釈が発表"
   },
   {
    "category": "dental",
    "title": "Insights into the Dental Sterilization Market Emphasize Major Segments and Regional Expansion - openPR.com",
-   "summary": "歯科滅菌市場に関する新たな分析結果が公表された。市場における主要なセグメントの動向や、世界各地域における市場拡大の展望、主要企業の戦略的取り組みについてまとめられている。",
+   "summary": "歯科滅菌市場に関する調査分析が公開され、主要セグメントの動向や地域的な市場拡大が強調された。感染管理の重要性の高まりを背景に、滅菌機器や関連製品の需要が世界的に増加している。",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeURCaXdQLWVrSl9hSWRacUpwZHdNYVhjTW5yNnJ0RGZxNmhIdGJSb19Kd2duS0t4Z0FkNjBmdWs5a3prckdjVnBuSjZoRlhFYVA2QzdXX2xSSnRyNjFnV3B6RE1ybmFCbWRyVlpIRmlFSkN6a0kyQzBsdnVfcDExQmZNcDBhWHNOX1hpeEgyaXVzWkR5b0EwVTJEZW5FUQ?oc=5",
    "source": "Google News Dentistry",
    "lang": "en",
    "date": "2026-11-04T02:42+09:00",
-   "title_ja": "歯科滅菌市場の分析：主要セグメントと地域拡大が加速"
+   "title_ja": "歯科滅菌市場、主要セグメントと地域拡大が成長を牽引"
   },
   {
    "category": "business",
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "summary": "英国とEUは、ブレグジットに伴う食品輸出の複雑な手続きを削減するための協定案に合意した。今月末の首脳会談を前に、両国関係の「再構築」における重要な成果とみられている。",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "lang": "en",
-   "date": "2026-11-04T05:53+09:00",
-   "title_ja": "英とEU、食品輸出の貿易手続き簡素化に向けた協定案に合意"
-  },
-  {
-   "category": "business",
-   "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
-   "summary": "GMOペイメントの決済支援システムにて不正行為が発生し、「Vプリカ」情報69件が漏えいした。そのうち3件では番号に加えセキュリティコードや氏名等も漏えいした可能性がある。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+   "title": "[ITmedia News] Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
+   "summary": "Microsoftはメモリ8GBのWindows 11搭載PC向けパフォーマンス改善を発表した。メモリ圧縮の最適化やバックグラウンド処理の抑制により、マルチタスク処理が最大40％向上する。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
    "source": "ITmedia",
    "lang": "ja",
-   "date": "2026-11-04T08:22+09:00",
-   "title_ja": "GMOペイメントの決済支援システムで不正行為 Vプリカ情報漏えい"
+   "date": "2026-11-04T08:33+09:00",
+   "title_ja": "Microsoft、メモリ8GBのWindows 11 PCを高速化する改善を発表"
+  },
+  {
+   "category": "business",
+   "title": "インフラや防衛分野に向け国産AIの開発進む",
+   "summary": "AIの適用範囲が社会インフラや防衛分野へ広がる中、国内企業が基盤モデルから独自に開発する「国産AI」の取り組みが進んでいる。安全性やセキュリティ向上を見据えた技術開発が行われている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
+   "source": "NHK 経済",
+   "lang": "ja",
+   "date": "2026-11-04T07:19+09:00",
+   "title_ja": "インフラや防衛分野に向け国産AIの開発が加速"
   },
   {
    "category": "politics",
    "title": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
-   "summary": "食料品にかかる消費税の減税関連法案について、衆議院の委員会で審議が行われるとともに採決時期を巡る与野党間の調整が本格化している。与党の通過模索に対し野党側も対立姿勢を見せる。",
+   "summary": "食料品を対象とした消費税減税関連法案を巡り、衆議院委員会での審議とともに採決時期に向けた与野党の調整が本格化している。与党が早期通過を目指す一方、野党は審議の充実を求めている。",
    "link": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
    "source": "NHK 政治",
    "lang": "ja",
    "date": "2026-11-04T05:37+09:00",
-   "title_ja": "食料品の消費税減税法案を巡り与野党の調整が本格化"
+   "title_ja": "食料品の消費税減税法案、衆院通過に向け与野党の調整が本格化"
   },
   {
    "category": "politics",
    "title": "【独自】日本とベトナム、犯罪抑止へ新協定検討 ９日首脳会談で確認へ - 時事ドットコム",
-   "summary": "日本とベトナムの両国政府が、国際犯罪の抑止や捜査協力を目的とした新たな協定の締結を検討していることが判明した。9日に予定されている首脳会談にて確認される見通しである。",
+   "summary": "日本とベトナム両政府が、国際的な犯罪の抑止に向けた新たな協定の検討に入った。9日に予定されている両国首脳会談において具体化を確認し、協力体制の強化を目指す見通しである。",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGZXhTZUtmV2Fqb2JXaGJzNnZUd0w0dU95NXdDN0ROTlo5VEJ5SG9mc1B4dk04dWFha3pSWVJ6QVFBX3NTd2VibVFZTlRmWm9XWEV4dFJ6MmpObS1uY0xsVFFlbw?oc=5",
    "source": "Google News 政治",
    "lang": "ja",
    "date": "2026-11-04T07:58+09:00",
-   "title_ja": "日本とベトナム、犯罪抑止に向けた新協定を検討 首脳会談で確認へ"
+   "title_ja": "日本とベトナム、国際犯罪抑止に向けた新協定の締結を検討"
   },
   {
    "category": "ai",
    "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
-   "summary": "Googleは、K-12の生徒向けアカウントで「Gemini」などの生成AI機能を原則オフにすると発表。しかし検索のAI機能のみをオフにできない仕様が教育現場から批判されている。",
+   "summary": "Googleは幼稚園から高校生の生徒向けアカウントで「Gemini」などのAI機能を原則オフに決定。検索のAIのみを個別に無効化できない仕様のため、AIを禁止する学校では検索自体が利用不可となり批判の声もある。",
    "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
    "source": "ITmedia AI+",
    "lang": "ja",
    "date": "2026-11-04T07:31+09:00",
-   "title_ja": "Google、児童生徒向けアカウントでAI機能をデフォルト無効化へ"
+   "title_ja": "Google、児童・生徒向けアカウントでAI機能を原則オフに設定"
   },
   {
    "category": "ai",
-   "title": "How “reverse game theory” could keep AI agents in check",
-   "summary": "高度なAIモデルの安全性を担保するため、「逆ゲーム理論」を活用してルール遵守へのインセンティブを与えるシステム構築手法が提案された。AIの暴走を防ぐ新たな安全対策として注目される。",
-   "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-03T19:43+09:00",
-   "title_ja": "「逆ゲーム理論」を用いてAIエージェントの制御を図る手法が登場"
+   "title": "資料作成の「手直し地獄」がちょっと楽になる、Gemini新機能発表まとめ",
+   "summary": "Googleは、生成AI「Gemini」における資料作成の手直しや体裁調整の手間を削減する2つの新機能を発表した。資料作成作業の効率化と作業負担の軽減が期待されている。",
+   "link": "https://kn.itmedia.co.jp/kn/article/2611/04/2000002816/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "date": "2026-11-04T07:00+09:00",
+   "title_ja": "Google、資料作成を効率化するGeminiの新機能を発表"
   },
   {
    "category": "startup",
@@ -189,30 +189,30 @@
   },
   {
    "category": "finance",
-   "title": "今日の為替市場ポイント:◆ユーロ編◆リスク選好的なユーロ買い・円売りはやや抑制される可能性 - みんかぶ",
-   "summary": "今日の為替市場ポイント:◆ユーロ編◆リスク選好的なユーロ買い・円売りはやや抑制される可能性 みんかぶ",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1HcnIzRHgxeWR5RURzWm9TUEw1Mk5JN0NmLUVqWkVCU2o0akJNTmhLT0dQNVpZbDFpNzlYN1ExWFFIVkNmWHc?oc=5",
+   "title": "日経平均寄り付き：前日比108.70円安の62973.16円(フィスコ) - Yahoo!ファイナンス",
+   "summary": "日経平均寄り付き：前日比108.70円安の62973.16円(フィスコ) Yahoo!ファイナンス",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdE9DZnVWMFpubWVBbWllTEszY3pjMGk1bGpaVXlBRnNLWDZtNUM3UTJ6YTJpUzdUNHVXTzg2ZFV4dG9mWmNzb19adUNrbHlFNVBEbkROdklEYnhaS2NRWGJHR0dzTXM4aFNlanoxdGVKWTFtRG1McU5ZOV9QbWdhN1lTZTBlV1E?oc=5",
    "source": "Google News 市況",
    "lang": "ja",
-   "date": "2026-11-04T08:29+09:00"
+   "date": "2026-11-04T09:06+09:00"
   },
   {
    "category": "society",
-   "title": "【動画】Pickup NEWS（11月4日）",
-   "summary": "これまでに入っているニュースを、まとめて1分の動画でお伝えします。 （データ放送では動画をご覧いただけません）",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70039",
+   "title": "東武東上線 池袋～和光市の上下線 運転見合わせ",
+   "summary": "東武鉄道によりますと、東武東上線は中板橋駅近くの踏切で乗用車が脱輪したため、午前8時20分ごろから池袋駅と和光市駅の間の上下線で運転を見合わせています。運転再開の見込みはたっていないということです。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261104de70131",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-04T06:39+09:00"
+   "date": "2026-11-04T09:06+09:00"
   },
   {
    "category": "society",
-   "title": "暗号資産大手が報告書 偽面接やAIツールでシステムに侵入",
-   "summary": "サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261104de70104",
+   "title": "アメリカ中間選挙 上院 バージニア州は民主党【随時更新】",
+   "summary": "トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は、一部の州で開票が始まりました。 連邦議会の上院ではこれまでに南部バージニア州で野党・民主党が議席の獲得を確実にし、100議席のうち…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261103de69965",
    "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-04T08:18+09:00"
+   "date": "2026-11-04T09:16+09:00"
   },
   {
    "category": "world",
@@ -225,12 +225,12 @@
   },
   {
    "category": "world",
-   "title": "Spanish transport minister resigns days after deadly train crash",
-   "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
-   "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+   "title": "ANC under pressure to reverse South Africa decline",
+   "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+   "link": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "lang": "en",
-   "date": "2026-11-04T07:45+09:00"
+   "date": "2026-11-04T09:03+09:00"
   },
   {
    "category": "science",
@@ -243,39 +243,39 @@
   },
   {
    "category": "science",
-   "title": "GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
-   "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
+   "title": "Microsoft、メモリ8GBのWindows 11 PCを高速化 マルチタスク処理は最大40％向上",
+   "summary": "Microsoftは、メモリ容量8GBの「Windows 11」搭載PCを対象としたパフォーマンス改善を発表した。メモリ圧縮の最適化やバックグラウンド処理の抑制により、操作の応答速度やマルチタスク処理が大幅に向上する。これらの改善を利用するには、Windows 11バージョン26H2のビルド26300.9818以降に更新する必要がある。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002851/",
    "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-04T08:22+09:00"
+   "date": "2026-11-04T08:33+09:00"
   },
   {
    "category": "law",
-   "title": "栄養士法施行規則の一部を改正する省令案に関する御意見の募集について",
-   "summary": "案の公示日：2026/11/03 受付締切日時：2026/12/03 00:00 カテゴリー：厚生 問合せ先（所管省庁・部局名等）：厚生労働省健康・生活衛生局健康課 代表番号：03-5253-1111（内線8125）",
-   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=495260248&Mode=0",
+   "title": "「肥料に係る安定供給確保を図るための取組方針の一部改正（案）」についての意見及び情報の募集について",
+   "summary": "案の公示日：2026/11/04 受付締切日時：2026/12/03 23:59 カテゴリー：農業 問合せ先（所管省庁・部局名等）：農林水産省農産局農産政策部 技術普及課 電話：03-3502-8111（内線4766）",
+   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004441&Mode=0",
    "source": "パブリックコメント(e-Gov)",
    "lang": "ja",
-   "date": "2026-11-03T00:00+09:00"
+   "date": "2026-11-04T00:00+09:00"
   },
   {
    "category": "law",
-   "title": "わたしたちのくらしと税金 - 国税庁",
-   "summary": "わたしたちのくらしと税金 国税庁",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVFTd0x6MmtPTHNxbGc1THBwY2dZaDB4ekF5d0tYazR5Z1laMDZJLVZCZWVqRlFwZEs2VDYyN3FrcVdubjJPRTVZamxrNGFCNjNmY2xES3ZDejVoVDV5clFBVVFvS2lzVkJlWGRaNkw5dkFHZERpanFxZGFYcENHQ09BYmFGTDNxallQVzlyeTlRQQ?oc=5",
+   "title": "- 確定申告書等作成コーナー",
+   "summary": "確定申告書等作成コーナー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QzA2RFlCS25ncmVaOUY1b0UzSTFsSERNd3NsV2twY0htc05HMERlZUJLeTA4UjVySnF3VXhYaEI1eHhUVnF2ZHFYMUl3elBEbVRTa2syLUo?oc=5",
    "source": "国税庁・法務省・個人情報保護委員会",
    "lang": "ja",
-   "date": "2026-11-04T05:51+09:00"
+   "date": "2026-11-04T06:25+09:00"
   },
   {
    "category": "environment",
-   "title": "嗅覚測定法の見直しについて（案） 資料３ - 環境省",
-   "summary": "嗅覚測定法の見直しについて（案） 資料３ 環境省",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wVVNZZTVNczNjY0c3OFFBVmlOLUhTMG1SanVEN0l5TTljUlpUY0J5Z3UzeEtqT3psWC1xOEtPU05rUVBJWGFuaEw4bUZnZkVVcjJYTlRR?oc=5",
+   "title": "「3つのC」でリチウムイオン電池の火災を防ぐ - 環境省",
+   "summary": "「3つのC」でリチウムイオン電池の火災を防ぐ 環境省",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1VdlJuX3ZTanlfSXZ2dDRpZlJiOG5vMnVTbnN5ZUE0NjZOMlFodjY2c2FKWHBaNWh6MGRnSjl4T09Xb3NCaEtMZGUwWlhVSmRyUjh3YTYxa0t3Z1NwbXc5aEtBSDR6ODR1ZF9TRnlDQQ?oc=5",
    "source": "環境省・資源エネルギー庁",
    "lang": "ja",
-   "date": "2026-11-04T03:22+09:00"
+   "date": "2026-11-04T09:00+09:00"
   },
   {
    "category": "environment",
@@ -288,12 +288,12 @@
   },
   {
    "category": "work",
-   "title": "ランボルギーニは、いかにDNAを守りながら未来をつくるのか５ - 日本の人事部",
-   "summary": "ランボルギーニは、いかにDNAを守りながら未来をつくるのか５ 日本の人事部",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjZDRlYm9aVjkxcjlvRFNyN2c3SDAxWkZnV0NmaGVkazVpdzZOUnpweFBxSTVxNE1HUG82RmZCUlprQkIyOFp1OGtyTjd1VW9tOWNTQ1JjTHV2NWc?oc=5",
+   "title": "従業員の介護に企業はどう向き合うべきか ワーキングケアラー支援の最前線 - 日本の人事部",
+   "summary": "従業員の介護に企業はどう向き合うべきか ワーキングケアラー支援の最前線 日本の人事部",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE82TkJxOG0zaUJocTU3bXJ3TGxmaXFGS3ZwV3pqU2g2ZVE4bVdvMnZVVmJqUEZWeElZcVBqYmNVcWNZUjhIeUhBdGE2ZVpvVWdo?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-04T08:25+09:00"
+   "date": "2026-11-04T08:32+09:00"
   },
   {
    "category": "work",
@@ -315,12 +315,12 @@
   },
   {
    "category": "security",
-   "title": "ＧＭＯ、対策軽視が浮き彫り＝脆弱性露呈、乏しい原因説明 - リスク対策.com",
-   "summary": "ＧＭＯ、対策軽視が浮き彫り＝脆弱性露呈、乏しい原因説明 リスク対策.com",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNDF3R1ZJWUxBN2RhMmthQXFzSHQ2enh0RVMzeDFMaGdIN1V6enZ3RWU3UmJMZllqeldVNW9KcXVJVEtNZlNPNWJuY2ZDazNuTWFGaEtwb2U?oc=5",
+   "title": "欧州でスーパーにサイバー攻撃 スウェーデンで冷凍庫50℃に ベルギー、ドイツでも - テレ朝NEWS",
+   "summary": "欧州でスーパーにサイバー攻撃 スウェーデンで冷凍庫50℃に ベルギー、ドイツでも テレ朝NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nRktiSlNiQ2VxNzQwWXkwb21xeUxKM3NzMVFDLVNjd2NISTN6b1VVaTZOX1Zkd0RVZGUtZWthQjg0VVE5YmxSN29TMTU2aHA2UnVMSzFmanhZbjNVd3FQZE1SNFBVR0QyT09hSUZJY0tKUU9SajVBWXZ3?oc=5",
    "source": "Google News 災害・防衛",
    "lang": "ja",
-   "date": "2026-11-04T08:48+09:00"
+   "date": "2026-11-04T09:13+09:00"
   }
  ]
 }
