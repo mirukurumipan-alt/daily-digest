@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-04T08:41+09:00",
- "ai_summary": false,
+ "generated_at": "2026-11-04T09:01+09:00",
+ "ai_summary": true,
  "categories": [
   {
    "id": "medical",
@@ -62,93 +62,103 @@
  "items": [
   {
    "category": "medical",
-   "title": "車中待機指示中に容態悪化で対処も「運良く救命できただけ」 - m3.com",
-   "summary": "車中待機指示中に容態悪化で対処も「運良く救命できただけ」 m3.com",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ndUpMLWQzdkQ1elZiWmZxd1lfQWM2ci0zSG5YckdlQWU2RVBnQTlEdkZ2RDJPWlVfemNtZzRmaTdhbGhjc0VUMERISnBaWlRlS1E?oc=5",
-   "source": "m3・MT・医事新報",
-   "lang": "ja",
-   "date": "2026-11-04T06:11+09:00"
-  },
-  {
-   "category": "medical",
    "title": "歯科衛生士の業務のあり方等に関する検討会 中間報告",
-   "summary": "",
+   "summary": "歯科衛生士の業務のあり方等に関する検討会から中間報告が公表された。今後の歯科医療体制や歯科衛生士の役割、業務範囲の明確化などに向けた検討状況が示されている。",
    "link": "https://www.mhlw.go.jp/stf/shingi/newpage_77154.html",
    "source": "厚生労働省",
    "lang": "ja",
-   "date": "2026-11-02T17:06+09:00"
+   "date": "2026-11-02T17:06+09:00",
+   "title_ja": "歯科衛生士の業務のあり方等に関する検討会 中間報告"
   },
   {
-   "category": "dental",
-   "title": "日本歯科審美学会、第37回学術大会を開催 - クインテッセンス出版",
-   "summary": "日本歯科審美学会、第37回学術大会を開催 クインテッセンス出版",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VQ3VhZzh6VmdFQnAyMVZzdVB0Z0ltbXpNREtzOEwxbzdUNDRyMWx2UGVJU2F3S2RuTTRXUWZTWlZYenNKd1N4YlNjZkZ3OF9IblZBdjExb0Y2UQ?oc=5",
-   "source": "歯科専門(クインテッセンス・デンタルプラザ)",
+   "category": "medical",
+   "title": "75歳以上高齢者医療、NISAは対象外 - 選挙ドットコム",
+   "summary": "75歳以上の後期高齢者医療制度における医療費の窓口負担割合の判定にあたり、NISAによる投資益等を対象外とする方針が取り上げられている。制度の運用基準や高齢者医療制度への影響が注目される。",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uOXcxOWxuZndHbzIySk9Cdm1iM2R3aGoyWnpRRTBqMWw2MHRKaEtWY2lFcmU1ZjhoVHRmNkJRZmJYSV9HcTQ4VjhQRTlkZWZVcTBUOFVvdTdiNzdwOS1z?oc=5",
+   "source": "Google News 診療報酬・医療制度",
    "lang": "ja",
-   "date": "2026-11-02T17:57+09:00"
+   "date": "2026-11-04T08:03+09:00",
+   "title_ja": "75歳以上高齢者医療の負担算定でNISAは対象外に"
   },
   {
    "category": "dental",
-   "title": "「患者さんから信頼される歯科医師に」歯科医療で震災時の支援活動にも貢献 元宮城県歯科医師会長に旭日小綬章 - TBS NEWS DIG",
-   "summary": "「患者さんから信頼される歯科医師に」歯科医療で震災時の支援活動にも貢献 元宮城県歯科医師会長に旭日小綬章 TBS NEWS DIG",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM09rb0tpMG5oeVFIa0NUbjZNS09HU1drRjlXQVloejBuNWNTOERtbzl0N1QyRnFlVjk5TjNDQTJpTlFiVHc1X3ZaMnZxbTlmYk5MMVZpWEFlblNtN3ZIenR5X1VLaG1ZWlVjeURzZzdGMHlaNmpXN29TWUJUamE0dkwzTzRFUDJndUVJN0VGTTBuY2RrcWw1S1ZIZ210N0ZibHdJZmxLQVlYUER5cU1TX2s5M0VlcTdxcFg1YTZmZk5qMkctTXlOcUdWRWJqSVpKWHVfREdscl9XWk44S3VRTGx0NWU2UF94MFNiLXN1VGFZc0FsYXc?oc=5",
+   "title": "メタルフリーセラミックス市場、生体適合性インプラント需要と年率6.2%成長で2035年まで拡大へ - IndexBox",
+   "summary": "メタルフリーセラミックス市場が、生体適合性インプラントへの需要高まりにより年平均6.2%の成長率で2035年まで拡大する見込みであると分析レポートで示された。",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFVlZEdtRFNta2NxU3VDNU9pSFd4TWd0bXlCVFhsNzJydzZCSGQ5UkdnWnM0Mkx3OXZHODdTeEh0RFFCRnpjQTM5WkZBVGZBTDZsUTBzYjA4b203YUItdDE2UXRkY1RJakdjQm1mRWQwcG1UMDA5ZUJ3b2gxMlZHczdnWWEwZmtwVU1mTU1RQ2tmMmd6UHFURzFnczVTd3NLLTNIZnU4aDRJbjBwaUlyeGNvNEhzWmhOYXlXMnNWREczejVFMnc?oc=5",
    "source": "Google News 歯科業界",
    "lang": "ja",
-   "date": "2026-11-03T22:03+09:00"
+   "date": "2026-11-03T21:41+09:00",
+   "title_ja": "メタルフリーセラミックス市場、2035年に向け年率6.2%で拡大予想"
+  },
+  {
+   "category": "dental",
+   "title": "Insights into the Dental Sterilization Market Emphasize Major Segments and Regional Expansion - openPR.com",
+   "summary": "歯科滅菌市場に関する新たな分析結果が公表された。市場における主要なセグメントの動向や、世界各地域における市場拡大の展望、主要企業の戦略的取り組みについてまとめられている。",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeURCaXdQLWVrSl9hSWRacUpwZHdNYVhjTW5yNnJ0RGZxNmhIdGJSb19Kd2duS0t4Z0FkNjBmdWs5a3prckdjVnBuSjZoRlhFYVA2QzdXX2xSSnRyNjFnV3B6RE1ybmFCbWRyVlpIRmlFSkN6a0kyQzBsdnVfcDExQmZNcDBhWHNOX1hpeEgyaXVzWkR5b0EwVTJEZW5FUQ?oc=5",
+   "source": "Google News Dentistry",
+   "lang": "en",
+   "date": "2026-11-04T02:42+09:00",
+   "title_ja": "歯科滅菌市場の分析：主要セグメントと地域拡大が加速"
+  },
+  {
+   "category": "business",
+   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "summary": "英国とEUは、ブレグジットに伴う食品輸出の複雑な手続きを削減するための協定案に合意した。今月末の首脳会談を前に、両国関係の「再構築」における重要な成果とみられている。",
+   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "lang": "en",
+   "date": "2026-11-04T05:53+09:00",
+   "title_ja": "英とEU、食品輸出の貿易手続き簡素化に向けた協定案に合意"
   },
   {
    "category": "business",
    "title": "[ITmedia News] GMOペイメント、決済支援システムで「不正なユーザーによる行為」 「Vプリカ」69件漏えい、3件はセキュリティコードも",
-   "summary": "3件は、クレジットカード番号に相当する「Vプリカ番号」（16桁）と、専用のセキュリティコード、有効期限、氏名がそろって盗み取られた可能性がある。",
+   "summary": "GMOペイメントの決済支援システムにて不正行為が発生し、「Vプリカ」情報69件が漏えいした。そのうち3件では番号に加えセキュリティコードや氏名等も漏えいした可能性がある。",
    "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002850/",
    "source": "ITmedia",
    "lang": "ja",
-   "date": "2026-11-04T08:22+09:00"
-  },
-  {
-   "category": "business",
-   "title": "インフラや防衛分野に向け国産AIの開発進む",
-   "summary": "AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261103de70059",
-   "source": "NHK 経済",
-   "lang": "ja",
-   "date": "2026-11-04T07:19+09:00"
+   "date": "2026-11-04T08:22+09:00",
+   "title_ja": "GMOペイメントの決済支援システムで不正行為 Vプリカ情報漏えい"
   },
   {
    "category": "politics",
    "title": "消費税減税法案 採決時期などめぐり与野党の調整本格化へ",
-   "summary": "食料品の消費税減税関連法案は4日も衆議院の委員会で審議が続くとともに、与野党の日程協議が行われる見通しです。与党側が衆議院の通過に向けて採決の時期を探ることにしているのに対し、野党側は高市総理大臣の委…",
+   "summary": "食料品にかかる消費税の減税関連法案について、衆議院の委員会で審議が行われるとともに採決時期を巡る与野党間の調整が本格化している。与党の通過模索に対し野党側も対立姿勢を見せる。",
    "link": "https://news.web.nhk/newsweb/na/nd-20261103de70058",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-04T05:37+09:00"
+   "date": "2026-11-04T05:37+09:00",
+   "title_ja": "食料品の消費税減税法案を巡り与野党の調整が本格化"
   },
   {
    "category": "politics",
    "title": "【独自】日本とベトナム、犯罪抑止へ新協定検討 ９日首脳会談で確認へ - 時事ドットコム",
-   "summary": "【独自】日本とベトナム、犯罪抑止へ新協定検討 ９日首脳会談で確認へ 時事ドットコム Google ニュースで見出しと意見をもっと見る",
+   "summary": "日本とベトナムの両国政府が、国際犯罪の抑止や捜査協力を目的とした新たな協定の締結を検討していることが判明した。9日に予定されている首脳会談にて確認される見通しである。",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGZXhTZUtmV2Fqb2JXaGJzNnZUd0w0dU95NXdDN0ROTlo5VEJ5SG9mc1B4dk04dWFha3pSWVJ6QVFBX3NTd2VibVFZTlRmWm9XWEV4dFJ6MmpObS1uY0xsVFFlbw?oc=5",
    "source": "Google News 政治",
    "lang": "ja",
-   "date": "2026-11-04T07:58+09:00"
+   "date": "2026-11-04T07:58+09:00",
+   "title_ja": "日本とベトナム、犯罪抑止に向けた新協定を検討 首脳会談で確認へ"
   },
   {
    "category": "ai",
    "title": "Google、学校の生徒向けAI機能を原則オフへ 「AIなしのGoogle検索」は選べず批判も",
-   "summary": "Googleは、K-12（幼稚園から高校まで）の生徒向けアカウントで生成AI「Gemini」や「Google検索」などを原則オフにすると発表した。管理者が有効化できるが、検索のAI機能のみを無効にはできず、AIを禁じる学校では検索自体が利用不可となる点が批判を集めている。",
+   "summary": "Googleは、K-12の生徒向けアカウントで「Gemini」などの生成AI機能を原則オフにすると発表。しかし検索のAI機能のみをオフにできない仕様が教育現場から批判されている。",
    "link": "https://www.itmedia.co.jp/news/article/2611/04/2000002849/",
    "source": "ITmedia AI+",
    "lang": "ja",
-   "date": "2026-11-04T07:31+09:00"
+   "date": "2026-11-04T07:31+09:00",
+   "title_ja": "Google、児童生徒向けアカウントでAI機能をデフォルト無効化へ"
   },
   {
    "category": "ai",
-   "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-   "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “r…",
-   "link": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "summary": "高度なAIモデルの安全性を担保するため、「逆ゲーム理論」を活用してルール遵守へのインセンティブを与えるシステム構築手法が提案された。AIの暴走を防ぐ新たな安全対策として注目される。",
+   "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
    "source": "MIT Technology Review",
    "lang": "en",
-   "date": "2026-11-03T22:10+09:00"
+   "date": "2026-11-03T19:43+09:00",
+   "title_ja": "「逆ゲーム理論」を用いてAIエージェントの制御を図る手法が登場"
   },
   {
    "category": "startup",
@@ -251,12 +261,12 @@
   },
   {
    "category": "law",
-   "title": "- 確定申告書等作成コーナー",
-   "summary": "確定申告書等作成コーナー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QzA2RFlCS25ncmVaOUY1b0UzSTFsSERNd3NsV2twY0htc05HMERlZUJLeTA4UjVySnF3VXhYaEI1eHhUVnF2ZHFYMUl3elBEbVRTa2syLUo?oc=5",
-   "source": "弁護士ドットコム・国税庁",
+   "title": "わたしたちのくらしと税金 - 国税庁",
+   "summary": "わたしたちのくらしと税金 国税庁",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVFTd0x6MmtPTHNxbGc1THBwY2dZaDB4ekF5d0tYazR5Z1laMDZJLVZCZWVqRlFwZEs2VDYyN3FrcVdubjJPRTVZamxrNGFCNjNmY2xES3ZDejVoVDV5clFBVVFvS2lzVkJlWGRaNkw5dkFHZERpanFxZGFYcENHQ09BYmFGTDNxallQVzlyeTlRQQ?oc=5",
+   "source": "国税庁・法務省・個人情報保護委員会",
    "lang": "ja",
-   "date": "2026-11-04T06:25+09:00"
+   "date": "2026-11-04T05:51+09:00"
   },
   {
    "category": "environment",
@@ -278,21 +288,21 @@
   },
   {
    "category": "work",
+   "title": "ランボルギーニは、いかにDNAを守りながら未来をつくるのか５ - 日本の人事部",
+   "summary": "ランボルギーニは、いかにDNAを守りながら未来をつくるのか５ 日本の人事部",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjZDRlYm9aVjkxcjlvRFNyN2c3SDAxWkZnV0NmaGVkazVpdzZOUnpweFBxSTVxNE1HUG82RmZCUlprQkIyOFp1OGtyTjd1VW9tOWNTQ1JjTHV2NWc?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-04T08:25+09:00"
+  },
+  {
+   "category": "work",
    "title": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第77回） 配付資料 - 文部科学省",
    "summary": "宇宙開発利用部会 国際宇宙ステーション・国際宇宙探査小委員会（第77回） 配付資料 文部科学省",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdmJxNzdXbXpsdHh1OTZTTjRsU1A0UnhRdWRVS212QlVwcngzMkRiU0sybU5taHNEVjJOcE5uNUs5MndqRm1ScEdBWWh2T2duYzVSSkFXSVpubG9KRGNFOFd0REJ1U25IeGtqOFFZOWMzeWhGS3AtWXZSM0M2RkY2QWQzX2huMmF5SEZv?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
    "date": "2026-11-04T08:01+09:00"
-  },
-  {
-   "category": "work",
-   "title": "「ロボットをつくることは、人間を知ることだ」人と人をつなぐロボット研究の最前線～同志社大学 文化情報学部 飯尾 尊優 - 大学ジャーナルオンライン",
-   "summary": "「ロボットをつくることは、人間を知ることだ」人と人をつなぐロボット研究の最前線～同志社大学 文化情報学部 飯尾 尊優 大学ジャーナルオンライン",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vNEpYTVdnVUNCN2lxc09fSUtXemw3czlMT0hDNFBETTZXQVQwaC1hMTJPZ3BYSE9BQnpHMk42LUxmaV81WXozVHdBSXhwWEtjOE05UDNR?oc=5",
-   "source": "文科省・大学ジャーナル・人事",
-   "lang": "ja",
-   "date": "2026-11-04T07:11+09:00"
   },
   {
    "category": "security",
@@ -305,12 +315,12 @@
   },
   {
    "category": "security",
-   "title": "平時から災害時までHub360で急性期病院の救急医療現場をシームレスに支援 - 清水建設",
-   "summary": "平時から災害時までHub360で急性期病院の救急医療現場をシームレスに支援 清水建設",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1SMkExTENiYWVERnhPZlJ5Q3hnT2pBWjJXb1U3NHpJZnBJOXctTG1DSnpheXpuS1dkaDhtUThoY01xZE1HQWl2MmtRMEFSTVliZE9ZMi1PeDJkdC1vbnpTTjNUTVlCQ2NuTHBtbmY0emJwVDlsWk9R?oc=5",
+   "title": "ＧＭＯ、対策軽視が浮き彫り＝脆弱性露呈、乏しい原因説明 - リスク対策.com",
+   "summary": "ＧＭＯ、対策軽視が浮き彫り＝脆弱性露呈、乏しい原因説明 リスク対策.com",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MNDF3R1ZJWUxBN2RhMmthQXFzSHQ2enh0RVMzeDFMaGdIN1V6enZ3RWU3UmJMZllqeldVNW9KcXVJVEtNZlNPNWJuY2ZDazNuTWFGaEtwb2U?oc=5",
    "source": "Google News 災害・防衛",
    "lang": "ja",
-   "date": "2026-11-04T08:30+09:00"
+   "date": "2026-11-04T08:48+09:00"
   }
  ]
 }
