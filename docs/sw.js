@@ -1,5 +1,5 @@
-const CACHE = "digest-v1";
-const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.json", "icon.svg"];
+const CACHE = "digest-v2";
+const SHELL = ["./", "index.html", "style.css", "app.js", "manifest.json", "icons/icon-192.png", "icons/apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL))));
 self.addEventListener("activate", (e) =>
