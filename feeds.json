@@ -9,8 +9,8 @@
    "name": "医療・診療報酬",
    "feeds": [
     {
-     "name": "m3・MT・医事新報",
-     "url": "https://news.google.com/rss/search?q=site%3Am3.com%20OR%20site%3Amedical-tribune.co.jp%20OR%20site%3Ajmedj.co.jp%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja",
+     "name": "MT・日本医事新報",
+     "url": "https://news.google.com/rss/search?q=site%3Amedical-tribune.co.jp%20OR%20site%3Ajmedj.co.jp%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja",
      "lang": "ja",
      "max_age_hours": 96
     },
