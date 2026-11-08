@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T06:14+09:00",
+ "generated_at": "2026-11-09T06:16+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,183 +62,193 @@
  "items": [
   {
    "category": "medical",
-   "title": "STAT+: BIO joins the legal fight against Medicare pilot that ties drug prices to peer countries",
-   "summary": "米バイオテクノロジーイノベーション協会（BIO）は、メディケアの薬価を類似国の価格に連動させる試験的プログラムに対する訴訟に加わった。このモデルはトランプ氏の最恵国待遇方針を試すものだが、影響は限定的と見られている。",
-   "link": "https://www.statnews.com/2026/11/07/bio-sues-to-block-globe-drug-pricing-model/?utm_campaign=rss",
-   "source": "STAT",
-   "lang": "en",
-   "date": "2026-11-08T01:57+09:00",
-   "title_ja": "米BIO、他国薬価連動のメディケア試験導入に法的対抗へ"
+   "title": "2028年度診療報酬改定に向けた入院・外来調査の内容を決定、急性期A・Bのハードルなどを詳しく把握—中医協総会 - GemMed",
+   "summary": "中医協総会にて、2028年度の診療報酬改定に向けた入院および外来調査の内容が決定されました。急性期一般入院料AやBの要件ハードルなどを詳細に把握するための調査が実施される見通しです。",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB0TFdfbGdwVHpKTlRBVEJnR1dHZUt2ekx3UGo0cDQwV0VfcDRXWUtEQVF0YkpDdkg1bG1hSmgwN1psT0ZQSHlCaA?oc=5",
+   "source": "Google News 診療報酬・医療制度",
+   "lang": "ja",
+   "date": "2026-11-09T05:27+09:00",
+   "title_ja": "2028年度診療報酬改定に向けた入院・外来調査内容を決定 中医協総会"
   },
   {
    "category": "medical",
-   "title": "Judge sides with ACA brokers, lifts moratorium on new registrations",
-   "summary": "米連邦判事は、CMSが不正対策として実施した医療保険制度ACAの仲介業者新規登録停止に対し、業者側に回復不能な損害を与えるとの主張を認め、一時差し止めを命令した。これにより新規仲介業者の業務開始に向けた道が開かれた。",
-   "link": "https://www.healthcaredive.com/news/judge-sides-with-aca-brokers-lifts-moratorium-on-new-registrations/873994/",
-   "source": "Healthcare Dive",
+   "title": "STAT+: Why the latest heart drug failures should make us all more skeptical of AI hype",
+   "summary": "創薬研究を加速させると期待された最新技術が再び期待外れの結果に終わっています。直近における心臓病治療薬の臨床試験失敗を受け、過熱するAI創薬ブームに対してより慎重な姿勢を持つべきとの指摘が出ています。",
+   "link": "https://www.statnews.com/2026/11/08/heart-drug-failures-lessons-for-artificial-intelligence-from-aha-conference/?utm_campaign=rss",
+   "source": "STAT",
    "lang": "en",
-   "date": "2026-11-07T00:22+09:00",
-   "title_ja": "米連邦判事、ACA仲介業者の新規登録停止措置を解除"
+   "date": "2026-11-08T18:30+09:00",
+   "title_ja": "相次ぐ心臓病薬の開発失敗が示す創薬AIブームへの警鐘"
   },
   {
-   "category": "dental",
-   "title": "Ceramic Fused to Metal Market Forecast to 2035, Driven by Aging Dental Demographics and Aerospace Demand - IndexBox",
-   "summary": "IndexBoxの調査によると、陶材焼付鋳造冠（メタルボンド）市場は、歯科分野における高齢化人口の増加と航空宇宙分野の需要拡大を背景に、2035年に向けて成長が予測されている。",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUk04ZVNuQUFXQ3FQSHJ3U0ZnNllPUW41TnlyTVlDbVJFYjIydHFEMU9FZW9JOTdHZGRRLWR5MENnRnNnWlVqNlQwMnZEOUxZczdRTjBSTEJnNHFhXy1YaVJwek9RV01rd3JnYUktR3VtZzJXTFBtX094MzJIeV96YzJjTVBvTnJvTEREOWNKd2dUZTgzWVE0cWtjblg5QmstOGtkQmIzaUM5cnh5dHU5Qkg5RURvazNZZ3Z0Y0Nibk42TU5CZ2lld2VvZlRkQQ?oc=5",
-   "source": "Google News Dentistry",
-   "lang": "en",
-   "date": "2026-11-08T01:01+09:00",
-   "title_ja": "メタルボンド市場予測、歯科高齢化と航空宇宙需要で2035年まで成長"
+   "category": "business",
+   "title": "米ハイテク株不安定な値動き続くか データセンター規制懸念で",
+   "summary": "米中間選挙の結果を受け、AIやデータセンターに対する規制強化への懸念からナスダック指数が急落するなど、米ハイテク株が不安定な値動きを見せています。今後の政策動向がテクノロジー市場に及ぼす影響が警戒されています。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261109de72637",
+   "source": "NHK 経済",
+   "lang": "ja",
+   "date": "2026-11-09T00:46+09:00",
+   "title_ja": "データセンター規制への警戒感で米ハイテク株に不安定な値動き"
   },
   {
    "category": "politics",
-   "title": "台湾有事発言1年 対話の糸口探る日本政府 日中の影響は?",
-   "summary": "台湾有事を巡る高市総理大臣の国会答弁から1年が経過した。冷え込んだ日中関係の改善には時間がかかるとの見方が多い中、日本政府は国際会議などの機会を通じて対話の糸口を探っている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261106de71967",
+   "title": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+   "summary": "食料品に対する消費税減税関連法案が11日に参議院で審議入りします。参議院で与党が少数派となる中、早期成立を目指す政府・与党に対し、野党側は自らの要求を反映させる構えで、活発な論戦が見込まれます。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72622",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-07T19:31+09:00",
-   "title_ja": "首相の台湾有事答弁から1年、政府は日中対話の糸口を模索"
+   "date": "2026-11-09T05:04+09:00",
+   "title_ja": "食料品の消費税減税法案が参院で審議入り 与野党の攻防が本格化"
   },
   {
    "category": "politics",
-   "title": "自民党執行部 石破氏らに文書で説明要請 消費税法案採決退席で",
-   "summary": "食料品の消費税減税関連法案の衆議院本会議採決前に自民党の石破前総理大臣ら4人が退席した事態を受け、党執行部は看過できないとして文書での説明を求めた。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261107de72136",
+   "title": "きょう日越首脳会談 重要鉱物や原子力連携などで共同声明調整",
+   "summary": "高市総理大臣はベトナムのトー・ラム共産党書記長と首脳会談を行います。両国は重要鉱物のサプライチェーン強靭化や原子力分野での連携強化などを盛り込んだ共同声明の発表に向けた最終調整を進めています。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261108de72624",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-07T16:21+09:00",
-   "title_ja": "自民党執行部、消費税法案採決退席で石破氏らに文書説明を要求"
+   "date": "2026-11-09T05:32+09:00",
+   "title_ja": "日越首脳会談を開催へ 重要鉱物や原子力分野の連携で共同声明を調整"
   },
   {
    "category": "ai",
-   "title": "The US let Nvidia sell chips to an empty office in China",
-   "summary": "米商務省とエヌビディアが、中国のペーパーカンパニーに対して最新AI半導体「H200」の取り扱い審査を十分に行っていなかった懸念が報じられた。適切なデューデリジェンスの欠如が指摘されている。",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+   "title": "【図解あり】マルチエージェント設計「15のパターン」 GitHub、Google、Siemensの知見を一気に整理",
+   "summary": "複数のAIエージェントを連携させるシステムの普及に伴い、GitHubやGoogle、Siemensが提案する15の設計パターンがまとめられました。システム構築時の課題や具体的な活用場面が解説されています。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/08/news001.html",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "date": "2026-11-08T08:00+09:00",
+   "title_ja": "マルチエージェント設計の15パターン GitHubやGoogleなどの知見を整理"
+  },
+  {
+   "category": "ai",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "summary": "米エヌビディアは、ジェンスン・フアンCEOと同社を標的にスパイ活動を行っていた疑いのある企業幹部との関係について調査を開始しました。中国国家安全部による関与が取り沙汰されており注目を集めています。",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
    "source": "The Verge AI",
    "lang": "en",
-   "date": "2026-11-08T00:43+09:00",
-   "title_ja": "米政府、エヌビディアによる中国空きオフィスへのAIチップ販売を許可"
+   "date": "2026-11-09T05:22+09:00",
+   "title_ja": "エヌビディアが黄仁勲CEOと中国情報機関関係者の接触疑惑を内部調査"
   },
   {
    "category": "startup",
    "title": "How a Blue Wave midterm might reshape the AI industry",
-   "summary": "米国中間選挙における民主党の勝利がテック産業に及ぼす影響が注目されている。データセンターに関連する41の住民投票が行われ、今後のAI産業やインフラ政策の再編に波及する見通し。",
+   "summary": "米国の中間選挙における民主党の勝利がハイテク業界を大きく変革する可能性がある。投票日にはデータセンターに関連する41の住民投票が実施され、そのうち1件を除くすべての投票で住民が規制や制限を支持する結果となった。",
    "link": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-07T03:00+09:00",
-   "title_ja": "米中間選挙の「青い波」がAI産業をいかに再編するか"
-  },
-  {
-   "category": "startup",
-   "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-   "summary": "ドローン配送スタートアップのZiplineが15億ドルを調達し、企業評価額が215億ドルに達した。大手小売チェーンのウォルマートとの提携関係を強化し、配送網の拡大を進めている。",
-   "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-06T00:40+09:00",
-   "title_ja": "Ziplineの企業評価額が215億ドルに達する、ウォルマートとの連携拡大で"
+   "title_ja": "米中間選挙の民主党勝利がAI業界を再編する可能性"
   },
   {
    "category": "finance",
    "title": "Why the prognosis for healthcare stocks is uncertain ahead of Congress’ new makeup",
-   "summary": "米国議会で民主党が主導権を握る準備が進む中、ヘルスケア関連株式は市場での勢いを維持するのに苦戦する可能性が指摘されており、業界株価の先行きに不透明感が広がっている。",
+   "summary": "民主党が米議会の主導権を握る準備を進める中、ヘルスケア関連銘柄は株価の上昇モメンタムを維持するのに苦戦する可能性があるとみられている。新たな議会構成が医療ビジネスに与える影響への懸念が背景にある。",
    "link": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html",
    "source": "CNBC Markets",
    "lang": "en",
    "date": "2026-11-08T01:02+09:00",
-   "title_ja": "米議会の新構成を控えヘルスケア関連株の先行きに不透明感"
+   "title_ja": "米議会の新構成を控えヘルスケア株の先行きが不透明な理由"
+  },
+  {
+   "category": "society",
+   "title": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
+   "summary": "イスラエルで総選挙第2党となった野党党首のアイゼンコット氏が、ネタニヤフ首相を上回る議員の推薦を集め、大統領から組閣要請を受けた。これにより同氏が次の連立政権樹立に取り組むことになり、政界の新たな動きが注目される。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261109de72659",
+   "source": "NHK 主要",
+   "lang": "ja",
+   "date": "2026-11-09T05:48+09:00",
+   "title_ja": "イスラエル大統領が野党アイゼンコット氏に組閣要請 ネタニヤフ氏上回る推薦"
   },
   {
    "category": "world",
-   "title": "ロシア JTの資産を追加で一時管理下に置く大統領令に署名",
-   "summary": "ロシアのプーチン大統領は、日本たばこ産業（JT）グループのロシア現地法人3社を一時的にロシア企業の管理下に置く大統領令に署名した。日本企業への地政学リスクが顕在化している。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261107de72211",
+   "title": "フーシ派“サウジアラビア国営石油会社施設など攻撃”報復主張",
+   "summary": "サウジアラビアとイエメンの反政府勢力フーシ派の間で攻撃の応酬が続く中、フーシ派はサウジアラビアの首都リヤドにある国営石油会社などの施設を攻撃したと発表した。フーシ派は自らに対する攻撃への報復であると主張している。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261109de72663",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-08T00:02+09:00",
-   "title_ja": "プーチン大統領、JT現地法人3社を一時管理下に置く大統領令に署名"
-  },
-  {
-   "category": "world",
-   "title": "ウクライナ 人道支援拠点狙ったロシアの空爆 死者55人に",
-   "summary": "ウクライナ南部にある人道支援物資の配給拠点を狙ったロシアの空爆により、がれきから遺体が見つかり死者は55人に達した。ウクライナ当局はロシアによる攻撃を強く非難している。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261107de72225",
-   "source": "NHK 国際",
-   "lang": "ja",
-   "date": "2026-11-08T05:57+09:00",
-   "title_ja": "ウクライナの人道支援拠点への空爆、死者55人に拡大"
+   "date": "2026-11-09T05:51+09:00",
+   "title_ja": "イエメンのフーシ派がサウジ国営石油会社の施設を攻撃 報復と主張"
   },
   {
    "category": "science",
    "title": "ロート製薬、約280万人分の個人情報漏えい 9715件は通話音声データとクレカ情報が流出",
-   "summary": "ロート製薬は通販システムへの不正アクセスにより顧客約280万人分の個人情報が漏えいしたと発表した。調査の結果、9715件のクレジットカード情報や通話音声データの流出も判明した。",
+   "summary": "ロート製薬は通販システムへの不正アクセスにより、顧客約280万人分の個人情報が漏えいしたと発表した。調査の結果、9715人分のクレジットカード情報や通話音声データも不正に取得されていたことが判明した。",
    "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002984/",
    "source": "ITmedia NEWS",
    "lang": "ja",
    "date": "2026-11-06T19:31+09:00",
-   "title_ja": "ロート製薬、通販システム不正アクセスで約280万人分の情報漏えいを発表"
+   "title_ja": "ロート製薬が約280万人分の個人情報漏洩を発表 クレカ情報も流出"
   },
   {
    "category": "science",
-   "title": "アララで新たなメールアドレスの流出確認 計8132万件に",
-   "summary": "企業向けメール配信サービスなどを提供するアララは、不正アクセスの影響で新たに別クラウドから324万件のメールアドレス流出を確認し、累計被害が8132万件に達したと発表した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261106de71934",
-   "source": "NHK 科学・文化",
+   "title": "政府、相次ぐ情報漏えいで事業者に注意喚起 「基本的な対策が不十分」な事例を複数確認",
+   "summary": "国家サイバー統括室は事業者向けにセキュリティの注意喚起を公表した。相次ぐ個人情報漏えいの原因に基本的な対策の不備がある事例を確認したほか、攻撃者によるAI悪用も指摘し、具体的なセキュリティ対策の実施を求めている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/06/2000002976/",
+   "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-06T20:59+09:00",
-   "title_ja": "アララで新たなメールアドレス流出が発覚、累計8132万件に達する"
+   "date": "2026-11-06T17:52+09:00",
+   "title_ja": "政府が相次ぐ情報漏洩で事業者に注意喚起 基本対策の徹底とAI悪用を警告"
   },
   {
    "category": "environment",
-   "title": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
-   "summary": "急速に発達している「スーパーエルニーニョ」が2026年12月にピークを迎える見込みであり、世界平均気温をさらに押し上げることが懸念されている。",
-   "link": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
-   "source": "Carbon Brief",
+   "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
+   "summary": "米大手電力デューク・エナジーは、データセンター需要に伴う15.4GW規模の成長計画を維持し、約1,030億ドルの設備投資を推進します。新規の天然ガス発電に重きを置いた体制を継続する方針です。",
+   "link": "https://www.utilitydive.com/news/historic-election-night-wont-change-growth-focus-at-duke-energy-executi/873965/",
+   "source": "Utility Dive",
    "lang": "en",
-   "date": "2026-11-06T18:12+09:00",
-   "title_ja": "急速に発達する「スーパーエルニーニョ」、12月にピークへ"
+   "date": "2026-11-07T03:00+09:00",
+   "title_ja": "米デューク・エナジー、データセンター需要を背景に1,030億ドルの成長計画を継続"
   },
   {
    "category": "environment",
-   "title": "How do you broker UN climate talks when your own country is a big coal and gas exporter? Chris Bowen is about to find out",
-   "summary": "オーストラリアのクリス・ボーエン気候変動相は、自国が石炭・ガスの大規模輸出国でありながら、COP31での国連気候変動交渉を主導し合意形成を図るという課題に直面している。",
-   "link": "https://www.theguardian.com/environment/2026/nov/08/chris-bowen-cop31-experts-condemn-australia-coal-gas-approvals",
+   "title": "Labour expected to cut EV targets for UK’s car industry despite MPs’ protests",
+   "summary": "英国政府は、議員らの抗議にもかかわらず、国内自動車産業に対する電気自動車（EV）の販売目標数値を緩和する見込みです。排出削減計画の柱であった規制の見直しが議論を呼んでいます。",
+   "link": "https://www.theguardian.com/environment/2026/nov/08/labour-cut-ev-target-car-industry-despite-climate-concerns",
    "source": "The Guardian Environment",
    "lang": "en",
-   "date": "2026-11-08T04:00+09:00",
-   "title_ja": "豪気候変動相、化石燃料輸出国としての国益とCOP31交渉調停の両立に挑む"
+   "date": "2026-11-09T02:51+09:00",
+   "title_ja": "英労働党政権、自動車業界向けの電気自動車（EV）販売目標を緩和する見通し"
   },
   {
    "category": "work",
-   "title": "32万件超の会員データから就活生の人気業界・職種と希望勤務地・企業規模を分析 就活会議 - 大学ジャーナルオンライン",
-   "summary": "就活会議は、32万件以上の会員データをもとに就職活動生の最新傾向を分析した。人気業界や職種をはじめ、希望する勤務地や企業規模などの動向を明らかにしている。",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE81aDlnME9QWTU0ZFhaclJVRktlaV9MdWMzZlZvSlJlRzlIbTd6TlhNUVB3dHlsRnFaMURra291ZjA2Yld6YlNJ?oc=5",
+   "title": "【転職決断理由の1位は「理想のキャリアが描けないから」】Z世代の離職に関する実態調査 - HRプロ",
+   "summary": "Z世代の離職に関する実態調査により、転職を決断する主な理由の第1位が「理想のキャリアが描けないから」であることが明らかになりました。若手社員の定着に向けたキャリア支援の重要性を示しています。",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwdmJ6aVZwcU5FZnNFeE1Ya0tnalFiMmVCNXNUbTZrZGtYM0JoX2QzSHdHNF80ZHdKcHM1VVZGRVo1aGVHbjZBai00VHdXTHhyaXlEVWwxZEo3dWdhWklCeS1PRTZsbEU0aUMzQQ?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-07T11:10+09:00",
-   "title_ja": "32万件超のデータから就活生の人気業界や希望勤務地を分析"
+   "date": "2026-11-09T01:31+09:00",
+   "title_ja": "Z世代の離職理由1位は「理想のキャリアが描けないから」実態調査"
+  },
+  {
+   "category": "work",
+   "title": "【採用担当者向け】新卒・中途採用における AI面接導入に関する最新の実態調査 - HRプロ",
+   "summary": "新卒および中途採用におけるAI面接の導入状況や活用実態に関する最新調査結果が発表されました。採用活動の効率化や公平性向上に向けた企業の最新の取り組み動向がまとめられています。",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5yRzN5UDcydm04SXhfaEtZQmJ4Ukw0enYxLXdfanYtVnV6RnJidndyTWxtbnVHcGYtaHZucEdhM1ZlaTZSaTEteTdOSkd4R2tYcEhoWHFwMzl3a3Y3WFd6enpZMTlQMld1bWVFVg?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-09T00:58+09:00",
+   "title_ja": "新卒・中途採用におけるAI面接導入の最新実態調査"
   },
   {
    "category": "security",
-   "title": "Hackers pull off $133 million French bank heist via service provider",
-   "summary": "フランスのクレディ・ミュチュエル・アルケア銀行がサイバー攻撃を受け、約1億3300万ドル規模の不正送金被害が発生した。サービスプロバイダーを経由した侵入とみられる。",
-   "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+   "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+   "summary": "アイリスオーヤマの通販サイト「アイリスプラザ」がサードパーティ製サービスへの不正アクセスを受け、約770万人分の顧客個人情報が外部へ流出した可能性があることが発表されました。",
+   "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
    "source": "BleepingComputer",
    "lang": "en",
-   "date": "2026-11-08T00:25+09:00",
-   "title_ja": "仏銀行、サービスプロバイダー経由のサイバー攻撃で1.33億ドルの被害"
+   "date": "2026-11-09T00:43+09:00",
+   "title_ja": "アイリスオーヤマ、不正アクセスにより約770万人分の個人情報が流出の可能性"
   },
   {
    "category": "security",
    "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-   "summary": "AnthropicのAIツール「Claude Code」でユーザーが承認したコマンド内のパスワードやAPIキーが、GitHub上の公開リポジトリ1,122件に露出していることが判明した。",
+   "summary": "AIツール「Claude Code」でユーザーが確認の省略を選択した際、コマンド内に入力されたパスワードやAPIキーがGitHub上の公開リポジトリに保存され、閲覧可能な状態になっていることが判明しました。",
    "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
    "source": "The Hacker News",
    "lang": "en",
    "date": "2026-11-07T15:44+09:00",
-   "title_ja": "Anthropicの「Claude Code」設定ファイルによりパスワードやAPIキーがGitHubに流出"
+   "title_ja": "Claude Codeの自動承認機能により、GitHub上の1,122件のリポジトリでパスワードやAPIキーが公開状態に"
   }
  ]
 }
