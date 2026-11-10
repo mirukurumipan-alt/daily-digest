@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T06:25+09:00",
+ "generated_at": "2026-11-11T06:22+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,203 +62,253 @@
  "items": [
   {
    "category": "medical",
-   "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
-   "summary": "米トランプ政権は、製薬業界の主要な受託開発製造パートナーである中国のウーシー・アップテック（WuXi AppTec）を、米国内で事業を行う「中国軍事関連企業」のリストから除外しました。制裁や規制への懸念が和らぐ可能性があります。(119字)",
-   "link": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
+   "title": "STAT+: Wyden, Sanders hand-in-hand on ‘Medicare for All’ initiative",
+   "summary": "米国のバーニー・サンダース上院議員らは、メディケアの対象年齢を10歳引き下げるなどの法案構想を推進している。公的医療保険制度の拡充を目指す動きとして注目される。",
+   "link": "https://www.statnews.com/2026/11/10/dc-diagnosis-wyden-sanders-aligned-on-medicare-for-all/?utm_campaign=rss",
    "source": "STAT",
    "lang": "en",
-   "date": "2026-11-10T05:51+09:00",
-   "title_ja": "トランプ米政権、中国バイオ大手ウーシー・アップテックを指定リストから除外"
+   "date": "2026-11-11T05:05+09:00",
+   "title_ja": "米サンダース議員ら、メディケア対象年齢の10歳引き下げなど国民皆保険構想を推進"
   },
   {
    "category": "medical",
-   "title": "Hospitals write off $132B as AI fails to move the needle with finances",
-   "summary": "米国の病院は財務改善やAI開発競争での競争力維持を目的に巨額の自動化投資を行っているものの、不良債権や評価損による損失が拡大しています。自動化技術の導入にもかかわらず、計1320億ドル規模の損失計上を余儀なくされている状況が報告されています。(120字)",
-   "link": "https://www.healthcaredive.com/news/hospitals-write-off-132b-ai-fails-to-move-needle-with-finances/874161/",
+   "title": "7 healthcare experts on adopting AI tools",
+   "summary": "医療機関がAIツールを導入する際、ガバナンスの構築、臨床医からの信頼獲得、全体の導入・運用コストの検討が極めて重要であると、業界専門家がイベントで指摘した。",
+   "link": "https://www.healthcaredive.com/news/8-healthcare-experts-on-adopting-ai-tools-virtual-event/874130/",
    "source": "Healthcare Dive",
    "lang": "en",
-   "date": "2026-11-10T04:30+09:00",
-   "title_ja": "米病院業界、AIへの投資継続も1320億ドルの不良債権処理に直面"
+   "date": "2026-11-11T01:50+09:00",
+   "title_ja": "医療機関におけるAIツール導入で重視すべき3つの要素"
   },
   {
    "category": "dental",
-   "title": "New global Mouth-to-Body Health Institute to study oral-systemic links - Oral Health Group",
-   "summary": "口腔内の状態と全身の健康状態との関連性（オーラル・システミック・リンク）を専門に研究する新たな国際機関「Mouth-to-Body Health Institute」が設立されました。歯科と医科の連携による健康増進を目指す取り組みです。(119字)",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVnM5N25NSTRDU0hfdTAwbUdmYVFlYzF3NnZxVTlPTFZ4d2liM2o1ZnlrUWZ3V09CeHZlTS1sU3h5U2tGTTFjclNncVlVT3pLREFQWFhXbV9NdG95dzA5ckhmWGI1Y1VjQlh3aE1hVElPVkpYeHAyRWdOVDJDLTliMjY3YnNxaUVHREtwb3V6NjN3M08wbFdvVldTdnBUNU1tTmdkRnpXMFpMVzR4MDdfMkc1TG10bW92NUJtQS1Ybi02TG50aG5vTVFR?oc=5",
+   "title": "DentScribe Announces AI Periodontal Charting Benchmark - Dentistry Today",
+   "summary": "DentScribe社が、AIを活用した歯周病検査チャート作成の性能ベンチマークを発表した。歯科診療における入力作業の自動化や測定精度の向上への貢献が期待される。",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVGswcDFVZVAwdmp4emVfTFlXdUlEWWl5R2RZVWlOWmxtT0t5aUlYNXQzVEhVLWlZQklIUXByTjNaRnBNQmV3TTdMWXNqU0xTNDBIMFBWbGtrYW1xM1pRbG9MNTBXX3lLSV9nYmMyWDdjYXRSUnZoa3lKRUk2U3hQR0MtcHJCOVN0RmJwRFhxQQ?oc=5",
    "source": "Google News Dentistry",
    "lang": "en",
-   "date": "2026-11-10T04:52+09:00",
-   "title_ja": "口腔と全身の健康の関連を研究する国際機関が設立"
+   "date": "2026-11-11T00:48+09:00",
+   "title_ja": "DentScribeがAIによる歯周病チャート作成の性能ベンチマークを発表"
   },
   {
    "category": "business",
-   "title": "[ITmedia Mobile] “Starlink依存”からの脱却へ 楽天が「Rakuten AST」で自前の衛星通信にこだわるワケ 三木谷氏らが力説",
-   "summary": "楽天グループと米AST SpaceMobileは、市販スマホと直接通信する衛星通信網構築のため「Rakuten AST」を設立します。総務省の事業に採択され最大1480億円の交付を受け、災害対策や経済安保の観点から自律的通信基盤の整備を進めます。(120字)",
-   "link": "https://www.itmedia.co.jp/mobile/articles/2611/09/news089.html",
+   "title": "[ITmedia ビジネスオンライン] 企業のアプリで進む、個人情報を「あえて持たない」選択 「ゆで太郎」「ウェンディーズ」はどう対策？",
+   "summary": "大手企業での不正アクセス相次ぎを受け、アプリ等で個人情報を集めないセキュリティ対策を選択する企業が増えている。AIで高度化するサイバー攻撃への対抗策となる。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/11/news014.html",
    "source": "ITmedia",
    "lang": "ja",
-   "date": "2026-11-10T00:00+09:00",
-   "title_ja": "楽天、米ASTと新会社設立へ スマホ直接通信の低軌道衛星網構築で国内自律運用目指す"
+   "date": "2026-11-11T05:30+09:00",
+   "title_ja": "相次ぐサイバー攻撃を受け、企業アプリで個人情報を保持しない選択が拡大"
   },
   {
    "category": "business",
-   "title": "[ITmedia ビジネスオンライン] シャープ河村社長「引き合いが来る」 親会社・鴻海の調達力で狙う「国内AIサーバー」の商機",
-   "summary": "シャープはAIサーバー事業について、早ければ2026年度末、遅くとも2027年度初頭に顧客への納入を始める見通しを明らかにしました。親会社である台湾・鴻海の部品調達力を活かし、国内のAIサーバー需要の獲得を狙います。(110字)",
-   "link": "https://www.itmedia.co.jp/business/articles/2611/09/news087.html",
+   "title": "[ITmedia ビジネスオンライン] KDDI役員「ネットワーク利用者が変わる」 KDDI・富士通の“AIが通信する時代”の戦略",
+   "summary": "KDDIは通信インフラとAI計算基盤を融合させる「デジタルベルト構想」を進め、データセンターや衛星通信等を一体化してAIを届ける戦略を展開。富士通と将来像を協議した。",
+   "link": "https://www.itmedia.co.jp/business/articles/2611/11/news019.html",
    "source": "ITmedia",
    "lang": "ja",
-   "date": "2026-11-09T21:45+09:00",
-   "title_ja": "シャープ、国内向けAIサーバー納入を早ければ2026年度末に開始へ"
+   "date": "2026-11-11T05:30+09:00",
+   "title_ja": "KDDIと富士通、AI時代の通信・計算インフラ「デジタルベルト構想」を推進"
   },
   {
    "category": "politics",
-   "title": "高市首相 高性能AI進展で\"国際社会連携を\" 仏政府主催の会合で",
-   "summary": "高市総理大臣は仏政府主催のAIに関する国際会合にオンライン参加しました。高性能AIの進展はサイバー攻撃への悪用など安全保障上の新たな脅威になり得ると指摘し、国際社会が結束して対応を進める重要性を訴えました。(104字)",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73220",
+   "title": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+   "summary": "食料品にかかる消費税の減税関連法案が参議院本会議で審議入りした。参院で与党が少数派となる中、法案成立に向けた野党側との合意形成や慎重な論戦が展開されている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261111de73840",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-10T05:29+09:00",
-   "title_ja": "高市首相、高性能AIの悪用防止へ国際社会の連携を呼びかけ"
+   "date": "2026-11-11T04:52+09:00",
+   "title_ja": "食料品の消費税減税関連法案が参院で審議入り、与野党の論戦が本格化"
   },
   {
    "category": "politics",
-   "title": "自民 維新 安全保障3文書改定向けきょうから作業チームが協議",
-   "summary": "安全保障関連3文書の改定に向けて、自民党と日本維新の会の実務者作業チームが協議を開始しました。両党が提出した政府提言をもとに、防衛力強化のあり方や防衛費の予算規模などを巡って意見交換が進められます。(100字)",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261109de73179",
+   "title": "安全保障3文書改定で自衛隊の統合運用体制の検討加速 政府",
+   "summary": "政府は安全保障関連3文書の改定に向け、自衛隊の陸海空を統括する統合運用体制の構築に関する検討を加速している。与党作業チームでの協議を通じて体制見直しを進める。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73812",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-10T05:25+09:00",
-   "title_ja": "自民・維新、安全保障3文書改定に向け実務者作業チームの協議を開始"
+   "date": "2026-11-11T06:03+09:00",
+   "title_ja": "政府、安保3文書改定に向け自衛隊の統合運用体制の検討を推進"
   },
   {
    "category": "ai",
-   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
-   "summary": "米Anthropicは、複雑な技術的課題を解決するために設計された新AIモデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表しました。コーディングをはじめとする高度なタスク処理能力が向上しています。(113字)",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-   "source": "The Verge AI",
-   "lang": "en",
-   "date": "2026-11-10T04:00+09:00",
-   "title_ja": "Anthropic、高度な技術課題に対応する新型モデル「Claude 5.2」2種を発表"
-  },
-  {
-   "category": "ai",
-   "title": "「MCPはもう特別な存在ではない」――その普及と“仕様改訂”がもたらした転換点",
-   "summary": "AIと外部ツールを接続する規格「MCP」の仕様が改訂され、サーバー側で通信状態を持たないステートレス化が進められました。企業がシステムへMCPを導入・運用する際の設計に大きな転換をもたらすと注目されています。(104字)",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/10/news003.html",
+   "title": "NotebookLMに公式APIが登場 WebページやYouTube動画の取り込みを自動化でき、MCPでAIエージェントからも使える",
+   "summary": "NotebookLMに公式REST APIとMCPサーバーがプレビュー公開された。Webページや動画データの取り込み自動化や、AIエージェントからの活用が可能となる。",
+   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/11/news011.html",
    "source": "ITmedia AI+",
    "lang": "ja",
-   "date": "2026-11-10T05:00+09:00",
-   "title_ja": "AIエージェント連携規格「MCP」が仕様改訂、ステートレス化で普及加速へ"
+   "date": "2026-11-11T05:00+09:00",
+   "title_ja": "Googleの「NotebookLM」、公式APIとMCPサーバーの公開プレビューを開始"
+  },
+  {
+   "category": "ai",
+   "title": "情報漏えい続出でフィッシングに変化？ “その人専用詐欺メール”登場の懸念",
+   "summary": "企業への不正アクセス相次ぎによる情報漏えいを受け、漏洩データを悪用した「個人専用の標的型フィッシングメール」への懸念が高まり、セキュリティ機関が推移を監視している。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000002926/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "date": "2026-11-10T16:23+09:00",
+   "title_ja": "相次ぐ個人情報漏えいでフィッシング詐欺が高度化、「個人特化型メール」への懸念高まる"
+  },
+  {
+   "category": "startup",
+   "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+   "summary": "スタートアップのPSIは、未公開のAnthropicのAIモデルを活用し、科学者が約20年間にわたって追求してきた量子コンピューティングに関する根本的な疑問に回答した。AIを用いた科学的発見の事業化を目指している。",
+   "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-11T04:03+09:00",
+   "title_ja": "PSI、AIによる科学的発見のビジネス化を目指す"
   },
   {
    "category": "startup",
    "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-   "summary": "ハードウェア工学向けAI基盤を提供するスタートアップNominalが新たな大型資金調達を実施し、企業評価額が8か月で3倍の30億ドルに達した。アンドゥリルなどを主要顧客に抱えている。",
+   "summary": "ハードウェアエンジニアリング向けAIプラットフォームを提供するNominalは、大規模な資金調達を実施し、8か月で企業評価額を3倍の30億ドルに引き上げた。同社はAndurilなどを主要顧客として抱えている。",
    "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-10T04:21+09:00",
-   "title_ja": "AIハードウェア開発のNominal、評価額が30億ドルへ3倍増"
+   "title_ja": "AIハードウェア企業Nominal、8か月で評価額が3倍の30億ドルに急増"
+  },
+  {
+   "category": "finance",
+   "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+   "summary": "米連邦準備制度理事会（FRB）のウォラー理事は、インフレデータ次第で12月に0.5%幅の利上げを支持する可能性があると述べ、12月の利上げ実施に向けた積極的な姿勢を示した。",
+   "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+   "source": "CNBC Markets",
+   "lang": "en",
+   "date": "2026-11-11T02:13+09:00",
+   "title_ja": "米FRBのウォラー理事、12月の利上げ可能性を示唆"
+  },
+  {
+   "category": "finance",
+   "title": "円相場158円台前半で膠着、米CPI発表待ちの様子見続く - BigGo ファイナンス",
+   "summary": "外国為替市場における円相場は1ドル＝158円台前半で動きが乏しい膠着状態となっている。米国の消費者物価指数（CPI）発表を控え、市場参加者の様子見姿勢が続いている。",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBMzlQS2RLVnMyYkRIS2lmUllRZV9meGtOVExkWlVaZUJCRVRUWHJubTl5cUpLNWZkcUlCODAwU1dBRUtvVWpROWR6a2p1amxBdDQ5Zm5iVTBYNnVEUmFxU3o1RlRUa2dYNnpZZU44azlGYW00?oc=5",
+   "source": "Google News 市況",
+   "lang": "ja",
+   "date": "2026-11-10T19:55+09:00",
+   "title_ja": "円相場は158円台前半で膠着、米CPI公表を控え様子見姿勢"
   },
   {
    "category": "society",
-   "title": "防災庁 都道府県の窓口職員「地域防災連携推進員」に研修会",
-   "summary": "災害対応の司令塔として発足した防災庁は、被災自治体の迅速な支援や地域防災力向上を目指し、各都道府県との窓口となる職員を対象にした研修会を実施した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261109de73178",
+   "title": "去年7月の参議院選挙 1票の格差 きょう最高裁大法廷が判決",
+   "summary": "去年7月の参議院選挙で最大3.13倍に達した「1票の格差」が憲法違反かどうかが争われた訴訟で、最高裁判所大法廷が11日に判決を言い渡す。各地の高裁判決は判断が分かれていた。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73802",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-09T22:19+09:00",
-   "title_ja": "防災庁が都道府県窓口の「地域防災連携推進員」向けに研修会を実施"
+   "date": "2026-11-11T05:23+09:00",
+   "title_ja": "去年7月の参院選「一票の格差」訴訟、最高裁が本日判決へ"
   },
   {
    "category": "society",
-   "title": "米国中間選挙後初 日米外相が意見交換 安全保障協力推進で一致",
-   "summary": "茂木外務大臣はフランス訪問中に米国のルビオ国務長官と会談した。中間選挙後初となる意見交換で、日米同盟の抑止力や対処力強化に向けた安保協力の推進で合意した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73223",
-   "source": "NHK 社会",
+   "title": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+   "summary": "ロシアとウクライナの和平に向け、米国を交えた3か国の高官協議が約9か月ぶりに開催された。ゼレンスキー大統領は協議内容を建設的かつ実質的だったと評価し、11日も協議が継続される。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261111de73861",
+   "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-10T05:57+09:00",
-   "title_ja": "日米外相会談 米中間選挙後初、安保協力の推進で一致"
+   "date": "2026-11-11T04:55+09:00",
+   "title_ja": "米ロウクライナ高官協議が開催、ゼレンスキー大統領は「建設的」と評価"
   },
   {
    "category": "world",
-   "title": "日本ベトナム首脳会談 安保推進で一致 重要鉱物や原子力で連携",
-   "summary": "高市総理大臣はベトナムのトー・ラム共産党書記長と会談し、安全保障協力の推進に加え、重要鉱物のサプライチェーン強化や原子力分野での連携を確認した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261109de72912",
+   "title": "特殊詐欺の被害拡大を防ぐ国際会議 各国の官民連携強化を訴え",
+   "summary": "世界的に深刻化する特殊詐欺に対抗するため、欧米やアジアの政府・金融機関・IT企業が参加する国際会議が開催された。被害拡大を阻止するため国境を越えた連携強化が訴えられた。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261111de73848",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-09T23:33+09:00",
-   "title_ja": "日越首脳会談 安全保障協力の推進や重要鉱物・原子力分野での連携確認"
+   "date": "2026-11-11T02:40+09:00",
+   "title_ja": "特殊詐欺対策の国際会議が開催、国境を越えた官民連携の強化を採択"
   },
   {
    "category": "world",
-   "title": "高市首相 ASEANやAPECの首脳会議出席へ“各国首脳と関係構築”",
-   "summary": "高市総理大臣は自民党役員会で、来週フィリピンで開催されるASEAN首脳会議および中国でのAPEC首脳会議に出席し、各国首脳との関係構築を図る方針を示した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261109de73172",
+   "title": "米 ヘグセス国防長官“弾劾決議案は茶番”続投に意欲",
+   "summary": "アメリカのヘグセス国防長官は、下院に提出された自身の罷免を求める弾劾訴追決議案について「茶番だ」と強く批判した。その上で、長官の職務を今後も継続する意欲を改めて表明した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261111de73860",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-09T21:27+09:00",
-   "title_ja": "高市首相、ASEAN・APEC首脳会議出席へ 各国首脳と関係構築を推進"
+   "date": "2026-11-11T05:19+09:00",
+   "title_ja": "ヘグセス米国防長官、自身の弾劾決議案を「茶番」と批判し続投の意向"
   },
   {
    "category": "science",
-   "title": "風疹ウイルス感染の“入り口”発見 予防や治療法の開発に期待",
-   "summary": "国内の研究グループが風疹ウイルスがヒト細胞へ感染する際の入り口となる受容体を発見したと発表した。病気の予防法や新たな治療薬の開発につながると期待される。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261109de73174",
+   "title": "米FDA 糖尿病治療薬「マンジャロ」などに視力低下リスクを警告",
+   "summary": "米食品医薬品局（FDA）は、肥満症や糖尿病治療薬である「GLP-1受容体作動薬」を使用することで、急激な視力低下のリスクが高まる可能性があるとして警告を発表した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73780",
    "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-09T21:40+09:00",
-   "title_ja": "風疹ウイルスの細胞侵入経路を発見 予防・治療法開発へ前進"
+   "date": "2026-11-10T20:31+09:00",
+   "title_ja": "米FDA、GLP-1受容体作動薬「マンジャロ」等に急激な視力低下リスクを警告"
   },
   {
    "category": "science",
-   "title": "ニトリに不正アクセス、最大3762万件の個人情報流出の可能性 法人会員も対象に",
-   "summary": "ニトリHDは管理システムへの不正アクセスにより、最大3762万件の個人情報が流出した可能性があると発表した。法人会員も対象に含まれ、10月中下旬に侵入された可能性がある。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/09/2000003039/",
-   "source": "ITmedia NEWS",
+   "title": "ソフト99 クレカ情報含む 最大約13万人の個人情報漏えいか",
+   "summary": "自動車用品メーカーのソフト99コーポレーションは、自社通販サイトが第三者からの不正アクセスを受けたことを発表した。クレジットカード情報を含む最大約13万人分の個人情報が漏えいした可能性がある。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261110de73798",
+   "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-09T19:40+09:00",
-   "title_ja": "ニトリに不正アクセス 最大3762万件の個人情報が流出か"
+   "date": "2026-11-10T20:41+09:00",
+   "title_ja": "ソフト99、不正アクセスにより最大13万人の個人情報漏えいの可能性"
   },
   {
-   "category": "law",
-   "title": "危険物の規制に関する規則の一部を改正する省令（案）等に対する意見公募について",
-   "summary": "総務省消防庁は「危険物の規制に関する規則の一部を改正する省令（案）等」に対するパブリックコメントの募集を開始した。受付締切は2026年12月7日まで。",
-   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=860202606&Mode=0",
-   "source": "パブリックコメント(e-Gov)",
-   "lang": "ja",
-   "date": "2026-11-07T00:00+09:00",
-   "title_ja": "危険物の規制規則改正案に関する意見公募を消防庁が開始"
-  },
-  {
-   "category": "law",
-   "title": "「移動系通信事業者が提供するインターネット接続サービスの実効速度計測手法及び利用者への情報提供手法等に関するガイドライン」の改正案に対する意見募集",
-   "summary": "総務省は移動系通信事業者が提供するネット接続サービスの実効速度計測や情報提供手法に関するガイドライン改正案を公示し、意見募集を開始した。",
-   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210795&Mode=0",
-   "source": "パブリックコメント(e-Gov)",
-   "lang": "ja",
-   "date": "2026-11-07T00:00+09:00",
-   "title_ja": "ネット実効速度計測等のガイドライン改正案で意見公募 総務省"
-  },
-  {
-   "category": "security",
-   "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
-   "summary": "フランス国内のスーパーなど700店舗以上の冷却システムがサイバー攻撃を受け、食品の廃棄被害や一部店舗での火災が発生した。フランス当局は、この攻撃にイランの国家支援を受けたハッカー集団が関与していると非難した。（103文字）",
-   "link": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
-   "source": "BleepingComputer",
+   "category": "environment",
+   "title": "Cop31 as it happened: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
+   "summary": "トルコのアンタルヤで開催された国連気候変動枠組条約第31回締約国会議（COP31）には、90カ国以上の首脳が集結した。環境活動家のグレタ・トゥンベリ氏らが危機の深刻さを訴える中、主催国による新油田の公表など複雑な議論が展開された。",
+   "link": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+   "source": "The Guardian Environment",
    "lang": "en",
-   "date": "2026-11-10T03:32+09:00",
-   "title_ja": "仏スーパー700店舗超へのサイバー攻撃、仏当局がイラン支援のハッカーを非難"
+   "date": "2026-11-11T00:35+09:00",
+   "title_ja": "COP31気候サミットが開幕、グレタ氏らが地球規模の危機を警告"
+  },
+  {
+   "category": "environment",
+   "title": "Analysis: Which countries have sent the most delegates to COP31?",
+   "summary": "トルコのアンタルヤで開催されたCOP31気候サミットの参加登録者数は9万2,000人を超え、過去最大規模となる可能性が出てきた。各国の派遣代表団の動向や規模についての詳細な分析結果が公表されている。",
+   "link": "https://www.carbonbrief.org/analysis-which-countries-have-sent-the-most-delegates-to-cop31",
+   "source": "Carbon Brief",
+   "lang": "en",
+   "date": "2026-11-11T02:21+09:00",
+   "title_ja": "COP31への参加登録者が9万2000人超に、国別代表団の規模を分析"
+  },
+  {
+   "category": "work",
+   "title": "「書類選考にAIを活用している」のは10％ - 日本の人事部",
+   "summary": "「日本の人事部」の調査により、採用業務の書類選考においてAIを活用している企業の割合が10％にとどまることが明らかになった。企業における人事テクノロジーの導入状況や、慎重な運用の実態が浮き彫りとなっている。",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KQ1hneHFDRU9JbWVHVjRJWWthZUZFd3Jyc0U0NWxsLTF2azdxVlAzQ0xnNENNMmFrT2xfWnFON1hGSFJuSFZLTG50Ym1KTUl1dUhwcWo2NTc?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-11T04:00+09:00",
+   "title_ja": "採用時の書類選考におけるAI活用企業は10％にとどまる"
+  },
+  {
+   "category": "work",
+   "title": "SOMPOホールディングスが実践する「キャリア自律型」のジョブ型人事とは？ ～「MYパーパス」を起点に、キャリア自律と人材流動をどう進めるか - HRプロ",
+   "summary": "SOMPOホールディングスにおける「キャリア自律型」ジョブ型人事制度の実践事例が紹介されている。個人のパーパスを起点として、社員のキャリア自律の推進と社内における人材流動化をどのように進めているかが解説されている。",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12SVRqSjhYNzkzUFltVWMzc0FXbjYwSDYzQ1h3U1FQODM2Sy1VeVpONXp0U04xbkIyMTROT3IwVGFqeEFJQXZ1Z2VYRlF6RWYxMExlc0FvRE80LTVqelk2Wg?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-10T22:04+09:00",
+   "title_ja": "SOMPOホールディングスによるキャリア自律型ジョブ型人事制度の取り組み"
   },
   {
    "category": "security",
-   "title": "ソニー生命、個人情報２９０万件漏えい＝不正アクセス受け - リスク対策.com",
-   "summary": "ソニー生命保険は、第三者による不正アクセスを受け、顧客などの個人情報およそ290万件が外部に漏えいしたと発表した。大規模な情報セキュリティインシデントとして影響が広がっている。（87文字）",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aaU9zbHdhaHUzTTZPTlFsUllCZk10TWdheHdhTFpXeHBJYmZkcl9nckx6SVVXVHI4RGlPZUM0NHdpR2l6Und6TGJiWF9oazFWdjY4ODE4dzc?oc=5",
+   "title": "サイバー攻撃による情報漏えい、10月末時点で約3.8億件 すでに前年の約7.6倍に【ＭＭ総研調べ】（Web担当者Forum） - ｄメニューニュース",
+   "summary": "MM総研の調査によると、2026年10月末時点でのサイバー攻撃による情報漏えい件数が約3億8,000万件に達し、前年同期の約7.6倍に上ることが判明した。大規模な情報漏えい事案の増加が全体数を大幅に押し上げている。",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRjhwN2I3UmlLQi1mMlVhSG4waGpxUHNRNEw1bzRiVmhKTEMwY24ydFNJdGVjTk5UbEx2Mnhfc1o1TG16R1pkLW0tbUNEMHhkeEs4UEREaDhydDJEWmtlSmpXdE9wYkhxYm5fbFZjNE9haFNkUFo1ckktSC1Uclhxam9XVkhpTjhFSUNpLVkyY214a280eVI3ZWR6ZENETV9wSlJYM1lrdmgtcVk?oc=5",
    "source": "Google News 災害・防衛",
    "lang": "ja",
-   "date": "2026-11-10T06:08+09:00",
-   "title_ja": "ソニー生命、不正アクセスを受け個人情報290万件が漏えい"
+   "date": "2026-11-11T06:11+09:00",
+   "title_ja": "サイバー攻撃による情報漏えいが約3.8億件に急増、前年の7.6倍を記録"
+  },
+  {
+   "category": "security",
+   "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+   "summary": "家具・インテリア大手のニトリは、ネットワークシステムへの不正アクセスを受け、最大で約3,762万件の顧客レコードが不正流出した可能性があることを明らかにした。詳細な被害範囲や原因調査が進められている。",
+   "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "date": "2026-11-11T05:54+09:00",
+   "title_ja": "ニトリにサイバー攻撃、顧客情報3762万件が漏えいした可能性"
   }
  ]
 }
