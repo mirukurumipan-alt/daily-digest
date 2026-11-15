@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T06:16+09:00",
+ "generated_at": "2026-11-16T06:16+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,263 +62,253 @@
  "items": [
   {
    "category": "medical",
-   "title": "STAT+: Enforcement of stringent Medicaid work requirements delayed for six months",
-   "summary": "トランプ政権によるメディケイドの新たな厳格な就労要件の適用が6カ月間延期され、2027年7月1日から開始されることになりました。",
-   "link": "https://www.statnews.com/2026/11/13/medicaid-work-requirements-implementation-delayed-six-months/?utm_campaign=rss",
+   "title": "STAT+: FDA rejects lung cancer treatment ivonescimab from Summit Therapeutics",
+   "summary": "米国バイオテック企業のサミット・セラピューティクスと中国の製薬会社アケソが開発した肺がん治療薬イボネスシマブについて、米食品医薬品局（FDA）が承認を却下したことが明らかになりました。",
+   "link": "https://www.statnews.com/2026/11/15/fda-rejects-ivonescimab-lung-cancer-treatment-summit-therapeutics/?utm_campaign=rss",
    "source": "STAT",
    "lang": "en",
-   "date": "2026-11-14T07:21+09:00",
-   "title_ja": "米国、メディケイドの厳格な就労要件導入を6カ月延期へ"
+   "date": "2026-11-16T00:05+09:00",
+   "title_ja": "米FDA、Summit Therapeuticsの肺がん治療薬イボネスシマブを不承認"
   },
   {
    "category": "medical",
    "title": "Medicare can’t add new home health, hospice facilities for 6 more months",
-   "summary": "不正への懸念が続く中、米国のメディケアプログラムにおいて訪問看護機関およびホスピス施設の新規登録を禁止する措置がさらに6カ月間延長されます。",
+   "summary": "米国の公的医療保険メディケアにおいて、不正行為への懸念が続いていることを受け、在宅ケア事業者およびホスピス施設の新規プログラム登録を禁止する措置がさらに6か月間延長されることになりました。",
    "link": "https://www.healthcaredive.com/news/medicare-cant-add-new-home-health-hospice-facilities-for-6-more-months/874660/",
    "source": "Healthcare Dive",
    "lang": "en",
    "date": "2026-11-14T04:20+09:00",
-   "title_ja": "米メディケア、不正懸念により訪問看護・ホスピスの新規登録停止を再延長"
-  },
-  {
-   "category": "dental",
-   "title": "Base Metal Alloy Crowns Market Forecast to 2035, Driven by Cost-Effective Dental Restoration Demand - IndexBox",
-   "summary": "安価な歯科修復物の需要拡大を背景に、歯科用非貴金属冠（ベースメタルアロイ）市場は、コスト効率の高さを強みに2035年に向けて成長が見込まれるとする予測レポートです。",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQajVVcGFNalNMaGY3TV9LLWF3dUZ3Zk4yX3NjN1ZXQnBpTmpjdUNJVFMyQVROaXJnTGZfcGtRWXJVRThxQ3B5RXNfRHNVU3J6dlYycUI3cFNmOG1ZcC1DamVOTnlCR1ZrTVJ3NUF4RzdPaFdmaVR2cUhIbEF6azJFWG5aSDhZSWF2QzNoQ2JNeHRhSHBZY3ZoYmJHWkRseHVHVHVZNHhpNVRubXpINkZMRzJueGVWZkk4NWNfMEZxSEJMeGxtRjA0?oc=5",
-   "source": "Google News Dentistry",
-   "lang": "en",
-   "date": "2026-11-15T04:56+09:00",
-   "title_ja": "歯科用非貴金属冠市場、コスト効率の高い修復需要により2035年まで拡大予測"
-  },
-  {
-   "category": "dental",
-   "title": "The NYSE Welcomes vVARDIS as a Publicly Listed Company - ACROFAN USA",
-   "summary": "歯科修復技術などを手掛けるスイスの歯科テクノロジー企業vVARDISが、ニューヨーク証券取引所（NYSE）へ新規株式上場を果たしました。",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzYXphdzB1Y1dlaW1HNmUxdXdfdkNsWlVzVFNaZi1DV3QyX1VoVmw2a1ZySzhodHdOcnJDVmdlckpoRmdoX25xT05ZdHVtUnBzdnZXYjRkTVFGczZC?oc=5",
-   "source": "Google News Dentistry",
-   "lang": "en",
-   "date": "2026-11-15T02:41+09:00",
-   "title_ja": "スイスの歯科テクノロジー企業vVARDISがNYSEに上場"
+   "title_ja": "米メディケア、在宅ケア・ホスピス施設の新規登録停止措置を6か月延長"
   },
   {
    "category": "business",
-   "title": "経産省とアジア開発銀行 アジアの原発導入支援 協力覚書で調整",
-   "summary": "経済産業省とアジア開発銀行（ADB）は、アジア各国への原子力発電導入支援に向けた協力覚書の締結に向けて調整を進めており、日本企業の市場参入支援につなげる考えです。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76028",
+   "title": "消費税減税法案 参院で審議続く 国民 公明の協力が焦点に",
+   "summary": "与党が少数派となっている参議院で食料品の消費税減税関連法案の審議が続いており、法案成立に向けて国民民主党や公明党など他党からの協力が得られるかが今後の焦点となっています。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261116de76325",
    "source": "NHK 経済",
    "lang": "ja",
-   "date": "2026-11-15T06:05+09:00",
-   "title_ja": "経産省とアジア開発銀行、アジアでの原発導入支援へ協力覚書調整"
+   "date": "2026-11-16T05:38+09:00",
+   "title_ja": "食料品の消費税減税法案が参議院で審議継続 野党の協力が焦点に"
   },
   {
    "category": "business",
-   "title": "[ITmedia Mobile] モバイルセグメントは損失をさらに縮小し、純増基調を維持――楽天グループが2026年度第3四半期決算を発表",
-   "summary": "楽天グループが2026年度第3四半期決算を発表しました。楽天モバイルはローミング終了の影響を抑え、契約数の純増基調を維持しつつ営業損失を縮小させました。",
-   "link": "https://www.itmedia.co.jp/mobile/articles/2611/14/news016.html",
-   "source": "ITmedia",
-   "lang": "ja",
-   "date": "2026-11-14T15:00+09:00",
-   "title_ja": "楽天グループ2026年度第3四半期決算、モバイル部門の赤字が縮小"
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "summary": "NVIDIAの元CEOが関与するスパイ疑惑人物の退職が明らかになり、米国の輸出規制にもかかわらず最先端AI半導体が中国へ流出したのではないかという懸念が強まっています。",
+   "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "lang": "en",
+   "date": "2026-11-15T23:56+09:00",
+   "title_ja": "NVIDIA元CEO関連の中国スパイ疑惑人物が2025年に退職 米規制下のAIチップ流出に懸念"
   },
   {
    "category": "politics",
-   "title": "在日米軍駐留経費 アメリカ 3倍の日本側負担を要求 日本は難色",
-   "summary": "来年度から5年間の在日米軍駐留経費をめぐり、米国が日本に対し従来のおよそ3倍にあたる3兆円超の負担を要求し、日本政府が難色を示して調整を行っています。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76026",
+   "title": "高市首相 東南アジアなどと先端技術分野で共同研究提案へ",
+   "summary": "各国の首脳会議に出席する高市総理大臣は、AIや量子技術をはじめとする先端技術分野における国際的な共同研究構想を東南アジア諸国などへ提案する方針を固めました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76245",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-15T06:06+09:00",
-   "title_ja": "米国、在日米軍駐留経費の日本側負担3倍増（3兆円超）を要求"
+   "date": "2026-11-16T05:21+09:00",
+   "title_ja": "高市首相、東南アジア諸国とAI・量子など先端技術分野での共同研究を提案へ"
   },
   {
    "category": "politics",
-   "title": "高市首相 東南アジアなどと「アジア版IEA」創設を提唱で調整",
-   "summary": "高市首相は、東南アジア各国などとの首脳会合で、中東情勢を踏まえた石油備蓄の協調放出ルールなどを検討する新たな枠組み「アジア版IEA」の創設を提唱する方針です。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261114de76011",
+   "title": "福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず",
+   "summary": "13人の新人が乱立した福岡市長選挙において、すべての候補者が有効投票数の4分の1に達しなかったため、公職選挙法に基づき政令指定都市として異例の再選挙が行われることになりました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76099",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-15T00:46+09:00",
-   "title_ja": "高市首相、東南アジア諸国と「アジア版IEA」創設を提唱へ"
+   "date": "2026-11-16T02:17+09:00",
+   "title_ja": "福岡市長選挙で全候補者が法定得票数に届かず再選挙へ"
   },
   {
    "category": "ai",
    "title": "【追記あり】M365障害、ChatGPT／Claudeのコネクタにも影響 「ほとんどのリクエストで動作しない」",
-   "summary": "Microsoft 365の大規模障害の影響を受け、ChatGPTやClaudeのM365連携コネクタ機能が正常に動作しない障害が発生していると両社が発表しました。",
+   "summary": "Microsoft 365で大規模な障害が発生した影響を受け、OpenAIのChatGPTやAnthropicのClaudeにおけるMicrosoft 365連携コネクタも正常に動作しなくなっていることが報告されました。",
    "link": "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/",
    "source": "ITmedia AI+",
    "lang": "ja",
    "date": "2026-11-14T20:35+09:00",
-   "title_ja": "Microsoft 365障害、ChatGPT・ClaudeのM365コネクタにも波及"
+   "title_ja": "Microsoft 365の障害がChatGPTやClaudeのコネクタ機能にも影響"
   },
   {
    "category": "ai",
    "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-   "summary": "義肢やPC操作を可能にする脳インプラント治験の参加者たちが、研究への更なる自立的関与や守秘義務契約（NDA）の緩和などを研究者に求めています。",
+   "summary": "脳活動の解読や義肢・PC操作を可能にする脳インプラント技術の研究が進む中、治験に参加するボランティア患者から、より高い自立性や秘密保持契約（NDA）の緩和を求める声が上がっています。",
    "link": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
    "source": "MIT Technology Review",
    "lang": "en",
    "date": "2026-11-13T19:00+09:00",
-   "title_ja": "脳インプラント治験参加者、自主性の拡大と守秘義務緩和を要求"
+   "title_ja": "脳インプラント治験の参加者がより高い自立性と秘密保持契約の見直しを要望"
   },
   {
    "category": "startup",
    "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
-   "summary": "エヌビディアのジェンスン・フアン氏の退任を受け、AIスタートアップへの資金供給減少が懸念されている。同氏の下で数十億ドルが投じられていたが、創業者やVCは投資額の縮小や企業評価額の下落に備えている。",
+   "summary": "NVIDIAのジェンスン・フアン氏の辞任により、AIスタートアップへの投資環境に大きな懸念が生じている。同氏のもとで同社は巨額投資を行ってきたが、退任に伴いベンチャーキャピタルや創業者らは投資規模の縮小や評価額の下落を警戒している。",
    "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-14T07:43+09:00",
-   "title_ja": "ジェンスン・フアン氏の退任がAIスタートアップの資金調達に大きな打撃、VCや創業者が懸念"
+   "title_ja": "NVIDIAフアン氏退任でAIスタートアップ投資に打撃、投資額減と評価額低下の懸念"
   },
   {
    "category": "startup",
    "title": "AI agent startup LangChain hits $3B valuation",
-   "summary": "AIエージェント開発スタートアップのLangChainは、自社の評価額が30億ドルに達した。同社のモデルやプラットフォームに依存しない管理ツール「LangSmith」の顧客数は7,000社に達しているという。",
+   "summary": "AIエージェント開発スタートアップのLangChainは、評価額が30億ドルに達した。同社のモデルやプラットフォームに依存しないエージェント管理ツール「LangSmith」は、現在7,000社の顧客を獲得していると主張している。",
    "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-14T04:37+09:00",
-   "title_ja": "AIエージェント開発のLangChain、評価額が30億ドルに達する"
+   "title_ja": "AIエージェント開発のLangChain、評価額が30億ドルに到達"
+  },
+  {
+   "category": "finance",
+   "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+   "summary": "NVIDIAのジェンスン・フアンCEOの辞任に伴い、ハワード・ルトニック商務長官とその家族の会社と同社との間に存在する財務的つながりに対し、改めて厳しい監視の目が向けられている。",
+   "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+   "source": "CNBC Markets",
+   "lang": "en",
+   "date": "2026-11-16T04:58+09:00",
+   "title_ja": "NVIDIAを巡る疑惑でルトニック商務長官に追及、息子らの企業とNVIDIAの資金的関係が浮き彫りに"
   },
   {
    "category": "finance",
    "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
-   "summary": "ETFの専門家によると、エヌビディアの経営陣の動揺や米議会における民主党の優勢により、AI需要の恩恵が他の大手IT企業や競合の半導体メーカーへと移行し、AI関連銘柄の投資動向が再編される可能性がある。",
+   "summary": "ETF専門家によると、NVIDIAの経営不透明感や民主党が支配する米議会の動きにより、AI関連の市場需要が他の大手IT企業や競合半導体メーカーへシフトし、取引の構図が変化する可能性がある。",
    "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
    "source": "CNBC Markets",
    "lang": "en",
    "date": "2026-11-15T00:50+09:00",
-   "title_ja": "エヌビディアの動揺と民主党議会がAI関連投資を再編する可能性、ETF専門家が指摘"
-  },
-  {
-   "category": "finance",
-   "title": "国際関係,バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化及び市中協議文書「技術的改訂―統合されたガイドライン及びサウンド・プラクティス」について公表しました。",
-   "summary": "金融庁は、バーゼル銀行監督委員会による「統合されたガイドライン及びサウンド・プラクティス」の最終化と、技術的改訂に関する市中協議文書の公表を提示した。国際的な銀行規制やリスク管理基準に関する重要な更新となる。",
-   "link": "https://www.fsa.go.jp/inter/bis/20261112/20261112.html",
-   "source": "金融庁",
-   "lang": "ja",
-   "date": "2026-11-13T02:00+09:00",
-   "title_ja": "バーゼル銀行監督委員会が「統合ガイドライン」最終版と技術的改訂の市中協議文書を公表"
+   "title_ja": "NVIDIAの経営混乱と民主党主導の米議会がAI市場を再編する可能性"
   },
   {
    "category": "society",
-   "title": "米中 関税引き下げのための「貿易委員会」初会合開く",
-   "summary": "米国と中国は、関税引き下げなどを議論する「貿易委員会」の初会合をオンラインで開催した。両国は来週中国で開催されるAPECにあわせ、首脳会談の開催に向けた調整も進めている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261114de75960",
+   "title": "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験",
+   "summary": "ロシアの軍事侵攻が続くウクライナにおいて、日本の支援により重機を遠隔操作してがれきを処理する実証実験が本格的に開始された。現地での安全な復興作業に向けた取り組みとして期待される。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76292",
    "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-15T05:45+09:00",
-   "title_ja": "米中、関税引き下げ検討に向け「貿易委員会」の初会合をオンラインで開催"
-  },
-  {
-   "category": "society",
-   "title": "ASEAN首脳会議開幕へ トランプ大統領のアジアへの姿勢にも注目",
-   "summary": "ASEANの一連の首脳会議がフィリピンで開幕する。南シナ海問題やミャンマー情勢に関する議論が焦点となるほか、トランプ米大統領のアジア政策に対する姿勢や日米首脳の動きが注目されている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261114de75995",
-   "source": "NHK 主要",
-   "lang": "ja",
-   "date": "2026-11-15T05:12+09:00",
-   "title_ja": "ASEAN首脳会議がフィリピンで開幕へ、南シナ海問題や米大統領のアジア姿勢が焦点"
+   "date": "2026-11-16T05:40+09:00",
+   "title_ja": "ウクライナで日本の支援による重機遠隔操作のがれき処理実証実験が開始"
   },
   {
    "category": "world",
-   "title": "東南アジアで石油製品供給安定化へ企業協力",
-   "summary": "イラン情勢によるエネルギー不足に対応するため、東南アジアの企業間で石油製品の安定供給に向けた協力協議が始まる。緊急時に石油製品を優先的に調達できる仕組みの導入を目指す。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261114de75964",
+   "title": "イエメン 暫定政権側 バーブルマンデブ海峡から撤退報道も",
+   "summary": "イエメンでサウジアラビアが支援する暫定政権側がバーブルマンデブ海峡周辺の部隊を再配置したと発表した。ロイター通信は暫定政権側が撤退したと報じており、反政府勢力フーシ派との攻防に関わる重要な動向となっている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261116de76328",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-14T19:55+09:00",
-   "title_ja": "東南アジア企業、イラン情勢受け緊急時に石油製品を優先購入する仕組みの協議を開始"
+   "date": "2026-11-16T05:51+09:00",
+   "title_ja": "イエメン暫定政権がバーブルマンデブ海峡から部隊を撤退か、サウジ支援側が再配置発表"
   },
   {
    "category": "world",
-   "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-   "summary": "ウクライナのゼレンスキー大統領は、米国がNATO加盟と引き換えにドンバス地方の放棄を提案したと明かした。米特使がロシアのプーチン大統領らと会談した後の発言だが、米国側は認めていない。",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
+   "title": "Who can force Israel to implement Gaza ceasefire deal?",
+   "summary": "パレスチナ自治区ガザで嵐による被害が広がる中、イスラエルによる人道支援物資の搬入制限が続いている。停戦合意の実効性をどのように担保し、イスラエルに履行を促せるかが国際社会の課題となっている。",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+   "source": "Al Jazeera",
    "lang": "en",
-   "date": "2026-11-15T05:41+09:00",
-   "title_ja": "米国がNATO加盟の条件としてドンバス割譲案を提示とゼレンスキー大統領が明かす"
+   "date": "2026-11-16T05:37+09:00",
+   "title_ja": "ガザ地区での停戦合意履行に向けた国際社会の役割と人道支援の制限問題"
   },
   {
    "category": "science",
-   "title": "小児がん経験の高校生が治療での外見変化の影響調査 学会発表",
-   "summary": "大阪の小児がん経験者の高校生が、治療に伴う脱毛やむくみなど外見変化の悩みについて全国の患者と家族を対象にアンケート調査を実施した。その結果を横浜市で開催された学会で発表した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261114de75823",
-   "source": "NHK 科学・文化",
-   "lang": "ja",
-   "date": "2026-11-14T13:24+09:00",
-   "title_ja": "小児がん治療による外見変化の悩みを高校生が全国調査、学会で発表"
-  },
-  {
-   "category": "science",
-   "title": "相次ぐ情報漏えいでアナログ回帰？ ダイソー「パスワード管理ノート」が品薄に 一方でリスクも──IPAに聞いた",
-   "summary": "相次ぐ情報漏洩を受けダイソーの紙製「パスワード管理ノート」が一時品薄となった。IPAは紙管理を否定しないものの、盗難等のリスクを指摘し、多要素認証やパスキーの設定を推奨している。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/14/2000003193/",
+   "title": "NVIDIAフアン前CEOの復帰求める署名が11万人超 マスク氏らも賛同、米議会は追及継続",
+   "summary": "NVIDIAのジェンスン・フアン前CEOの復帰を求める署名が11万人を超え、イーロン・マスク氏らも賛同した。取締役会へ公正な調査と説明を求めるとともに、米政府や議会による調査も進行しており、波紋が広がっている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/15/2000003207/",
    "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-14T07:30+09:00",
-   "title_ja": "ダイソーの「パスワード管理ノート」が品薄に、IPAが示す紙管理のリスクと推奨対策"
+   "date": "2026-11-15T07:15+09:00",
+   "title_ja": "NVIDIAフアン前CEOの復帰署名が11万人突破、マスク氏賛同で米議会調査も加速"
+  },
+  {
+   "category": "science",
+   "title": "福井 不正アクセスの影響でデジタル通貨サービスを一時停止",
+   "summary": "福井県が発行するデジタル地域通貨において、決済システムを提供する企業が不正アクセスを受けたため、県は予防措置としてサービスを一時停止した。現時点で利用者の個人情報の流出は確認されていない。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261115de76188",
+   "source": "NHK 科学・文化",
+   "lang": "ja",
+   "date": "2026-11-15T18:52+09:00",
+   "title_ja": "福井県がデジタル地域通貨を一時停止、決済システムへの不正アクセスが原因"
   },
   {
    "category": "law",
    "title": "外国人漁業の規制に関する法律施行規則及び排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行規則の一部改正案及び外国人漁業の規制に関する法律第2条第7項の農林水産大臣の指定する船舶を定める件の制定案についての意見・情報の募集について",
-   "summary": "水産庁は、外国人漁業規制法および排他的経済水域（EEZ）における漁業主権行使法の施行規則一部改正案等についてパブリックコメントを開始した。意見の受付締切は2026年12月12日。",
+   "summary": "水産庁は「外国人漁業の規制に関する法律施行規則」などの一部改正案について意見募集を開始した。排他的経済水域での権利行使や農林水産大臣が指定する船舶の策定に関するパブリックコメントを行っている。",
    "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=550004446&Mode=0",
    "source": "パブリックコメント(e-Gov)",
    "lang": "ja",
    "date": "2026-11-13T00:00+09:00",
-   "title_ja": "水産庁、外国人漁業規制およびEEZ法等の施行規則改正案でパブリックコメントを開始"
+   "title_ja": "水産庁、外国人漁業規制法などの施行規則改正案に関するパブリックコメントを実施"
+  },
+  {
+   "category": "law",
+   "title": "「自動車騒音の大きさの許容限度」の一部を改正する案に対する御意見の募集（パブリック・コメント）について",
+   "summary": "環境省は「自動車騒音の大きさの許容限度」の一部改正案を作成し、パブリックコメントによる意見募集を開始した。環境保全の観点から自動車の騒音規制基準に関する規定の見直しを進めている。",
+   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=195260075&Mode=0",
+   "source": "パブリックコメント(e-Gov)",
+   "lang": "ja",
+   "date": "2026-11-13T00:00+09:00",
+   "title_ja": "環境省、「自動車騒音の大きさの許容限度」改正案に関する意見募集を開始"
+  },
+  {
+   "category": "environment",
+   "title": "What’s next for California’s climate laws following an appeals court split decision",
+   "summary": "米第9巡回区連邦控訴裁判所はカリフォルニア州の気候法に関する判断を示した。法案SB 253に基づくスコープ1および2の温室効果ガス排出量報告の進行を認めた一方、スコープ3の報告や法案SB 261の適用差し止めを決めた。",
+   "link": "https://www.utilitydive.com/news/whats-next-for-california-climate-laws-sb253-sb261-following-appeals-court-split-decision/874631/",
+   "source": "Utility Dive",
+   "lang": "en",
+   "date": "2026-11-14T02:00+09:00",
+   "title_ja": "カリフォルニア州気候関連法に対する控訴裁の判断と今後の展望"
   },
   {
    "category": "environment",
    "title": "Utility, tech officials see opportunities to increase grid utilization",
-   "summary": "BNEFヒューストンサミットにて、電力やIT企業の担当者が送電網の利用効率向上に向けた議論を行いました。専用AIモデルや送電網強化技術が役立つ一方、既存の計画手法やツールでも柔軟性を高められるとの見解が示されました。",
+   "summary": "BNEFヒューストンサミットにて、電力会社やIT企業の幹部らが送電網の利用率向上について議論した。特化型AIや送電網強化技術を活用することで、既存の計画ツールを活かした柔軟な電力網構築が可能になるとの見解を示した。",
    "link": "https://www.utilitydive.com/news/utility-tech-officials-see-opportunities-to-increase-grid-utilization/874644/",
    "source": "Utility Dive",
    "lang": "en",
    "date": "2026-11-14T02:26+09:00",
-   "title_ja": "電力・IT高官がAIや最新技術を活用した送電網利用率向上に期待"
+   "title_ja": "AIや先端技術による電力網の活用率向上に期待"
   },
   {
    "category": "work",
-   "title": "AED操作 どの工程に時間がかかっている？ 8,115 件の実使用ログを解析 岡山大学 - 大学ジャーナルオンライン",
-   "summary": "岡山大学の研究チームは、AEDの実際の使用ログ8,115件を解析し、救命処置のどの工程に時間がかかっているかを明らかにしました。救急医療現場や教育現場におけるAEDの操作性向上および教育訓練の改善に役立つ統計データです。",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5TY2hEdzlmMkRNbnd4cVptSlVDNkdlS2ptbnAzWm4zeVN6VUVRdzF0NGNhazg5eTlkNDFtYzNEdDdmZmFLWHlJ?oc=5",
+   "title": "【約7割が書類選考の縮小・廃止を検討】新卒・中途採用における AI面接導入に関する最新の実態調査 - HRプロ",
+   "summary": "新卒・中途採用におけるAI面接導入に関する最新の実態調査が公表された。調査結果によると、企業の約7割が書類選考の縮小や廃止を検討しており、採用プロセスの効率化やAI技術の活用が急速に進んでいる状況が明らかになった。",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SlZYWWU1WEhZT2JrVjdfVFQta2tLWjlzRzdUZXprV2FtdzJYaWgtaVV2N1ZWUU15Q1ZKeGNOYzh4MUhYVHBKdVlsaV9TLXliWno0R2YwbndVenIwZkpMV0x1Y0JNay1pLU4tUw?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-14T17:07+09:00",
-   "title_ja": "岡山大学がAEDの実使用ログ8115件を解析、操作のタイムロス工程を解明"
+   "date": "2026-11-15T17:30+09:00",
+   "title_ja": "採用活動でのAI面接導入実態調査、約7割が書類選考縮小を検討"
   },
   {
    "category": "work",
-   "title": "「こども性暴力防止法」が2026年12月25日施行。対象となる事業者と「採用・運営」で求められる6つの実務とは - HRプロ",
-   "summary": "2026年12月25日に施行される「こども性暴力防止法」について、対象事業者が採用や組織運営で実施すべき6つの実務ポイントを解説しています。子どもと接する事業を展開する医療機関や教育関連事業者にとって重要な制度変更です。",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91RzJjbW5TSVlMSl9xQk12YWZtVm1YZi1LcXJNLTFoSlRXYVdfd1EwczlxTkk2VjVkWHpmNHNQRDAyOWM3Q056clZYM3lLbm5vbEFLN3BjemptWWh1ZzRMYQ?oc=5",
+   "title": "自宅での眼球トレーニングで子どもの「見る力」が向上する可能性 筑波大学 - 大学ジャーナルオンライン",
+   "summary": "筑波大学の研究チームは、自宅で継続的な眼球トレーニングを行うことで、子どもの視機能や「見る力」が向上する可能性を発表した。発達障害や視覚的学習に課題を持つ子どもへの支援手法として期待が寄せられている。",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE15SExoZHIzMjg1b0ZiWVVwaF9pNndEbEJpQ1hGeUNKOWJ2ZFBmMl9YdlNDZFRvaE1jRGpQUTBWQTBrVzVOQkRJ?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-14T06:25+09:00",
-   "title_ja": "「こども性暴力防止法」が2026年12月施行、求められる実務を解説"
+   "date": "2026-11-15T17:00+09:00",
+   "title_ja": "自宅での眼球トレーニングによる子どもの「見る力」向上を筑波大が示唆"
   },
   {
    "category": "security",
-   "title": "(クローズアップNOW)サイバー攻撃を受け、政府が緊急対策 2026.11.15付 - 公明新聞電子版プラス",
-   "summary": "相次ぐサイバー攻撃の脅威を受けて、日本政府が緊急対策を取りまとめました。重要インフラや政府機関のセキュリティ体制強化に向けた具体的な対応策が盛り込まれており、社会全体での安全保障レベルの向上を図る方針です。",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XY19XQTY3N3BlS3dUY1U4bllkLUpQSHB1SjZFZWdFNEIxUEJRaFpiQ1JSZ2U3WTZHOWI0SXJBN20wUUY2Z1NwMmdkaXplRTg5a29Jc0ZKZndJZUZVV1E5RXJwWlFGMEJ3WDZIWEdR?oc=5",
-   "source": "Google News 災害・防衛",
-   "lang": "ja",
-   "date": "2026-11-15T05:14+09:00",
-   "title_ja": "サイバー攻撃の激化を受け政府が緊急対策を公表"
+   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "summary": "FBIは、AIを搭載したペネトレーションテスト用フレームワーク「ARTEX」が悪用され、世界中でサイバー攻撃が自動化されていると警告した。最近発生したConnectWiseのサプライチェーン侵害にも関与が疑われている。",
+   "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "date": "2026-11-16T03:29+09:00",
+   "title_ja": "FBIが警告、AIハッキングツール「ARTEX」による世界的なサイバー攻撃が拡大"
   },
   {
    "category": "security",
-   "title": "サイバー攻撃…AI悪用サーバー1000台発見 弱点探索し不正侵入か - 西日本新聞me",
-   "summary": "サイバー攻撃者がシステムの弱点を探索して不正侵入するために、AIを悪用したサーバーが約1,000台発見されました。従来の攻撃よりも自動化・高度化された脅威が増大しており、社会インフラや企業のセキュリティ対策の強化が求められます。",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1VRFNHWnRJeEVXbmNPUzFUSmMzbnh3LVRIOUtTZjVibV8ycnBzelBzZmZlMFRJdXN4MmliUE16YmFoUnRCakNkNFFEWmFybDBrYUU3R2t3?oc=5",
-   "source": "Google News 災害・防衛",
-   "lang": "ja",
-   "date": "2026-11-15T06:00+09:00",
-   "title_ja": "AIを悪用したサイバー攻撃用サーバー1000台が発見される"
+   "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+   "summary": "イタリアデータ保護当局は、FacebookのAndroid版アプリがユーザーの明示的な同意なしに端末ギャラリー内の写真や動画を推薦表示していたとして、Metaに8億500万ユーロの制裁金を科したと発表した。",
+   "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+   "source": "The Hacker News",
+   "lang": "en",
+   "date": "2026-11-15T20:27+09:00",
+   "title_ja": "イタリア当局、Metaに明示的同意のない画像アクセスで8億500万ユーロの制裁金"
   }
  ]
 }
