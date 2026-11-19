@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T06:29+09:00",
- "ai_summary": false,
+ "generated_at": "2026-11-20T06:27+09:00",
+ "ai_summary": true,
  "categories": [
   {
    "id": "medical",
@@ -62,255 +62,253 @@
  "items": [
   {
    "category": "medical",
-   "title": "FOCUS：血液検査について考え直す2〈再考から導き出されたPearl ＆ Pitfall〉 - 日本医事新報社",
-   "summary": "FOCUS：血液検査について考え直す2〈再考から導き出されたPearl ＆ Pitfall〉 日本医事新報社",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCZUlKYmxpZ3BidV9IUFJqM01hQ0k3MXBXN01ubjVSZVhIN0lTR19ockJscUVIQUs0d2VGTnl6WUhwUGsyZnlPTHVqaFV4dndXT2ZuLVhiNVlOaUlvWDMwdQ?oc=5",
-   "source": "MT・日本医事新報",
-   "lang": "ja",
-   "date": "2026-11-18T22:44+09:00"
+   "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
+   "summary": "米国議会のバイオテクノロジー議員連盟を率いる議員らが、中国との競争で米バイオ関連産業が優位に立つため、政府は迅速な法的・政策的支援を行うべきだと提言している。",
+   "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
+   "source": "STAT",
+   "lang": "en",
+   "date": "2026-11-20T02:04+09:00",
+   "title_ja": "米バイオテクノロジー産業の対中競争力強化へ 米議員が迅速な行動要求"
   },
   {
    "category": "medical",
-   "title": "医薬品安定供給・流通確認システムへの不正アクセスに係る 個人情報の漏えいについて",
-   "summary": "",
-   "link": "https://www.mhlw.go.jp/stf/newpage_77515.html",
-   "source": "厚生労働省",
-   "lang": "ja",
-   "date": "2026-11-18T16:30+09:00"
+   "title": "Republicans contend with lack of drug policy action, despite controlling Congress",
+   "summary": "米上院公聴会で高額な薬価問題への懸念が一致したものの、製薬業界の反発や手続きの遅れにより改革が停滞している。議会多数派の共和党も政策実行に向けた対応に直面している。",
+   "link": "https://www.healthcaredive.com/news/republicans-contend-with-lack-of-drug-policy-action-despite-controlling-co/875195/",
+   "source": "Healthcare Dive",
+   "lang": "en",
+   "date": "2026-11-20T01:14+09:00",
+   "title_ja": "米議会の薬価改革が停滞 業界の反発で政策進展に遅れ"
   },
   {
    "category": "dental",
-   "title": "2026年ICOI国際口腔インプラント学会 日本支部学術大会が開催 - クインテッセンス出版",
-   "summary": "2026年ICOI国際口腔インプラント学会 日本支部学術大会が開催 クインテッセンス出版",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ibFplMDhtZ20zOTJpeHJsbV9RNk5sbHJETDBJZmduVGQ1NThBNVhUSTEwM2FWdEpxWl9KNVZUTGpWUzZyLXoxY0hxdU1Eb1ZQblRST0JuVnBpZw?oc=5",
-   "source": "歯科専門(クインテッセンス・デンタルプラザ)",
-   "lang": "ja",
-   "date": "2026-11-18T14:50+09:00"
+   "title": "Dental Equipment Market to Reach US$ 15.3 Bn by 2031, Growing at 7% CAGR as Digital Dentistry and AI Imaging Reshape Competition: Wissen Research - PR Newswire UK",
+   "summary": "Wissen Researchの調査によると、世界の歯科機器市場はデジタル技術やAI画像診断の台頭に伴い年平均7%で成長し、2031年には153億ドル規模に達すると予測されている。",
+   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQV2lrWUtUTHQtbjh1cks3eWh2QVl2SV84VksyUk03U3BENmw4cWh0Y3ktaGFTd1NpOVJ6Q2Etb2FoS2o2bThaWnJJV1E5aThuU0JLT1E1U2NjU2NyUUxEN0NGamlSZVVva0lKU1lnaEMzc3BFNmthZEZnVk1SaGZDT2VYUV9MOWQ4SmxNNHhLbXFFUjFXeE5yM3BZc3VyZ3Z6cXkxbGlmZmR5N1VqaG1nOUdjZ3prZkQ3cDZOVDNPbkRRVWsyNnhsX2E1MXNadGc4RFFIWERJRXZiekNPY3d5Qmh0eXc1LURFX1NIT1lNMmNXX2JKY2pDYTZfQ1Q2T3JuMDhNWWVWZnViN2cyNG5USnVpQVo3VVMxZ09YLUNTdG4xRERmcUJz?oc=5",
+   "source": "Google News Dentistry",
+   "lang": "en",
+   "date": "2026-11-20T05:45+09:00",
+   "title_ja": "世界の歯科機器市場、デジタル歯科とAI画像技術の普及で2031年に153億ドル規模へ"
   },
   {
    "category": "dental",
-   "title": "【2026年】川崎駅の歯医者さん おすすめしたい18医院 - メディカルドック",
-   "summary": "【2026年】川崎駅の歯医者さん おすすめしたい18医院 メディカルドック",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5QZFRtNjZfSmtVR000NVllbnctMUVNazl3Nm1qX1pfa0stWEVnTkVlQXVySUllMnR5Nl9LaHZ4Nmg2bWd1LVJPelplOWM0MUtfOVQ2c0pDcVpnRlRIblE5SGRMakhCQQ?oc=5",
-   "source": "Google News 歯科業界",
-   "lang": "ja",
-   "date": "2026-11-19T00:48+09:00"
+   "title": "123Dentist CEO and his wife fund Dalhousie dentistry’s largest research gift to study mouth-body links - Oral Health Group",
+   "summary": "123DentistのCEO夫妻がダルハウジー大学歯科学部に同学部過去最大規模の寄付を行い、口腔健康と全身の健康状態との関連性に関する研究支援を実施することを発表した。",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdnRBdU1SakdZNXFpVGdOZU9VaXY2dXdldlpGZVhteG4zNnotdHVsbUN1NHRhMWpCMVFkb0V2X2RjQWRwRnppeE1GZVpFZGJWSzVMWnlmSzg3dHpPNExUUzdhSDh2aDRsWHdjeUFJWUFpUWEtMW55d1R4dDZSUkQ3dTVSVnhrbXhzOFBXdm9qUmUwNWpoSE1QX292WEUyOTFJYmR0ZzBNOFQ3aUhEM0hKN3RzVXhVdEhTbXcycUVTT0FlcWEtMVItYWVnQTNyamd1Nmxpa25Vdm1fZHJLeExiZjRxTUZsYWUwZ3lGMWYzaGZQRTQ?oc=5",
+   "source": "Google News Dentistry",
+   "lang": "en",
+   "date": "2026-11-20T04:42+09:00",
+   "title_ja": "123DentistのCEO夫妻、口腔と全身疾患の関連研究へ過去最大の寄付金を寄贈"
   },
   {
    "category": "business",
-   "title": "[ITmedia ビジネスオンライン] アサヒは購買データ、サッポロは売り場連動、フマキラーはAI 3社が挑むリテールメディアの次の一手",
-   "summary": "リテールメディアの活用が広がる中、メーカーには広告配信にとどまらず、小売業との連携を通じて顧客との関係を深める取り組みが求められている。アサヒビール、サッポロビール、フマキラーの3社は、購買データの活用や広告と売り場の連動、AIによる顧客支援などを通じて、LTV（顧客生涯価値）の最大化を目指す。",
-   "link": "https://www.itmedia.co.jp/business/articles/2611/19/news032.html",
-   "source": "ITmedia",
-   "lang": "ja",
-   "date": "2026-11-19T05:30+09:00"
-  },
-  {
-   "category": "business",
-   "title": "ネットにつながらない携帯電話発売へ 脱ネット需要がねらい",
-   "summary": "auを展開するKDDIは、通話やメッセージのやりとりなど機能を最小限にした新たな携帯電話を発表しました。情報社会の中でインターネットから一時的に離れたいニーズなど新たな需要を取り込むねらいです。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261118de77672",
+   "title": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
+   "summary": "米データセキュリティ大手の調査により、企業等へのサイバー攻撃が相次ぐ中、日本は他国と比較してAIを活用した異常検知などのセキュリティ対策の導入が遅れている実態が判明した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78715",
    "source": "NHK 経済",
    "lang": "ja",
-   "date": "2026-11-18T23:29+09:00"
+   "date": "2026-11-20T05:31+09:00",
+   "title_ja": "日本のサイバー攻撃対策、AI活用による異常検知等で諸外国から遅れ"
+  },
+  {
+   "category": "business",
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "summary": "対話型AI「Claude」を手がける米アンソロピックが株式市場に新規上場し、過去最大規模となる810億ドルを調達。世界で最も価値のある企業の一つとして評価された。",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "lang": "en",
+   "date": "2026-11-20T00:58+09:00",
+   "title_ja": "AI開発のアンソロピック、IPOで810億ドル調達 世界有数の企業価値に"
   },
   {
    "category": "politics",
-   "title": "消費減税に合わせた支援金 年収56万円程度からの案",
-   "summary": "政府は、食料品の消費税減税と合わせて導入するとしている「支援金」の支給が始まる年収について、これまで複数の案を示してきましたが、新たに年収56万円程度からとする案を検討していることがわかりました。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78090",
+   "title": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
+   "summary": "高市首相はトランプ米大統領と電話会談を行い、米中ロ首脳会談の詳報を受けた。政府は三カ国会談が国際情勢に及ぼす影響を注視し、同盟国等との連携を深める方針を示した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de78749",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-19T06:14+09:00"
+   "date": "2026-11-20T06:09+09:00",
+   "title_ja": "高市首相とトランプ米大統領が電話会談 米中ロ首脳会談の影響を注視"
   },
   {
    "category": "politics",
-   "title": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱 津波の心配なし - ウェザーニュース",
-   "summary": "熊本県天草・芦北地方でM5.7の地震 最大震度5弱 津波の心配なし ウェザーニュース 「1週間程度は最大震度5弱程度の地震に注意」気象台（熊本ニュース KAB ONLINE） Yahoo!ニュース 熊本で未明に震度５弱 Ｍ５・７、津波の心配なし 山陽新聞 【速報】熊本・天草 芦北地方で震度5弱 午前2時22分ごろ 津波の心配なし テレ朝NEWS 熊本県で震度5弱を観測 マグニチュード5.7、津波の心配なし 産経ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2VDlxbUVnWkFFcXl6am1ZSS1idk5RNXhTZlRtdktJNUlmdGVrcm15THB5R0tueUdvenowdHdqQlBIWF9HS2gzMkdiWkFRNDJnQW9PcndmNU1UOUE?oc=5",
+   "title": "高市首相、トランプ氏との電話会談で米中露首脳会談などの説明受ける…「率直に意見交換を行った」 - 読売新聞",
+   "summary": "高市首相はトランプ米大統領と電話会談を実施し、米中露首脳会談の内容について詳細な説明を受けた。両首脳は国際社会の情勢を踏まえつつ率直な意見交換を実施した。",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IVkZNYnJCUjlBbjQxWGJBX0pZQVN0MlU5RHFoMF9lckpUUmNkQ2ZPYXIwc0Z2TzQ2N2hVcUJYYW10ZGtuLThWWW1iRjZYOUtvWjUwMmJ3dkhaZzRTaktybDg3THVTZw?oc=5",
    "source": "Google News 政治",
    "lang": "ja",
-   "date": "2026-11-19T02:28+09:00"
+   "date": "2026-11-19T22:39+09:00",
+   "title_ja": "高市首相とトランプ氏が電話会談 米中露首脳会談めぐり意見交換"
   },
   {
    "category": "ai",
-   "title": "「オントロジー」とは結局何なのか Palantir、Databricks、Snowflake、NVIDIAで中身が違う理由",
-   "summary": "AIの書いたSQLがエラーなく動いても、「売上」の定義を取り違えれば、欲しい数字は得られない。こうした業務上の意味を共有する仕組みとして注目されるのが「オントロジー」だ。何を定義し、どこまで実行するのか。従来の考え方と各社の製品を比べ、開発者の視点で整理する。",
-   "link": "https://atmarkit.itmedia.co.jp/ait/articles/2611/19/news008.html",
+   "title": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash-1017」が月3000リクエストまで無料 さくらのAI推論基盤で提供",
+   "summary": "さくらインターネットの推論API基盤「さくらのAI Engine」で「GLM-5.3-Flash」等の試験提供が開始された。利用者は毎月3000リクエストまで無料で利用できる。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/",
    "source": "ITmedia AI+",
    "lang": "ja",
-   "date": "2026-11-19T05:00+09:00"
+   "date": "2026-11-19T16:45+09:00",
+   "title_ja": "さくらインターネット、AI推論基盤で最新モデル2種の無料試験提供を開始"
   },
   {
    "category": "ai",
-   "title": "The AI Hype Index: AI is everywhere",
-   "summary": "Like a nasty rash, AI seems to spread everywhere. Google crams AI Overviews down your throat even though it costs the company billions of dollars in lost ad revenue. Leave your apartment, and you might pass two people he…",
-   "link": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-18T23:42+09:00"
+   "title": "ファミマが「AIロボット」本格導入へ 飲料補充に活用、作業時間の約7割を削減",
+   "summary": "ファミリーマートが店舗での飲料補充業務にAIロボットを本格導入する。自動化により対象作業時間を約7割削減することを目指し、店舗運営の効率化と省力化を本格的に推進する。",
+   "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/",
+   "source": "ITmedia AI+",
+   "lang": "ja",
+   "date": "2026-11-19T13:27+09:00",
+   "title_ja": "ファミリーマートが飲料補充AIロボットを本格導入作業時間を約7割削減"
   },
   {
    "category": "startup",
-   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-   "summary": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
-   "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+   "summary": "NVIDIAによる未公開企業への投資評価額が、ジェンスン・フアンCEOの積極的な取引と出資先の企業価値上昇により過去9か月で約3倍の650億ドルに膨らんだ。しかし、同氏の退任に伴い今後の投資方針に対する懸念が示されている。",
+   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
    "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-11-19T04:29+09:00"
-  },
-  {
-   "category": "startup",
-   "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-   "summary": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-   "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-18T21:00+09:00"
+   "date": "2026-11-18T10:44+09:00",
+   "title_ja": "NVIDIAのスタートアップ出資額が650億ドルに膨張、CEO退任で今後の案件には不透明感も"
   },
   {
    "category": "finance",
-   "title": "イベント,「Japan Fintech Week 2027」の開催について公表しました。",
-   "summary": "",
-   "link": "https://www.fsa.go.jp/news/r8/sonota/20261113/japanfintechweek.html",
+   "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+   "summary": "トランプ米大統領は、ロシアのプーチン大統領および中国の習近平国家主席と個別に会談を行った。ウクライナ戦争を巡る議論が焦点となる中、トランプ氏はプーチン氏との良好な関係を主張し、今後の情勢への影響が注視されている。",
+   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+   "source": "CNBC Markets",
+   "lang": "en",
+   "date": "2026-11-19T18:02+09:00",
+   "title_ja": "トランプ大統領、プーチン大統領との会談後に良好な関係を強調 ウクライナ情勢が焦点に"
+  },
+  {
+   "category": "finance",
+   "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
+   "summary": "金融安定理事会（FSB）は「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」を公表した。国際的な送金の効率化や低コスト化、透明性向上を目指す取り組みの進捗状況が詳細に示されている。",
+   "link": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
    "source": "金融庁",
    "lang": "ja",
-   "date": "2026-11-18T02:00+09:00"
-  },
-  {
-   "category": "finance",
-   "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場 - Yahoo!ファイナンス",
-   "summary": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場 Yahoo!ファイナンス",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-   "source": "Google News 市況",
-   "lang": "ja",
-   "date": "2026-11-19T04:39+09:00"
+   "date": "2026-11-18T02:00+09:00",
+   "title_ja": "金融安定理事会、国境を越えた送金改善に向けたG20ロードマップ進捗報告書を公表"
   },
   {
    "category": "society",
-   "title": "死亡の3歳女児に数十か所のあざ 生活実態など捜査 兵庫 伊丹",
-   "summary": "ことし1月、兵庫県伊丹市の自宅で3歳の次女に暴行を加えて死亡させたとして父親が逮捕された事件で、次女の顔や体には数十か所のあざがあったことが警察への取材で分かりました。次女は1か月ほど前に施設から戻っ…",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78092",
+   "title": "都内の再生医療クリニックに緊急命令 重篤疾病発生も報告せず",
+   "summary": "東京都内のクリニックでがんへの再生医療を受けた患者に重篤な疾病が複数発生したものの、国への報告が行われていなかった。厚生労働省は再生医療安全性確保法に基づき、同院に対し再生医療提供の一時停止を命じる緊急命令を出した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78668",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-19T05:29+09:00"
+   "date": "2026-11-19T20:10+09:00",
+   "title_ja": "厚労省、重篤症例を未報告の都内再生医療クリニックに一時停止の緊急命令"
   },
   {
    "category": "society",
-   "title": "低気圧発達で風強まる 北海道中心に暴風に警戒",
-   "summary": "日本付近にある2つの低気圧が急速に発達している影響で、19日は、北日本から東日本の日本海側を中心に風が強まり、波も高くなる見込みです。北海道を中心に暴風に警戒してください。冬型の気圧配置が強まるため、…",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78132",
+   "title": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
+   "summary": "国際司法裁判所（ICJ）は、ミャンマーの少数派ロヒンギャに対する迫害行為について、国家による集団殺害（ジェノサイド）であったと認定する判決を言い渡した。人種や民族を破壊する意図での危害加害が認められた。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78716",
    "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-19T06:18+09:00"
+   "date": "2026-11-20T06:04+09:00",
+   "title_ja": "国際司法裁判所、ミャンマーによるロヒンギャ迫害を「ジェノサイド」と認定"
   },
   {
    "category": "world",
-   "title": "ペルーのケイコ・フジモリ大統領が来日し高市首相と会談へ",
-   "summary": "南米・ペルーのケイコ・フジモリ大統領は就任後初めて19日から日本を訪問し、高市総理大臣との首脳会談などに臨みます。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78085",
+   "title": "プーチン大統領 米中ロ首脳会談意義強調 継続開催に前向き",
+   "summary": "ロシアのプーチン大統領は、初開催となったアメリカ・中国・ロシアによる3か国首脳会談の重要性を主張した。同氏は、この3か国による対話の枠組みを今後も継続して維持・開催していくことに前向きな姿勢を示している。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de78758",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-19T05:23+09:00"
+   "date": "2026-11-20T05:51+09:00",
+   "title_ja": "プーチン大統領、初の米中ロ首脳会談の意義を強調し継続開催に意欲"
   },
   {
    "category": "world",
-   "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
-   "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
-   "link": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
+   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+   "summary": "ベルリンで開催されたサミットにおいて、ウクライナを支援する欧州各国の首脳らは「結束した」交渉方針を確認した。欧州側はウクライナ戦争終結に向け、ロシアとの協議を行う準備があるとの姿勢を示している。",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "lang": "en",
-   "date": "2026-11-19T06:13+09:00"
+   "date": "2026-11-20T06:16+09:00",
+   "title_ja": "欧州諸国、ウクライナ支援国サミットでロシアとの停戦交渉に応じる姿勢を表明"
   },
   {
    "category": "science",
-   "title": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット",
-   "summary": "大ヒットした「木綿のハンカチーフ」などで知られる歌手の太田裕美さんが、亡くなりました。71歳でした。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261118de77513",
-   "source": "NHK 科学・文化",
-   "lang": "ja",
-   "date": "2026-11-19T00:38+09:00"
-  },
-  {
-   "category": "science",
-   "title": "楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」",
-   "summary": "楽天証券の顧客情報漏えい問題で、同社が本番の顧客データをマスキングせずにテスト環境へ保存していたことが分かった。最大約1572万口座分が漏えいした可能性がある。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/18/2000003302/",
+   "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
+   "summary": "北海道岩見沢市と新得町の業務再委託先であるGIS北海道がマルウェアに感染し、個人情報が漏えいした可能性が浮上した。同社は取材に対し、業務用PCでゲーム「NIKKE」を経由した感染が発生したことを認めている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
    "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-18T20:16+09:00"
+   "date": "2026-11-19T20:04+09:00",
+   "title_ja": "美少女ゲーム経由でマルウェア感染、北海道2自治体の委託先で情報漏えいの恐れ"
   },
   {
-   "category": "law",
-   "title": "「バーティポート整備指針」及び「地方航空局における場外離着陸許可の事務処理基準」等の一部改正（案）に関する意見公募について",
-   "summary": "案の公示日：2026/11/18 受付締切日時：2026/12/18 17:00 カテゴリー：航空 問合せ先（所管省庁・部局名等）：国土交通省 航空局 安全部 無人航空機安全課 TEL：03-5253-8111 (代表)",
-   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=155261241&Mode=0",
-   "source": "パブリックコメント(e-Gov)",
+   "category": "science",
+   "title": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も",
+   "summary": "先月重大な脆弱性が判明したプログラミング言語「PHP」において、新たに深刻な脆弱性が発見された。開発団体は修正プログラムを公開したが、Webサイトの停止やサービスへの影響が出ている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78620",
+   "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-18T00:00+09:00"
-  },
-  {
-   "category": "law",
-   "title": "- 確定申告書等作成コーナー",
-   "summary": "確定申告書等作成コーナー",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41QzA2RFlCS25ncmVaOUY1b0UzSTFsSERNd3NsV2twY0htc05HMERlZUJLeTA4UjVySnF3VXhYaEI1eHhUVnF2ZHFYMUl3elBEbVRTa2syLUo?oc=5",
-   "source": "国税庁・法務省・個人情報保護委員会",
-   "lang": "ja",
-   "date": "2026-11-19T04:54+09:00"
+   "date": "2026-11-20T02:19+09:00",
+   "title_ja": "プログラミング言語「PHP」に新たな重大な脆弱性、修正プログラムが公開"
   },
   {
    "category": "environment",
-   "title": "株式会社ぐるなび｜国立公園満喫プロジェクト - 環境省",
-   "summary": "株式会社ぐるなび｜国立公園満喫プロジェクト 環境省",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42aFNhcGRncmwwSVZMVmMzQTRvOF9aenpzT01MRDJOaTVleFJiTjczX01CRWhCb1RXWWpoRUZEdFlvMWpKWUVBSVl3aFZ3RmlHa0dud1ZTTzZOeEFtVHpNWDdvT0pyRlNlZzJUdFdzYXFwTEtr?oc=5",
-   "source": "環境省・資源エネルギー庁",
-   "lang": "ja",
-   "date": "2026-11-18T22:22+09:00"
-  },
-  {
-   "category": "environment",
-   "title": "World ‘held hostage by oil mafia’, says Panama minister at Cop 31",
-   "summary": "Key issues unresolved as summit enters final days, with 30 countries signed up to forge fossil fuel treaty separate to UN process The world is “being held hostage by the petroleum mafia” and seems unable to break free, P…",
-   "link": "https://www.theguardian.com/environment/2026/nov/18/world-held-hostage-by-oil-mafia-says-panama-minister-at-cop-31",
+   "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
+   "summary": "COP31の合意文書草案から化石燃料に関する全ての言及が削除され、途上国への気候支援金策も明記されていないとして、会議が空洞化するリスクが指摘されている。",
+   "link": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
    "source": "The Guardian Environment",
    "lang": "en",
-   "date": "2026-11-19T02:07+09:00"
+   "date": "2026-11-20T02:58+09:00",
+   "title_ja": "COP31合意草案から化石燃料の記載が全削除、「ゴーストサミット」化の懸念"
+  },
+  {
+   "category": "environment",
+   "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
+   "summary": "新たな調査により、ロシア、サウジアラビア、そしてCOP31共同議長国のオーストラリアが、歴史上最大の二酸化炭素排出量の輸出国であることが明らかになった。",
+   "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
+   "source": "Carbon Brief",
+   "lang": "en",
+   "date": "2026-11-17T14:00+09:00",
+   "title_ja": "ロシア、サウジアラビア、豪州が史上最大の二酸化炭素輸出国と判明"
   },
   {
    "category": "work",
-   "title": "【男性育休】取得者の78.8％が仕事・キャリア観を見直し。取得期間は1ヵ月以上が55.9％、復職後の職場関係にも変化 - HRプロ",
-   "summary": "【男性育休】取得者の78.8％が仕事・キャリア観を見直し。取得期間は1ヵ月以上が55.9％、復職後の職場関係にも変化 HRプロ",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YdnNrQkl5bkZRbmpDN3FFNjgySUQ2aUNBZmYtdU1VRDBmLU1RTGR4di10YVZXZGVBT2ZsYTh5ZmhpV0trZHIzSm1YVVp4TEZCX29OSTVuSlhJY0R3OU14SQ?oc=5",
+   "title": "【最新】2027年人事労務 法改正一覧！ 押さえておきたいスケジュール - HRプロ",
+   "summary": "2027年に予定されている人事労務関連の主な法改正一覧と実施スケジュールについて解説された記事。企業が押さえておくべき実務上の注意点を整理している。",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RemFQSV9QYVh1MlN1VWtYU1JCd0c1Y1dnYlkwbHBGM0lEQjJqRWt2RjNfVjZHdFJZNlhocWQ5bVlNYlRDV3h1bGt3QVhhQTQ5V3AxYUl2ZmJUNkZEUjFqcA?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-19T05:39+09:00"
+   "date": "2026-11-20T06:04+09:00",
+   "title_ja": "2027年人事労務の主要法改正スケジュールと注意点一覧"
   },
   {
    "category": "work",
-   "title": "M&A後の組織文化の統合ガイド【出身企業ごとの派閥化を防ぐには】 - HRプロ",
-   "summary": "M&A後の組織文化の統合ガイド【出身企業ごとの派閥化を防ぐには】 HRプロ",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IZXdkNlFEcVh1U1M2TTFqRjFtNFRPRWdWQ19kQ0RXcHZHNDB4M1RhWGQ4NGUwd2xpUU9Makc4ZXdFaVhVUlVXVm1ndEx4djVPQU4xal9ycEo2SjI3M1FmVFE5Q0FXSmhyMGJIbkNn?oc=5",
+   "title": "「人的資本」は会社のものではない ――コーポレートガバナンスの本質から解き明かす、選ばれる組織と経営人材育成の要諦 - 日本の人事部",
+   "summary": "コーポレートガバナンスの視点から「人的資本」の本質的な概念を紐解き、企業が選ばれる組織となるための経営人材育成や持続可能な組織作りの要諦について解説している。",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fck5RNnpNcFplcXJzRC1FWnRybnZoNDd5MWpHTTZ5NFdHVF85d3JVaUo4U2hzWWozY0hrZzZweWkyQjRIdGxkYUYtcjRTVDcyVVlYSmxCN2ZrRzRubHpTRnhLX0JmT1pBM3FFMmU1TTEzVk0?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-19T02:00+09:00"
+   "date": "2026-11-20T04:02+09:00",
+   "title_ja": "人的資本経営とコーポレートガバナンスの本質および人材育成の要諦"
   },
   {
    "category": "security",
-   "title": "Oracle Java の脆弱性対策について(2026年11月)",
-   "summary": "",
-   "link": "https://www.ipa.go.jp/security/security-alert/2026/1118-jre.html",
-   "source": "IPA セキュリティ重要情報",
+   "title": "頻発する自然災害に対応 20カ国のアカデミー、Ｇ20サミットに向け共同声明 - 科学新聞 The Science News",
+   "summary": "世界20カ国の科学アカデミーが、地球規模で頻発する自然災害への対策強化や国際的な連携を求め、G20サミットに向けた共同声明を発表したことが報じられている。",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLb1lpdkdWRGpxTTZLU3ZSYVpVTFdOMjNvTlhzOVRXWjdOdTJSRzFpdXVQNUxPNFlyenVjdE9VdUZIQVNRVEJxUzdMSHM?oc=5",
+   "source": "Google News 災害・防衛",
    "lang": "ja",
-   "date": "2026-11-18T00:00+09:00"
+   "date": "2026-11-20T06:03+09:00",
+   "title_ja": "G20サミットに向け20カ国の科学アカデミーが自然災害対応の共同声明を発表"
   },
   {
    "category": "security",
-   "title": "Weekly Report: N-able N-centralに複数の脆弱性",
-   "summary": "N-able N-centralに複数の脆弱性",
-   "link": "https://www.jpcert.or.jp/wr/2026/wr261118.html#1",
-   "source": "JPCERT/CC",
-   "lang": "ja",
-   "date": "2026-11-18T09:15+09:00"
+   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+   "summary": "ASUSはControl Center Expressの修正版（v1.7.29）を公開した。遠隔の攻撃者が管理コンソールやデバイスの管理者権限を取得できる脆弱性3件に対処している。",
+   "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "date": "2026-11-20T06:15+09:00",
+   "title_ja": "ASUSがControl Center Expressの極めて深刻な脆弱性を警告"
   }
  ]
 }
