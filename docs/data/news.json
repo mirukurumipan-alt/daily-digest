@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:27+09:00",
+ "generated_at": "2026-11-21T06:25+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,253 +62,243 @@
  "items": [
   {
    "category": "medical",
-   "title": "STAT+: Lawmakers want U.S. biotech to outcompete China",
-   "summary": "米国議会のバイオテクノロジー議員連盟を率いる議員らが、中国との競争で米バイオ関連産業が優位に立つため、政府は迅速な法的・政策的支援を行うべきだと提言している。",
-   "link": "https://www.statnews.com/2026/11/19/biotech-news-lawmakers-want-us-biotech-to-outcompete-china/?utm_campaign=rss",
-   "source": "STAT",
-   "lang": "en",
-   "date": "2026-11-20T02:04+09:00",
-   "title_ja": "米バイオテクノロジー産業の対中競争力強化へ 米議員が迅速な行動要求"
+   "title": "■NEWS 特定機能病院の電カルシステム等を国の基幹インフラに、セキュリティ対策を強化へ - 日本医事新報社",
+   "summary": "政府は特定機能病院の電子カルテシステムなどを国の重要インフラに指定し、サイバーセキュリティ対策を強化する方針を固めた。医療機関へのサイバー攻撃リスクに対応し、安定した医療供給体制の維持を目指す。",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ySW9zRFR6ZVRTV0F2SXJkaXRaNi0zVUt2NjhnZ1pVZFdzaWZWbjB5QWVYUHhySFFGS05NR3RxblNGVGsybmxOR2RhMDB2QUlwdU8tNVo0RHNvUVI2dDU3QQ?oc=5",
+   "source": "MT・日本医事新報",
+   "lang": "ja",
+   "date": "2026-11-21T02:59+09:00",
+   "title_ja": "特定機能病院の電子カルテシステム等を国の基幹インフラに指定、セキュリティ強化へ"
   },
   {
    "category": "medical",
-   "title": "Republicans contend with lack of drug policy action, despite controlling Congress",
-   "summary": "米上院公聴会で高額な薬価問題への懸念が一致したものの、製薬業界の反発や手続きの遅れにより改革が停滞している。議会多数派の共和党も政策実行に向けた対応に直面している。",
-   "link": "https://www.healthcaredive.com/news/republicans-contend-with-lack-of-drug-policy-action-despite-controlling-co/875195/",
+   "title": "Margins hit new low as hospitals brace for uninsured surge",
+   "summary": "カウフマン・ホールの調査によると、米国の病院や医療システムの約半数が赤字経営に陥っている。メディケイド改革が迫る中、未補償医療費の増加がさらに多くの医療機関の経営を圧迫するリスクが高まっている。",
+   "link": "https://www.healthcaredive.com/news/margins-hit-new-low-as-hospitals-brace-for-uninsured-surge/875353/",
    "source": "Healthcare Dive",
    "lang": "en",
-   "date": "2026-11-20T01:14+09:00",
-   "title_ja": "米議会の薬価改革が停滞 業界の反発で政策進展に遅れ"
+   "date": "2026-11-21T02:06+09:00",
+   "title_ja": "米国病院の利益率が過去最低に、無保険患者の急増懸念で経営悪化"
   },
   {
    "category": "dental",
-   "title": "Dental Equipment Market to Reach US$ 15.3 Bn by 2031, Growing at 7% CAGR as Digital Dentistry and AI Imaging Reshape Competition: Wissen Research - PR Newswire UK",
-   "summary": "Wissen Researchの調査によると、世界の歯科機器市場はデジタル技術やAI画像診断の台頭に伴い年平均7%で成長し、2031年には153億ドル規模に達すると予測されている。",
-   "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQV2lrWUtUTHQtbjh1cks3eWh2QVl2SV84VksyUk03U3BENmw4cWh0Y3ktaGFTd1NpOVJ6Q2Etb2FoS2o2bThaWnJJV1E5aThuU0JLT1E1U2NjU2NyUUxEN0NGamlSZVVva0lKU1lnaEMzc3BFNmthZEZnVk1SaGZDT2VYUV9MOWQ4SmxNNHhLbXFFUjFXeE5yM3BZc3VyZ3Z6cXkxbGlmZmR5N1VqaG1nOUdjZ3prZkQ3cDZOVDNPbkRRVWsyNnhsX2E1MXNadGc4RFFIWERJRXZiekNPY3d5Qmh0eXc1LURFX1NIT1lNMmNXX2JKY2pDYTZfQ1Q2T3JuMDhNWWVWZnViN2cyNG5USnVpQVo3VVMxZ09YLUNTdG4xRERmcUJz?oc=5",
+   "title": "Navigating automation and interoperability to enhance customer experience and drive dental practice growth - Dental Economics",
+   "summary": "歯科医院の経営成長と患者の満足度向上のため、業務の自動化とシステム間の相互運用性を推進する重要性が示された。最新技術の活用により業務効率化と質の高い医療サービスの両立を目指す。",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNWjQ5NElvQ2hHbTRLcjlSRjVIU3RONHRma0JneUl3LWRKak51V3VqQ1BaRHk4eU03VTRfTHk0RUxtajRMUWF6M3NHUG9SM19iM3o4TVU5Mkp3X20wYnJzc0pOUldvSWFxbHZBNW50SENIUlV1RDJZbHg4VUVBM1hsUThzZ2YzU3kwRzJhZ1B2RHRoRU9FYzdONXVGQ2FKRXRuZ25wYzlybXZnZnFDX09KdjNWT3hMNEJWTlJpNDFTemd3a2VodFlvdll6QlNMWkFQS2VGZHlDQXpNUjhLZkNyNmxIclRnYXQwTEVySzNKOUpyZ0g4Zkhz?oc=5",
    "source": "Google News Dentistry",
    "lang": "en",
-   "date": "2026-11-20T05:45+09:00",
-   "title_ja": "世界の歯科機器市場、デジタル歯科とAI画像技術の普及で2031年に153億ドル規模へ"
+   "date": "2026-11-21T04:45+09:00",
+   "title_ja": "歯科医院の成長に向けた自動化とシステム相互運用性の導入事例"
   },
   {
    "category": "dental",
-   "title": "123Dentist CEO and his wife fund Dalhousie dentistry’s largest research gift to study mouth-body links - Oral Health Group",
-   "summary": "123DentistのCEO夫妻がダルハウジー大学歯科学部に同学部過去最大規模の寄付を行い、口腔健康と全身の健康状態との関連性に関する研究支援を実施することを発表した。",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOdnRBdU1SakdZNXFpVGdOZU9VaXY2dXdldlpGZVhteG4zNnotdHVsbUN1NHRhMWpCMVFkb0V2X2RjQWRwRnppeE1GZVpFZGJWSzVMWnlmSzg3dHpPNExUUzdhSDh2aDRsWHdjeUFJWUFpUWEtMW55d1R4dDZSUkQ3dTVSVnhrbXhzOFBXdm9qUmUwNWpoSE1QX292WEUyOTFJYmR0ZzBNOFQ3aUhEM0hKN3RzVXhVdEhTbXcycUVTT0FlcWEtMVItYWVnQTNyamd1Nmxpa25Vdm1fZHJLeExiZjRxTUZsYWUwZ3lGMWYzaGZQRTQ?oc=5",
+   "title": "Baltimore-Based JMI Equity Backs Dental Software Startup Archy in $50 Million Funding Round - citybiz",
+   "summary": "ボルチモアのJMIエクイティは、歯科医院向けソフトウェア開発のスタートアップ企業Archyに対し、5,000万ドルの資金調達ラウンドを実施した。同社は得た資金でプロダクト開発や事業拡大を加速させる。",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTAyNGZDSjlVcDhiWk9mV21Bd18tSXRsM2xBTXpIY0lobEYyQnFLWnZ1Zkc3Z1RXc1VHOG5BQ3cySjhGMXdSQWtRVEZxVUNBQTliSmJUNm95X0l4OXQwMExhSzl1M2h4MngweHdlOGZOdEV3c0dKUXN5NDdkWUE0NnVCckgtYjFTbzhxRi0zUlhmc3B6aWxYZ2NfX3MtZTB0UU1aQW9oZlNuNlFfeGxvLVk0b3J5SkIxaUsxN3cyZkNHM2JUSGJUcA?oc=5",
    "source": "Google News Dentistry",
    "lang": "en",
-   "date": "2026-11-20T04:42+09:00",
-   "title_ja": "123DentistのCEO夫妻、口腔と全身疾患の関連研究へ過去最大の寄付金を寄贈"
+   "date": "2026-11-21T02:01+09:00",
+   "title_ja": "歯科ソフト開発Archyが5,000万ドル調達、JMIエクイティから出資受ける"
   },
   {
    "category": "business",
-   "title": "サイバー攻撃対策 日本は各国に比べAI使った検知などに遅れ",
-   "summary": "米データセキュリティ大手の調査により、企業等へのサイバー攻撃が相次ぐ中、日本は他国と比較してAIを活用した異常検知などのセキュリティ対策の導入が遅れている実態が判明した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78715",
+   "title": "[ITmedia News] デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+   "summary": "デジタル庁は政府共通業務環境「GSS」のファイル共有サービスで外部漏えいの可能性を発表した。7月末から11月にかけて不認可アクセスがあり、個人情報漏えいの恐れから個人情報保護委員会へ報告を行った。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+   "source": "ITmedia",
+   "lang": "ja",
+   "date": "2026-11-20T21:18+09:00",
+   "title_ja": "デジタル庁の政府共通ファイル共有サービスで情報漏えいか、第三者アクセスを確認"
+  },
+  {
+   "category": "business",
+   "title": "ナスダック指数が一時5%超の急落 アンソロピック14％超下落",
+   "summary": "20日のニューヨーク株式市場でナスダック株価指数が一時5％を超える急落を記録した。半導体を中心に幅広い銘柄へ売り注文が殺到し、AI関連のアンソロピック株も14％超下落するなどハイテク株の下落が目立った。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261121de79481",
    "source": "NHK 経済",
    "lang": "ja",
-   "date": "2026-11-20T05:31+09:00",
-   "title_ja": "日本のサイバー攻撃対策、AI活用による異常検知等で諸外国から遅れ"
-  },
-  {
-   "category": "business",
-   "title": "Anthropic raises $81bn in record-breaking stock market debut",
-   "summary": "対話型AI「Claude」を手がける米アンソロピックが株式市場に新規上場し、過去最大規模となる810億ドルを調達。世界で最も価値のある企業の一つとして評価された。",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "lang": "en",
-   "date": "2026-11-20T00:58+09:00",
-   "title_ja": "AI開発のアンソロピック、IPOで810億ドル調達 世界有数の企業価値に"
+   "date": "2026-11-21T06:05+09:00",
+   "title_ja": "米ナスダック指数が一時5％超急落、半導体株中心に売り広がる"
   },
   {
    "category": "politics",
-   "title": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
-   "summary": "高市首相はトランプ米大統領と電話会談を行い、米中ロ首脳会談の詳報を受けた。政府は三カ国会談が国際情勢に及ぼす影響を注視し、同盟国等との連携を深める方針を示した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261120de78749",
+   "title": "安保3文書 与党内で防衛費の大幅増額求める意見強まる",
+   "summary": "安全保障関連3文書の改定に向け、焦点となる防衛費について与党内からさらなる大幅増額を求める声が高まっている。当初提案の5年間で50兆円台前半という目安案に対し、さらなる予算拡充を主張する意見が強い。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261121de79473",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-20T06:09+09:00",
-   "title_ja": "高市首相とトランプ米大統領が電話会談 米中ロ首脳会談の影響を注視"
+   "date": "2026-11-21T05:30+09:00",
+   "title_ja": "安保3文書改定に向け、与党内で防衛費の大幅増額を求める意見が噴出"
   },
   {
    "category": "politics",
-   "title": "高市首相、トランプ氏との電話会談で米中露首脳会談などの説明受ける…「率直に意見交換を行った」 - 読売新聞",
-   "summary": "高市首相はトランプ米大統領と電話会談を実施し、米中露首脳会談の内容について詳細な説明を受けた。両首脳は国際社会の情勢を踏まえつつ率直な意見交換を実施した。",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IVkZNYnJCUjlBbjQxWGJBX0pZQVN0MlU5RHFoMF9lckpUUmNkQ2ZPYXIwc0Z2TzQ2N2hVcUJYYW10ZGtuLThWWW1iRjZYOUtvWjUwMmJ3dkhaZzRTaktybDg3THVTZw?oc=5",
-   "source": "Google News 政治",
+   "title": "高市首相 ICCの赤根所長と来週面会へ 支持方針を伝達か",
+   "summary": "政府は高市総理大臣が国際刑事裁判所（ICC）の赤根所長と来週面会すると発表した。米国の制裁措置によりICCの活動への懸念が高まる中、今後も国際組織としての活動を支持する日本の立場を伝える見通しだ。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79444",
+   "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-19T22:39+09:00",
-   "title_ja": "高市首相とトランプ氏が電話会談 米中露首脳会談めぐり意見交換"
+   "date": "2026-11-21T05:26+09:00",
+   "title_ja": "高市首相、ICCの赤根所長と来週面会へ　継続的支援の方針を伝達"
   },
   {
    "category": "ai",
-   "title": "「GLM-5.3-Flash」「DeepSeek-V4.1-Flash-1017」が月3000リクエストまで無料 さくらのAI推論基盤で提供",
-   "summary": "さくらインターネットの推論API基盤「さくらのAI Engine」で「GLM-5.3-Flash」等の試験提供が開始された。利用者は毎月3000リクエストまで無料で利用できる。",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003339/",
-   "source": "ITmedia AI+",
-   "lang": "ja",
-   "date": "2026-11-19T16:45+09:00",
-   "title_ja": "さくらインターネット、AI推論基盤で最新モデル2種の無料試験提供を開始"
+   "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+   "summary": "アンソロピック所属の数学者が、AIモデル「Claude」の支援を受けてミレニアム懸賞問題の一つである「リーマン予想」を証明したと発表した。AIが未解決の難解な数学的証明に与えた影響として注目が集まっている。",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+   "source": "The Verge AI",
+   "lang": "en",
+   "date": "2026-11-21T01:34+09:00",
+   "title_ja": "アンソロピックの数学者、AI「Claude」を用いてリーマン予想を証明したと主張"
   },
   {
    "category": "ai",
-   "title": "ファミマが「AIロボット」本格導入へ 飲料補充に活用、作業時間の約7割を削減",
-   "summary": "ファミリーマートが店舗での飲料補充業務にAIロボットを本格導入する。自動化により対象作業時間を約7割削減することを目指し、店舗運営の効率化と省力化を本格的に推進する。",
-   "link": "https://www.itmedia.co.jp/aiplus/article/2611/19/2000003329/",
-   "source": "ITmedia AI+",
-   "lang": "ja",
-   "date": "2026-11-19T13:27+09:00",
-   "title_ja": "ファミリーマートが飲料補充AIロボットを本格導入作業時間を約7割削減"
+   "title": "The most misunderstood graph in AI just got a major update",
+   "summary": "AI評価を行う非営利団体METRの最新レポートにより、特定のAI能力が指数関数的に進歩し続けていることが示された。一方で、複雑な判断や長期的思考を必要とするタスクにおいては依然として課題が残ることが明らかになった。",
+   "link": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "date": "2026-11-21T03:15+09:00",
+   "title_ja": "非営利団体METRがAI性能評価の最新データを公表、進展と課題を指摘"
   },
   {
    "category": "startup",
-   "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
-   "summary": "NVIDIAによる未公開企業への投資評価額が、ジェンスン・フアンCEOの積極的な取引と出資先の企業価値上昇により過去9か月で約3倍の650億ドルに膨らんだ。しかし、同氏の退任に伴い今後の投資方針に対する懸念が示されている。",
-   "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+   "title": "Bending Spoons buys Mailchimp for $3.68B",
+   "summary": "伊IT企業のBending Spoonsが、メール配信大手Mailchimpを36億8000万ドルで買収した。同社は2021年にIntuitにより約120億ドルで買収されていたため、格安での再買収となった。",
+   "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
    "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-11-18T10:44+09:00",
-   "title_ja": "NVIDIAのスタートアップ出資額が650億ドルに膨張、CEO退任で今後の案件には不透明感も"
+   "date": "2026-11-21T01:16+09:00",
+   "title_ja": "Bending Spoons、Mailchimpを36億8000万ドルで買収"
   },
   {
-   "category": "finance",
-   "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
-   "summary": "トランプ米大統領は、ロシアのプーチン大統領および中国の習近平国家主席と個別に会談を行った。ウクライナ戦争を巡る議論が焦点となる中、トランプ氏はプーチン氏との良好な関係を主張し、今後の情勢への影響が注視されている。",
-   "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
-   "source": "CNBC Markets",
+   "category": "startup",
+   "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
+   "summary": "企業向け財務管理プラットフォームのPayhawkが、2億8000万ドルの資金調達と20億ドルの企業評価額を発表した。2018年設立の同社は、AIエージェントを活用して企業の経費管理や調達の効率化を支援している。",
+   "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+   "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-11-19T18:02+09:00",
-   "title_ja": "トランプ大統領、プーチン大統領との会談後に良好な関係を強調 ウクライナ情勢が焦点に"
+   "date": "2026-11-19T04:29+09:00",
+   "title_ja": "支出管理プラットフォームのPayhawk、評価額20億ドルで2億8000万ドル調達"
   },
   {
    "category": "finance",
-   "title": "国際関係,金融安定理事会による「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」について公表しました。",
-   "summary": "金融安定理事会（FSB）は「クロスボーダー送金の改善に向けたG20ロードマップ：2026年統合進捗報告書」を公表した。国際的な送金の効率化や低コスト化、透明性向上を目指す取り組みの進捗状況が詳細に示されている。",
-   "link": "https://www.fsa.go.jp/inter/fsf/20261117/261117.html",
+   "title": "（論文）家計のインフレ予想の形成メカニズム：インフレ実感とインフレ経験の役割",
+   "summary": "家計のインフレ予想がどのように形成されるかを分析した研究論文が公開された。実際のインフレ実感や過去のインフレ経験が、予想形成において果たす役割や影響が考察されている。",
+   "link": "http://www.boj.or.jp/research/wps_rev/wps_2026/wp26j12.htm",
+   "source": "日本銀行",
+   "lang": "ja",
+   "date": "2026-11-20T16:00+09:00",
+   "title_ja": "家計におけるインフレ予想形成メカニズムに関する研究論文が公開"
+  },
+  {
+   "category": "finance",
+   "title": "事業者支援の促進及び金融の円滑化について公表しました。",
+   "summary": "事業者に対する支援の促進および金融の円滑化に向けた方針や取り組みが公表された。資金繰り支援や経営改善を図る金融機関への働きかけなど、経済環境の変化に応じた対応が推進される。",
+   "link": "https://www.fsa.go.jp/news/r8/ginkou/20261119-2/20261119-2.html",
    "source": "金融庁",
    "lang": "ja",
-   "date": "2026-11-18T02:00+09:00",
-   "title_ja": "金融安定理事会、国境を越えた送金改善に向けたG20ロードマップ進捗報告書を公表"
+   "date": "2026-11-20T04:30+09:00",
+   "title_ja": "政府、事業者支援の促進と金融円滑化に向けた取り組みを公表"
   },
   {
    "category": "society",
-   "title": "都内の再生医療クリニックに緊急命令 重篤疾病発生も報告せず",
-   "summary": "東京都内のクリニックでがんへの再生医療を受けた患者に重篤な疾病が複数発生したものの、国への報告が行われていなかった。厚生労働省は再生医療安全性確保法に基づき、同院に対し再生医療提供の一時停止を命じる緊急命令を出した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78668",
+   "title": "政府ネットワークに不正アクセス 情報漏えい可能性 デジタル庁",
+   "summary": "デジタル庁は、政府の情報ネットワークが外部からの不正アクセスを受け、一部情報が漏えいした可能性があると発表した。機密情報の漏えいの有無を含め、詳細な調査を進めている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79445",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-19T20:10+09:00",
-   "title_ja": "厚労省、重篤症例を未報告の都内再生医療クリニックに一時停止の緊急命令"
+   "date": "2026-11-20T22:35+09:00",
+   "title_ja": "政府情報ネットワークへ不正アクセス、情報漏えいの可能性でデジタル庁が調査"
   },
   {
    "category": "society",
-   "title": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
-   "summary": "国際司法裁判所（ICJ）は、ミャンマーの少数派ロヒンギャに対する迫害行為について、国家による集団殺害（ジェノサイド）であったと認定する判決を言い渡した。人種や民族を破壊する意図での危害加害が認められた。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78716",
+   "title": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
+   "summary": "日本政府はサウジアラビアと、日本国内のタンクに貸与・備蓄できる原油量を従来の3倍に増やすことで合意した。中東情勢を受けたエネルギー安全保障策であり、緊急時には日本が優先買い取りを行う。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79347",
    "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-20T06:04+09:00",
-   "title_ja": "国際司法裁判所、ミャンマーによるロヒンギャ迫害を「ジェノサイド」と認定"
+   "date": "2026-11-20T18:46+09:00",
+   "title_ja": "日本とサウジアラビア、国内原油備蓄可能量を従来の3倍に拡大合意"
   },
   {
    "category": "world",
-   "title": "プーチン大統領 米中ロ首脳会談意義強調 継続開催に前向き",
-   "summary": "ロシアのプーチン大統領は、初開催となったアメリカ・中国・ロシアによる3か国首脳会談の重要性を主張した。同氏は、この3か国による対話の枠組みを今後も継続して維持・開催していくことに前向きな姿勢を示している。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261120de78758",
+   "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
+   "summary": "トランプ米大統領は記者会見で、プーチン氏との関係を擁護するとともに、安全保障上AIデータセンターを米国内に留める重要性を強調した。またイラン情勢や訪中成果についても言及した。",
+   "link": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "date": "2026-11-21T06:05+09:00",
+   "title_ja": "トランプ氏、プーチン氏との関係を弁護しAIデータセンターの米国内維持を要求"
+  },
+  {
+   "category": "world",
+   "title": "ペルー ケイコ・フジモリ大統領“米中双方と連携 対話を歓迎”",
+   "summary": "来日したペルーのケイコ・フジモリ大統領がインタビューに応じ、米中両国と連携を深める外交方針を示した。米中間の対話を歓迎し、自国として双方との良好な関係維持を目指す姿勢を強調した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79417",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-20T05:51+09:00",
-   "title_ja": "プーチン大統領、初の米中ロ首脳会談の意義を強調し継続開催に意欲"
-  },
-  {
-   "category": "world",
-   "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-   "summary": "ベルリンで開催されたサミットにおいて、ウクライナを支援する欧州各国の首脳らは「結束した」交渉方針を確認した。欧州側はウクライナ戦争終結に向け、ロシアとの協議を行う準備があるとの姿勢を示している。",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "lang": "en",
-   "date": "2026-11-20T06:16+09:00",
-   "title_ja": "欧州諸国、ウクライナ支援国サミットでロシアとの停戦交渉に応じる姿勢を表明"
+   "date": "2026-11-20T23:35+09:00",
+   "title_ja": "ペルーのフジモリ大統領、米中双方との連携と対話推進の方針を表明"
   },
   {
    "category": "science",
-   "title": "美少女ゲーム「NIKKE」経由でマルウェア感染 北海道2自治体、委託先が認める",
-   "summary": "北海道岩見沢市と新得町の業務再委託先であるGIS北海道がマルウェアに感染し、個人情報が漏えいした可能性が浮上した。同社は取材に対し、業務用PCでゲーム「NIKKE」を経由した感染が発生したことを認めている。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/19/2000003351/",
-   "source": "ITmedia NEWS",
-   "lang": "ja",
-   "date": "2026-11-19T20:04+09:00",
-   "title_ja": "美少女ゲーム経由でマルウェア感染、北海道2自治体の委託先で情報漏えいの恐れ"
-  },
-  {
-   "category": "science",
-   "title": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も",
-   "summary": "先月重大な脆弱性が判明したプログラミング言語「PHP」において、新たに深刻な脆弱性が発見された。開発団体は修正プログラムを公開したが、Webサイトの停止やサービスへの影響が出ている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261119de78620",
+   "title": "湘南美容クリニックなど展開のグループ 顧客情報など流出",
+   "summary": "湘南美容クリニック等を展開するSBCメディカルグループは、保有するデータベースへの不正アクセスにより、約162万人分の顧客個人情報が外部に流出したと発表した。流出範囲などの調査が進められている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261120de79453",
    "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-20T02:19+09:00",
-   "title_ja": "プログラミング言語「PHP」に新たな重大な脆弱性、修正プログラムが公開"
+   "date": "2026-11-20T22:50+09:00",
+   "title_ja": "SBCメディカルグループで不正アクセス、約162万人分の個人情報が流出"
+  },
+  {
+   "category": "science",
+   "title": "デジ庁、政府機関向けファイル共有サービスで漏えいか 7月末から第三者がアクセス",
+   "summary": "デジタル庁は、政府共通業務環境「GSS」のファイル共有サービスで、第三者による不正アクセスがありファイルの一部が外部漏えいした可能性を発表した。個人情報保護委員会へ報告を行い対応を進めている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/20/2000003381/",
+   "source": "ITmedia NEWS",
+   "lang": "ja",
+   "date": "2026-11-20T21:18+09:00",
+   "title_ja": "デジタル庁、政府共有サービスで情報漏えいの可能性を発表"
   },
   {
    "category": "environment",
-   "title": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
-   "summary": "COP31の合意文書草案から化石燃料に関する全ての言及が削除され、途上国への気候支援金策も明記されていないとして、会議が空洞化するリスクが指摘されている。",
-   "link": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+   "title": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+   "summary": "第31回国連気候変動枠組み条約締約国会議（COP31）は、草案に化石燃料に関する記述がないことへの不満が高まり協議が延長された。アフリカの閣僚や市民団体が強く反発している。",
+   "link": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
    "source": "The Guardian Environment",
    "lang": "en",
-   "date": "2026-11-20T02:58+09:00",
-   "title_ja": "COP31合意草案から化石燃料の記載が全削除、「ゴーストサミット」化の懸念"
+   "date": "2026-11-21T05:04+09:00",
+   "title_ja": "COP31、草案への化石燃料の記述を巡り交渉が難航し延長"
   },
   {
    "category": "environment",
-   "title": "Revealed: Russia, Saudi Arabia and Australia are largest CO2 exporters of all time",
-   "summary": "新たな調査により、ロシア、サウジアラビア、そしてCOP31共同議長国のオーストラリアが、歴史上最大の二酸化炭素排出量の輸出国であることが明らかになった。",
-   "link": "https://www.carbonbrief.org/revealed-russia-saudi-arabia-and-australia-are-largest-co2-exporters-of-all-time",
-   "source": "Carbon Brief",
+   "title": "What to know about the US permitting bill, from datacenters to Trump’s arch",
+   "summary": "米上院は、環境保護規制や法的障害を取り除くことで、データセンターやクリーンエネルギー事業の許認可手続きを迅速化する法案を可決した。環境団体からは強い懸念の声が上がっている。",
+   "link": "https://www.theguardian.com/us-news/2026/nov/20/what-to-know-permitting-bill-energy-passed",
+   "source": "The Guardian Environment",
    "lang": "en",
-   "date": "2026-11-17T14:00+09:00",
-   "title_ja": "ロシア、サウジアラビア、豪州が史上最大の二酸化炭素輸出国と判明"
-  },
-  {
-   "category": "work",
-   "title": "【最新】2027年人事労務 法改正一覧！ 押さえておきたいスケジュール - HRプロ",
-   "summary": "2027年に予定されている人事労務関連の主な法改正一覧と実施スケジュールについて解説された記事。企業が押さえておくべき実務上の注意点を整理している。",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1RemFQSV9QYVh1MlN1VWtYU1JCd0c1Y1dnYlkwbHBGM0lEQjJqRWt2RjNfVjZHdFJZNlhocWQ5bVlNYlRDV3h1bGt3QVhhQTQ5V3AxYUl2ZmJUNkZEUjFqcA?oc=5",
-   "source": "文科省・大学ジャーナル・人事",
-   "lang": "ja",
-   "date": "2026-11-20T06:04+09:00",
-   "title_ja": "2027年人事労務の主要法改正スケジュールと注意点一覧"
-  },
-  {
-   "category": "work",
-   "title": "「人的資本」は会社のものではない ――コーポレートガバナンスの本質から解き明かす、選ばれる組織と経営人材育成の要諦 - 日本の人事部",
-   "summary": "コーポレートガバナンスの視点から「人的資本」の本質的な概念を紐解き、企業が選ばれる組織となるための経営人材育成や持続可能な組織作りの要諦について解説している。",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fck5RNnpNcFplcXJzRC1FWnRybnZoNDd5MWpHTTZ5NFdHVF85d3JVaUo4U2hzWWozY0hrZzZweWkyQjRIdGxkYUYtcjRTVDcyVVlYSmxCN2ZrRzRubHpTRnhLX0JmT1pBM3FFMmU1TTEzVk0?oc=5",
-   "source": "文科省・大学ジャーナル・人事",
-   "lang": "ja",
-   "date": "2026-11-20T04:02+09:00",
-   "title_ja": "人的資本経営とコーポレートガバナンスの本質および人材育成の要諦"
+   "date": "2026-11-21T03:26+09:00",
+   "title_ja": "米上院、データセンターや再エネ事業の許認可迅速化法案を可決"
   },
   {
    "category": "security",
-   "title": "頻発する自然災害に対応 20カ国のアカデミー、Ｇ20サミットに向け共同声明 - 科学新聞 The Science News",
-   "summary": "世界20カ国の科学アカデミーが、地球規模で頻発する自然災害への対策強化や国際的な連携を求め、G20サミットに向けた共同声明を発表したことが報じられている。",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBLb1lpdkdWRGpxTTZLU3ZSYVpVTFdOMjNvTlhzOVRXWjdOdTJSRzFpdXVQNUxPNFlyenVjdE9VdUZIQVNRVEJxUzdMSHM?oc=5",
-   "source": "Google News 災害・防衛",
-   "lang": "ja",
-   "date": "2026-11-20T06:03+09:00",
-   "title_ja": "G20サミットに向け20カ国の科学アカデミーが自然災害対応の共同声明を発表"
-  },
-  {
-   "category": "security",
-   "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-   "summary": "ASUSはControl Center Expressの修正版（v1.7.29）を公開した。遠隔の攻撃者が管理コンソールやデバイスの管理者権限を取得できる脆弱性3件に対処している。",
-   "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+   "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+   "summary": "カナダの通信大手ベル・カナダは、2026年11月に自律型AI技術を用いるハッカーの侵入を受け、法人顧客のデータが盗まれたと発表した。回線注文システムのデータも含まれる。",
+   "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
    "source": "BleepingComputer",
    "lang": "en",
-   "date": "2026-11-20T06:15+09:00",
-   "title_ja": "ASUSがControl Center Expressの極めて深刻な脆弱性を警告"
+   "date": "2026-11-21T03:51+09:00",
+   "title_ja": "ベル・カナダ、自律型AIハッカーによる法人顧客データ流出を発表"
+  },
+  {
+   "category": "security",
+   "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+   "summary": "メタ社のメッセージアプリ「ワッツアップ」は、Android端末で詐欺に悪用された可能性がある欠陥を含め、計3件の脆弱性を修復するセキュリティパッチを配布した。",
+   "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+   "source": "The Hacker News",
+   "lang": "en",
+   "date": "2026-11-21T02:57+09:00",
+   "title_ja": "ワッツアップ、詐欺に悪用された疑いのある脆弱性など3件を修正"
   }
  ]
 }
