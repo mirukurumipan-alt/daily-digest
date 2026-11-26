@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:48+09:00",
+ "generated_at": "2026-11-26T12:05+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,233 +62,183 @@
  "items": [
   {
    "category": "medical",
-   "title": "NEWS 高齢者負担見直しや病床適正化を提言 “直美”対策で自由診療部門の負担も検討─財政審建議 - 日本医事新報社",
-   "summary": "財政制度等審議会は、高齢者の医療費負担見直しや病床の適正化を求める建議を提出した。美容医療など自由診療部門の負担検討も含まれており、社会保障費の抑制と制度の持続可能性確保を目指す。",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RTW9PbVMzVnUwVnR6RUQyNUo4Z3JUZEZoQlJRWTFQbGhDME9jTGJrRmtFVEJTMnJhbjNzZU5iMWRKTWJXbVBRQ1RSbVVYYkRfZUtVNkRfSUU5YldBUXExWQ?oc=5",
-   "source": "MT・日本医事新報",
-   "lang": "ja",
-   "date": "2026-11-25T09:21+09:00",
-   "title_ja": "財政審が医療制度改革を提言　高齢者の自己負担見直しや病床適正化、自由診療部門の負担検討も"
+   "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
+   "summary": "米メディケアはインフレ抑制法に基づき、2028年に薬価引き下げの対象となる新たな13種類の医薬品を設定した。特許切れ間近または特許が切れた医薬品が対象拡大に伴い大幅な価格引き下げに直面している。",
+   "link": "https://www.healthcaredive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875783/",
+   "source": "Healthcare Dive",
+   "lang": "en",
+   "date": "2026-11-26T01:26+09:00",
+   "title_ja": "米メディケア、インフレ抑制法に基づき2028年に価格設定対象となる新薬13品目を決定"
   },
   {
    "category": "medical",
-   "title": "Florida AG sues Leapfrog over ‘bogus’ hospital grades",
-   "summary": "フロリダ州の司法長官は、医療評価団体リープフロッグが十分な検証のないペナルティを専門家の評価と偽り、患者を誤認させたとして提訴した。同団体の評価基準に対する批判が高まっている。",
-   "link": "https://www.healthcaredive.com/news/florida-ag-sues-leapfrog-over-bogus-hospital-grades/875635/",
-   "source": "Healthcare Dive",
-   "lang": "en",
-   "date": "2026-11-25T01:27+09:00",
-   "title_ja": "米フロリダ州司法長官、病院の不当な格付けを巡り評価団体リープフロッグを提訴"
-  },
-  {
-   "category": "dental",
-   "title": "一般歯科の矯正治療を専門医が支えるBrace、ジェネシア・ベンチャーズをリードにプレシリーズA調達 - BRIDGE（ブリッジ）",
-   "summary": "一般歯科医による矯正治療を専門医がバックアップするサービスを手掛けるBraceが、ジェネシア・ベンチャーズをリード投資家としてプレシリーズAの資金調達を実施した。",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5KMmIzdDdOclZNX0Z3X1ZnZjQ0ZUxBeExvZEpZZ0gzcThiRmlYV0NhY3BhSWpqd05rYkN4QkdNakJiUlNReS1uLThFVGJhbW9Yb0pqR3NtWWV4WXBNSkJJRkt2RlBLZw?oc=5",
-   "source": "Google News 歯科業界",
+   "title": "【リハ専門職団体】議連でPTOT法改正・処遇改善など要望「年収は全産業平均を50万円超下回る」記者会見で訴え - PT-OT-ST.NET",
+   "summary": "リハビリテーション専門職団体が議員連盟に対し、PTOT法の改正や処遇改善などを要望した。記者会見において、理学療法士や作業療法士の年収が全産業平均を50万円以上下回っている厳しい現状を訴えている。",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ERlozZE1odW5fY0lmQXdmQVl0YXU2WDBSX015SkVYQ0F6THFDazVHTFh3SDVsQXEybHBmTkNrbVBkelB2R1RraTlDWkpoRng1MVVkU1VXRDBEMUVuREFDdnZn?oc=5",
+   "source": "Google News 診療報酬・医療制度",
    "lang": "ja",
-   "date": "2026-11-25T10:55+09:00",
-   "title_ja": "歯科矯正支援プラットフォームのBraceがプレシリーズAで資金調達を実施"
-  },
-  {
-   "category": "dental",
-   "title": "Dental 3D Educational Tools Market Competitive Analysis: FMI - openPR.com",
-   "summary": "歯科医療教育における3Dツールの普及に伴い、市場の競合状況や今後の予測をまとめた調査レポートが発表された。業界動向や主要企業の展開が詳細に分析されている。",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaWZ1R1VFZ1RJcWdLdG56c1lybnVxcHNTUklEeGdPSW1seE9SemhlZW90c3hBXzdvQ3FjcGxib29lRnhYSEJJTV84UWlfTmFGSm9uelFxSU9wS1B4VU5SQnE2MmxzSGFyNjVRaDdEaVpBbncyVVh3RkFNT2VleE5sN1ZMakNhS0dnV05TcE9DRVJLOEUxaTlOUmtvSQ?oc=5",
-   "source": "Google News Dentistry",
-   "lang": "en",
-   "date": "2026-11-25T00:36+09:00",
-   "title_ja": "歯科向け3D教育ツール市場の競合分析レポートが公開"
+   "date": "2026-11-25T21:45+09:00",
+   "title_ja": "リハ専門職団体がPTOT法改正と処遇改善を要望 年収が全産業平均を下回る現状を訴え"
   },
   {
    "category": "business",
-   "title": "[ITmedia News] AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
-   "summary": "ボストンコンサルティンググループ等の研究チームが生成AI導入による知能労働者の能力変化を検証した。AI活用が一時的なスキルアップに寄与する一方、その限界も示された。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
+   "title": "US announces new tariffs on host of countries including China",
+   "summary": "米国政府は、中国や欧州連合（EU）など複数の主要貿易相手国を対象とする新たな関税措置を発表した。米国の最大級の貿易パートナーに対する課税となり、国際貿易への影響が懸念される。",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "lang": "en",
+   "date": "2026-11-26T10:20+09:00",
+   "title_ja": "米国、中国やEUを含む多数の貿易相手国に対する新たな関税措置を発表"
+  },
+  {
+   "category": "business",
+   "title": "[ITmedia News] AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論",
+   "summary": "AnthropicのアモデイCEOは、超知能AIに人間の意思決定権を委ねるべきとする報道を否定した。社会の統治と個別タスクの自動化の混同を指摘し、AIは民主的プロセスで管理されるべきと主張。AI主導権を巡る議論が広がっている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
    "source": "ITmedia",
    "lang": "ja",
-   "date": "2026-11-25T12:00+09:00",
-   "title_ja": "生成AI活用によるコンサルタントの能力向上効果と限界　BCGなど約500人対象の検証論文発表"
-  },
-  {
-   "category": "business",
-   "title": "日経平均株価 一時2100円超の値下がり 半導体関連中心に売り",
-   "summary": "東京株式市場で日経平均株価が一時2100円を超える急落を記録した。米エヌビディアの企業統治に対する懸念などをきっかけに、半導体関連銘柄を中心に売りが広がった。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de80958",
-   "source": "NHK 経済",
-   "lang": "ja",
-   "date": "2026-11-25T11:51+09:00",
-   "title_ja": "日経平均株価が一時2100円超の大幅下落　エヌビディアを巡る懸念で半導体株に売り集中"
-  },
-  {
-   "category": "politics",
-   "title": "「副首都」来年秋に指定 再来年春から運用へ 政府の想定日程",
-   "summary": "首都直下地震など大規模災害時に首都機能の代替を担う「副首都」について、政府は来年秋に複数の道府県を指定し、再来年春から運用を開始するスケジュール案をまとめた。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81052",
-   "source": "NHK 政治",
-   "lang": "ja",
-   "date": "2026-11-25T12:32+09:00",
-   "title_ja": "政府が「副首都」構想の実施日程案を策定　来年秋に指定し再来年春の運用開始を目指す"
-  },
-  {
-   "category": "politics",
-   "title": "消えた技能実習生、今も6600人不明 5年で3.6万人が失踪 - Yahoo!ニュース",
-   "summary": "外国人技能実習生に関する調査で、過去5年間に約3万6000人が失踪し、現在も約6600人の行方が分かっていないことが明らかになり、制度の課題が浮き彫りとなった。",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9pNW5nbTg2T0QycHN2NUJUUU9YanA3TEFkQkJmR08yaXFBWTQtWGlEd1lEVHBhMUN6WHhXVU9jOHJxNzhNNTNfbUlWZ3hqVzNa?oc=5",
-   "source": "Google News 政治",
-   "lang": "ja",
-   "date": "2026-11-25T11:47+09:00",
-   "title_ja": "外国人技能実習生の失踪が過去5年で3.6万人に達し、現在も6600人が所在不明"
+   "date": "2026-11-26T11:24+09:00",
+   "title_ja": "AnthropicのアモデイCEO、AIへの自由意志明け渡し報道を否定"
   },
   {
    "category": "ai",
-   "title": "AIでドーピングしたコンサルの実力は 使わない人材との能力差、BCG約500人で検証 Nature系列誌",
-   "summary": "ボストンコンサルティンググループ等の研究グループは、生成AIの活用が知識労働者の一時的なスキル向上をもたらす一方で一定の限界が存在することを論文で発表した。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003421/",
+   "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
+   "summary": "2026年の脆弱性発見数が前年の2倍超となる10万件を突破し、米マイクロソフト製品でも月1000件以上の修正が行われた。AIの進化が脆弱性の発見と攻撃を急増させており、対策が迫られている。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
    "source": "ITmedia AI+",
    "lang": "ja",
-   "date": "2026-11-25T12:00+09:00",
-   "title_ja": "コンサルタント約500人で生成AI導入効果を検証　スキルアップの効用と限界が判明"
+   "date": "2026-11-26T10:00+09:00",
+   "title_ja": "AI普及で脆弱性発見数が前年比倍増 MS製品も月千件超を修正"
   },
   {
    "category": "ai",
-   "title": "Raising the stakes for enterprise networks with AI modernization",
-   "summary": "企業におけるAI導入の加速に伴い、社内ネットワークへの負荷が深刻化している。さらに自律型エージェンティックAIの登場により、インフラ更新の必要性が増している。",
-   "link": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "title": "How data centers are driving a US natural-gas boom",
+   "summary": "AIの急速な普及に伴うデータセンターの電力消費急増により、米国において天然ガスへの依存度と需要が大幅に拡大している現状を解説している。過去の予測通りの推移となっている。",
+   "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
    "source": "MIT Technology Review",
    "lang": "en",
-   "date": "2026-11-25T00:15+09:00",
-   "title_ja": "AI高度化で企業ネットワークへの負荷が深刻化、エージェンティックAIの登場が拍車"
+   "date": "2026-11-26T02:00+09:00",
+   "title_ja": "AIデータセンターの急増が米国での天然ガス需要拡大を牽引"
   },
   {
    "category": "startup",
-   "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-   "summary": "AI大手アンソロピックの株価がIPO価格を下回った。市場の警戒感が強まっており、今後のAIスタートアップ企業の評価額や資金調達環境に圧力をかける懸念が出ている。",
-   "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+   "summary": "Character.aiの破産申請に伴い、2100万人分以上の個人データや非公開チャットが競売対象に含まれていることに対し、米国の州司法長官らが懸念を示し異議を唱えた。",
+   "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-11-25T03:30+09:00",
-   "title_ja": "アンソロピックの株価が公募価格を割り込む AIスタートアップに懸念"
+   "date": "2026-11-26T02:35+09:00",
+   "title_ja": "Character.AIの非公開チャット競売計画に州司法長官らが反論"
   },
   {
    "category": "finance",
    "title": "国際関係,金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
-   "summary": "金融安定理事会（FSB）が定めた実効的な破綻処理枠組みに整合する計画基準の対象となる保険会社のリストが公表された。国際的な金融システムの安定化を図る規制の一環である。",
+   "summary": "金融安定理事会（FSB）が定めた「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合し、破綻処理計画基準の適用を受ける保険会社の対象リストが新たに公表された。",
    "link": "https://www.fsa.go.jp/inter/fsf/20261124/20261124.html",
    "source": "金融庁",
    "lang": "ja",
    "date": "2026-11-25T02:00+09:00",
-   "title_ja": "金融安定理事会の枠組みに整合する破綻処理計画基準対象の保険会社リスト公表"
-  },
-  {
-   "category": "finance",
-   "title": "「AI等の健全な利活用の推進に関する研究会」（第１回）議事次第について公表しました。",
-   "summary": "政府は「AI等の健全な利活用の推進に関する研究会」の第1回議事次第を公表した。AIの適正な利用やリスク管理に向けた議論の開始を示す公式資料となっている。",
-   "link": "https://www.fsa.go.jp/singi/ai_2026/shiryou/20261124.html",
-   "source": "金融庁",
-   "lang": "ja",
-   "date": "2026-11-25T02:00+09:00",
-   "title_ja": "「AI等の健全な利活用の推進に関する研究会」第1回議事次第が公表"
+   "title_ja": "金融安定理事会の基準に整合する破綻処理計画の対象保険会社リストが公表"
   },
   {
    "category": "society",
-   "title": "中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ",
-   "summary": "中国はパキスタン人宇宙飛行士を乗せた有人宇宙船「神舟24号」の打ち上げに成功した。外国人の搭乗は同国初となり、宇宙分野での国際的な連携を強くアピールする狙いがある。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de80985",
+   "title": "北朝鮮 キム総書記 核保有「絶対に誰の承認も追求しない」",
+   "summary": "北朝鮮の金正恩総書記が核物質生産工場などを視察した際、自国の核保有について「絶対に誰の承認も追求しない」と表明し、非核化交渉に応じない立場を改めて強調した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261126de81651",
    "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-25T11:29+09:00",
-   "title_ja": "中国が外国人飛行士を初搭乗させた有人宇宙船「神舟24号」を打ち上げ"
+   "date": "2026-11-26T11:38+09:00",
+   "title_ja": "北朝鮮の金正恩氏、核保有について「他国の承認は求めない」と明言"
+  },
+  {
+   "category": "society",
+   "title": "クマ対策で環境省がドローンなど技術活用の実証事業",
+   "summary": "市街地へのクマの出没や人身被害を未然に防止するため、環境省は今月からドローンやロボットなどの技術を活用した実証事業を開始し、新たな対策の検証を進めている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81527",
+   "source": "NHK 社会",
+   "lang": "ja",
+   "date": "2026-11-26T07:02+09:00",
+   "title_ja": "環境省、クマ被害防止に向けドローンやロボット活用の実証事業を開始"
   },
   {
    "category": "world",
-   "title": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
-   "summary": "国連の安全保障会合でグテーレス事務総長は、AI技術と核兵器の融合について強い危機感を表明し「破滅のレシピだ」と指摘した。AIのリスク管理に向けた体制構築を呼びかけた。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de80970",
+   "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+   "summary": "北朝鮮の金正恩総書記は戦術核兵器の配置拡大を呼びかけるとともに、同国の核保有国としての地位を否定しようとするいかなる試みも「明らかな宣戦布告」とみなすと警告した。",
+   "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "lang": "en",
+   "date": "2026-11-26T11:03+09:00",
+   "title_ja": "北朝鮮の金正恩氏、戦術核の配置拡大を指示、核保有否定は「宣戦布告」と警告"
+  },
+  {
+   "category": "world",
+   "title": "ネパール土石流発生から3か月 住宅の確保など生活再建が課題",
+   "summary": "1500人以上が犠牲となったネパールと中国での大規模土石流発生から3か月が経過した。被災地では復興への取り組みが進むものの、住宅確保をはじめ生活再建に課題が残る。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81518",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-25T10:41+09:00",
-   "title_ja": "国連事務総長が「AIと核の組み合わせは破滅のレシピ」と警告"
-  },
-  {
-   "category": "world",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "summary": "フアン氏のCEO復帰へのトランプ大統領の関与について議員らが説明を求める中、エヌビディアの株価は7%下落した。米司法長官は同社への調査に関する追及を回避した。",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "lang": "en",
-   "date": "2026-11-25T06:19+09:00",
-   "title_ja": "米司法長官、エヌビディア調査とトランプ大統領の関与への質問を回避"
+   "date": "2026-11-26T07:28+09:00",
+   "title_ja": "ネパール大規模土石流から3か月、住宅確保など被災者の生活再建が課題"
   },
   {
    "category": "science",
-   "title": "楽天証券、金融資産情報など約441万件の漏えい確認 ログインIDなど約1198万口座分も",
-   "summary": "楽天証券は不正アクセスにより、約1198万口座分のログインIDや、氏名・住所・金融資産情報など約441万件の漏えいを確認したと発表した。入金先口座情報の漏えいも判明している。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/25/2000003435/",
-   "source": "ITmedia NEWS",
-   "lang": "ja",
-   "date": "2026-11-25T11:25+09:00",
-   "title_ja": "楽天証券で不正アクセス 441万件の個人情報と1198万口座のID等漏洩"
-  },
-  {
-   "category": "science",
-   "title": "カイロス4号機 来年1月22日に打ち上げ 企業が発表",
-   "summary": "民間企業として国内初の人工衛星軌道投入を目指す東京の企業は、小型ロケット「カイロス」4号機を2027年1月22日に和歌山県の発射場から打ち上げると発表した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261124de80861",
+   "title": "ミスターマックス 約180万件の個人情報 流出した可能性",
+   "summary": "ディスカウントストアを運営するミスターマックスは、メール配信等で利用していた外部サービス「KARTE」が不正アクセスを受け、約180万件の個人情報が流出した可能性を発表した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81519",
    "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-24T23:18+09:00",
-   "title_ja": "小型ロケット「カイロス」4号機、2027年1月22日に打ち上げ発表"
+   "date": "2026-11-25T22:30+09:00",
+   "title_ja": "ディスカウントストアのミスターマックス、外部サービス不正アクセスで約180万件の個人情報流出か"
   },
   {
-   "category": "law",
-   "title": "経済構造実態調査規則の一部を改正する省令案に関する意見募集",
-   "summary": "総務省統計局は「経済構造実態調査規則の一部を改正する省令案」についての意見募集（パブリックコメント）を開始した。受付締切は2026年12月24日となっている。",
-   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210793&Mode=0",
-   "source": "パブリックコメント(e-Gov)",
+   "category": "science",
+   "title": "「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
+   "summary": "サイバーエージェントは、開発クラウド上の保管領域で誤って公開設定を行い、サツドラの顧客個人情報約22万件を1年以上放置した結果、第三者に取得されていたことを発表した。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
+   "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-25T00:00+09:00",
-   "title_ja": "経済構造実態調査規則の一部改正省令案に関するパブリックコメント募集"
+   "date": "2026-11-26T09:23+09:00",
+   "title_ja": "サツドラの顧客情報22万件が流出、サイバーエージェントがクラウド設定ミスで1年以上放置"
   },
   {
-   "category": "law",
-   "title": "e-Tax仕様書等の掲載について 【令和9年1月4日受付開始予定】 - e-Tax",
-   "summary": "国税庁の電子申告・納税システム「e-Tax」において、令和9年1月4日から受付開始が予定されている各種手続きに関する仕様書等の関連資料が新たに掲載・公表された。",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9pbTVDeGoxNzhMczJHenBWZVBHNy15NGlleTNTNFI5Ynd2OVRaR3RYaGhUSFNzMlhwVFU5SXQ5Z011Y0ZfVDFXdUxoZlNGcUpFRFRWbWRzTzhvanU3OFJmbkl2MzF5a3FIT2QxX3pWdTlpQUE?oc=5",
-   "source": "国税庁・法務省・個人情報保護委員会",
-   "lang": "ja",
-   "date": "2026-11-25T10:50+09:00",
-   "title_ja": "令和9年1月受付開始予定のe-Tax関連仕様書等が公表"
+   "category": "environment",
+   "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
+   "summary": "国連気候変動枠組条約締約国会議（COP31）は、有志国連合が提案された「アンタルヤ協定」を拒否したことで緊迫した閉幕を迎えた。この結果を受け、会議の「失敗」の責任をめぐる議論が広がっている。",
+   "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
+   "source": "Carbon Brief",
+   "lang": "en",
+   "date": "2026-11-26T01:09+09:00",
+   "title_ja": "COP31の「失敗」は誰の責任か、メディアの反応"
   },
   {
-   "category": "work",
-   "title": "2026年版 アルムナイ採用の実施状況に関する 統計レポート - HRプロ",
-   "summary": "退職者を再雇用するアルムナイ採用の実施状況や企業側の導入目的、課題に関する2026年版の調査統計レポートがHRプロから公開された。採用手法の多様化に向けた動向が分析されている。",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NRFZBUVBKTGhWbXotTE9ZV2tjTXJGWmYyZUFQaVdoZnVJZmxDNk8wRzF5eno4aFhPZlUwNlR2WWl0R21Bd0xGUmNVWGxlWF84U29mYTlJQl9PZjdfTE1EZmpNekpVNHpUc0ZPdENRMA?oc=5",
-   "source": "文科省・大学ジャーナル・人事",
-   "lang": "ja",
-   "date": "2026-11-25T10:20+09:00",
-   "title_ja": "2026年版アルムナイ採用の実施状況に関する統計レポートが公表"
+   "category": "environment",
+   "title": "What is holding back bidirectional EV charging as a grid resource?",
+   "summary": "電気自動車（EV）の双方向充電を電力網リソースとして活用するにあたり、コストの高さや技術の不完全さが課題となっている。一方、適切な電力プログラム設計や新技術により双方に価値をもたらすと期待される。",
+   "link": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
+   "source": "Utility Dive",
+   "lang": "en",
+   "date": "2026-11-26T01:12+09:00",
+   "title_ja": "電力網リソースとしてのEV双方向充電の課題"
   },
   {
    "category": "security",
-   "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-   "summary": "イランと関連があるとみられるハッカー集団「Volant Manticore」が、キプロスの通信会社、航空会社、重要インフラに対し、IPFS基盤のバックドアを用いたサイバースパイ活動を展開している。",
-   "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+   "summary": "Palo Alto NetworksのPAN-OS搭載機器に対し、PHP2ShellとFragnesiaの2つの脆弱性を組み合わせた攻撃が確認された。管理インターフェースがインターネットに露出した機器が標的となっている。",
+   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+   "source": "BleepingComputer",
+   "lang": "en",
+   "date": "2026-11-26T07:05+09:00",
+   "title_ja": "Palo Alto Networks製品のFragnesia脆弱性を狙う攻撃に警戒感"
+  },
+  {
+   "category": "security",
+   "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+   "summary": "GeoServerにおいて新たに修正された2つのセキュリティ脆弱性（CVE-2026-120705、CVE-2026-129243）が悪用されている。研究者は認証なしのリモートコード実行につながる危険性を警告している。",
+   "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
    "source": "The Hacker News",
    "lang": "en",
-   "date": "2026-11-25T01:54+09:00",
-   "title_ja": "イラン関連ハッカー集団「Volant Manticore」、キプロスの重要インフラ等を標的に攻撃"
-  },
-  {
-   "category": "security",
-   "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
-   "summary": "VMware製品に影響を与えるセキュリティ脆弱性「CVE-2026-123890」についての情報が公開された。悪用によるシステムへの影響を防止するため、早期の修正プログラム適用等の対策が求められる。",
-   "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261124.html",
-   "source": "IPA セキュリティ重要情報",
-   "lang": "ja",
-   "date": "2026-11-24T00:00+09:00",
-   "title_ja": "VMware製品における深刻な脆弱性（CVE-2026-123890）への対策情報"
+   "date": "2026-11-25T21:48+09:00",
+   "title_ja": "GeoServerの2つの脆弱性を悪用した攻撃が確認される"
   }
  ]
 }
