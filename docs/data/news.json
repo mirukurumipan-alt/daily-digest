@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T12:05+09:00",
+ "generated_at": "2026-11-27T12:14+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,183 +62,233 @@
  "items": [
   {
    "category": "medical",
+   "title": "消費税問題、「薬局も含めて」解決策検討 - PHARMACY NEWSBREAK",
+   "summary": "医療機関や薬局における控除対象外消費税（損税）問題について、薬局を含めた形での抜本的な解決策の検討が進められている。医療提供体制の維持に向けた税制上の見直し議論が注目される。",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KRi1uZkdjT2g5TjhvRXhrRVhvaGpBZ0JNbG5LOE9ESkk3WGxGSDRFLUtlVy1JZGloSFRrRUQyZzQ2ekZ4eWEyLWpB0gFPQVVfeXFMUDA2b2VPZXUtVmkyVXBhQkV2c21FUlg2RkwtMVRrRWdkZHVnYldTSC1tbGhJZFZlOW9OWm90dHdia2FtZm1RUzQ2VThMLTRIMA?oc=5",
+   "source": "Google News 診療報酬・医療制度",
+   "lang": "ja",
+   "date": "2026-11-27T04:50+09:00",
+   "title_ja": "消費税問題、「薬局も含めて」解決策検討"
+  },
+  {
+   "category": "medical",
    "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
-   "summary": "米メディケアはインフレ抑制法に基づき、2028年に薬価引き下げの対象となる新たな13種類の医薬品を設定した。特許切れ間近または特許が切れた医薬品が対象拡大に伴い大幅な価格引き下げに直面している。",
+   "summary": "米国のメディケアが、インフレ抑制法に基づき13種類の医薬品に対して2028年からの適用価格を設定した。特許切れが近い製品を中心に価格上昇が大幅に抑制され、薬価管理の対象が拡大している。",
    "link": "https://www.healthcaredive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875783/",
    "source": "Healthcare Dive",
    "lang": "en",
    "date": "2026-11-26T01:26+09:00",
-   "title_ja": "米メディケア、インフレ抑制法に基づき2028年に価格設定対象となる新薬13品目を決定"
-  },
-  {
-   "category": "medical",
-   "title": "【リハ専門職団体】議連でPTOT法改正・処遇改善など要望「年収は全産業平均を50万円超下回る」記者会見で訴え - PT-OT-ST.NET",
-   "summary": "リハビリテーション専門職団体が議員連盟に対し、PTOT法の改正や処遇改善などを要望した。記者会見において、理学療法士や作業療法士の年収が全産業平均を50万円以上下回っている厳しい現状を訴えている。",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ERlozZE1odW5fY0lmQXdmQVl0YXU2WDBSX015SkVYQ0F6THFDazVHTFh3SDVsQXEybHBmTkNrbVBkelB2R1RraTlDWkpoRng1MVVkU1VXRDBEMUVuREFDdnZn?oc=5",
-   "source": "Google News 診療報酬・医療制度",
-   "lang": "ja",
-   "date": "2026-11-25T21:45+09:00",
-   "title_ja": "リハ専門職団体がPTOT法改正と処遇改善を要望 年収が全産業平均を下回る現状を訴え"
+   "title_ja": "米メディケア、インフレ抑制法に基づき新たに13製剤の2028年価格を設定"
   },
   {
    "category": "business",
-   "title": "US announces new tariffs on host of countries including China",
-   "summary": "米国政府は、中国や欧州連合（EU）など複数の主要貿易相手国を対象とする新たな関税措置を発表した。米国の最大級の貿易パートナーに対する課税となり、国際貿易への影響が懸念される。",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC Business",
-   "lang": "en",
-   "date": "2026-11-26T10:20+09:00",
-   "title_ja": "米国、中国やEUを含む多数の貿易相手国に対する新たな関税措置を発表"
+   "title": "東京23区 11月の消費者物価指数 前年同月比2.9％上昇",
+   "summary": "東京都区部の11月消費者物価指数（生鮮食品を除く総合）速報値は、前年同月比2.9％上昇した。上昇率が2％を超えるのは3か月連続となり、依然として高水準の物価高が継続している。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82195",
+   "source": "NHK 経済",
+   "lang": "ja",
+   "date": "2026-11-27T11:53+09:00",
+   "title_ja": "東京23区 11月の消費者物価指数 前年同月比2.9％上昇"
   },
   {
    "category": "business",
-   "title": "[ITmedia News] AnthropicのアモデイCEO、「人間の自由意志をAIに明け渡す」考えを否定 AI企業間で議論",
-   "summary": "AnthropicのアモデイCEOは、超知能AIに人間の意思決定権を委ねるべきとする報道を否定した。社会の統治と個別タスクの自動化の混同を指摘し、AIは民主的プロセスで管理されるべきと主張。AI主導権を巡る議論が広がっている。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003473/",
-   "source": "ITmedia",
+   "title": "エヌビディアが東南アジア4か国への輸出を停止 欧米メディア",
+   "summary": "米半導体大手エヌビディアが、取引先に対し東南アジア4か国への先端半導体搭載製品の輸出停止を通知したと報じられた。米国政府による中国への迂回輸出規制の強化に対応した措置とみられる。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82164",
+   "source": "NHK 経済",
    "lang": "ja",
-   "date": "2026-11-26T11:24+09:00",
-   "title_ja": "AnthropicのアモデイCEO、AIへの自由意志明け渡し報道を否定"
+   "date": "2026-11-27T08:00+09:00",
+   "title_ja": "エヌビディアが東南アジア4か国への輸出を停止"
+  },
+  {
+   "category": "politics",
+   "title": "中央防災会議 防災基本計画に防災の「国家戦略」盛り込む",
+   "summary": "政府の中央防災会議において、防災庁の発足を踏まえた「防災基本計画」の改定が行われ、国家戦略が新たに明記された。大規模災害発生時における国としての責務と支援体制の強化が盛り込まれた。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82248",
+   "source": "NHK 政治",
+   "lang": "ja",
+   "date": "2026-11-27T11:37+09:00",
+   "title_ja": "中央防災会議、防災基本計画に防災の「国家戦略」盛り込む"
+  },
+  {
+   "category": "politics",
+   "title": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表",
+   "summary": "政府は、大規模災害時に首都機能を代替する「副首都」について、2027年秋に複数の道府県を指定し、2028年春から運用を開始する基本スケジュールを公表した。国家の危機管理体制を強化する。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82236",
+   "source": "NHK 政治",
+   "lang": "ja",
+   "date": "2026-11-27T11:27+09:00",
+   "title_ja": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表"
   },
   {
    "category": "ai",
-   "title": "脆弱性の発見数、1年で2倍超 Microsoft製品も月100件から1000件超に……AIで一変",
-   "summary": "2026年の脆弱性発見数が前年の2倍超となる10万件を突破し、米マイクロソフト製品でも月1000件以上の修正が行われた。AIの進化が脆弱性の発見と攻撃を急増させており、対策が迫られている。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003446/",
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "summary": "破産手続き中のAI企業Character.AIに対し、米42州の司法長官連合が利用者のチャット履歴データの売却を差し止める法的措置を講じた。破産過程での個人情報保護のあり方が問われている。",
+   "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge AI",
+   "lang": "en",
+   "date": "2026-11-26T18:54+09:00",
+   "title_ja": "米42州の司法長官、Character.AIによるユーザー会話データの売却阻止へ"
+  },
+  {
+   "category": "ai",
+   "title": "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？",
+   "summary": "企業におけるAIおよび生成AIのリスク認識が高まる一方、実際にAIに関する内部監査を実施している企業は5.7％にとどまることが調査で判明した。ガバナンス体制構築の遅れが浮き彫りとなっている。",
+   "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
    "source": "ITmedia AI+",
    "lang": "ja",
-   "date": "2026-11-26T10:00+09:00",
-   "title_ja": "AI普及で脆弱性発見数が前年比倍増 MS製品も月千件超を修正"
-  },
-  {
-   "category": "ai",
-   "title": "How data centers are driving a US natural-gas boom",
-   "summary": "AIの急速な普及に伴うデータセンターの電力消費急増により、米国において天然ガスへの依存度と需要が大幅に拡大している現状を解説している。過去の予測通りの推移となっている。",
-   "link": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
-   "source": "MIT Technology Review",
-   "lang": "en",
-   "date": "2026-11-26T02:00+09:00",
-   "title_ja": "AIデータセンターの急増が米国での天然ガス需要拡大を牽引"
+   "date": "2026-11-27T10:50+09:00",
+   "title_ja": "AIリスク監査の実施はわずか5.7％ 内部監査が追いつかないリスク"
   },
   {
    "category": "startup",
    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-   "summary": "Character.aiの破産申請に伴い、2100万人分以上の個人データや非公開チャットが競売対象に含まれていることに対し、米国の州司法長官らが懸念を示し異議を唱えた。",
+   "summary": "AIスタートアップであるCharacter.AIの破産手続きに伴う資産オークションにおいて、未成年者210万人を含む2100万人分以上の個人データ売却が含まれることに対し、米国の複数の州司法長官がプライバシー保護の観点から異議を唱えた。",
    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "source": "TechCrunch",
    "lang": "en",
    "date": "2026-11-26T02:35+09:00",
-   "title_ja": "Character.AIの非公開チャット競売計画に州司法長官らが反論"
+   "title_ja": "Character.AIのユーザー対話データ売却計画に米州司法長官らが異議申し立て"
+  },
+  {
+   "category": "startup",
+   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
+   "summary": "AI向けデータセンターの建設において、Nvidiaが運用間近まで支援を行わない姿勢を示したことで、建設遅延や資金調達コストの上昇に直面するネオクラウド企業の苦境が顕著となっている。AIインフラ開発への要求水準が高まりを見せている。",
+   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "date": "2026-11-26T00:41+09:00",
+   "title_ja": "AIデータセンター建設難航でネオクラウド企業が直面する課題"
   },
   {
    "category": "finance",
-   "title": "国際関係,金融安定理事会による「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合的な破綻処理計画基準に服する保険会社のリストを公表しました。",
-   "summary": "金融安定理事会（FSB）が定めた「金融機関の実効的な破綻処理の枠組みの主要な特性」に整合し、破綻処理計画基準の適用を受ける保険会社の対象リストが新たに公表された。",
-   "link": "https://www.fsa.go.jp/inter/fsf/20261124/20261124.html",
+   "title": "Semiconductor chips are the new oil. Here's why",
+   "summary": "AIブームに伴う世界的な半導体需要の拡大により、半導体の輸出額が石油および天然ガスを初めて上回った。半導体が現代の産業基盤において石油に代わる重要資源として位置付けられつつある市場動向を示している。",
+   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
+   "source": "CNBC Markets",
+   "lang": "en",
+   "date": "2026-11-27T02:52+09:00",
+   "title_ja": "半導体輸出が石油・天然ガスを逆転 AI需要拡大で"
+  },
+  {
+   "category": "finance",
+   "title": "国際関係,金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」を公表しました。",
+   "summary": "金融安定理事会（FSB）は、国際的な金融システムの安定に大きな影響を与える「グローバルなシステム上重要な銀行（G-SIB）」の2026年版リストを公表した。",
+   "link": "https://www.fsa.go.jp/inter/fsf/20261126/20261126.html",
    "source": "金融庁",
    "lang": "ja",
-   "date": "2026-11-25T02:00+09:00",
-   "title_ja": "金融安定理事会の基準に整合する破綻処理計画の対象保険会社リストが公表"
+   "date": "2026-11-27T02:00+09:00",
+   "title_ja": "金融安定理事会が2026年版G-SIB（システム上重要な銀行）リストを公表"
   },
   {
    "category": "society",
-   "title": "北朝鮮 キム総書記 核保有「絶対に誰の承認も追求しない」",
-   "summary": "北朝鮮の金正恩総書記が核物質生産工場などを視察した際、自国の核保有について「絶対に誰の承認も追求しない」と表明し、非核化交渉に応じない立場を改めて強調した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261126de81651",
-   "source": "NHK 主要",
-   "lang": "ja",
-   "date": "2026-11-26T11:38+09:00",
-   "title_ja": "北朝鮮の金正恩氏、核保有について「他国の承認は求めない」と明言"
-  },
-  {
-   "category": "society",
-   "title": "クマ対策で環境省がドローンなど技術活用の実証事業",
-   "summary": "市街地へのクマの出没や人身被害を未然に防止するため、環境省は今月からドローンやロボットなどの技術を活用した実証事業を開始し、新たな対策の検証を進めている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81527",
+   "title": "処方された糖尿病治療薬「マンジャロ」を他人に販売か 逮捕",
+   "summary": "病院で処方された糖尿病治療薬「マンジャロ」を他人に譲渡・販売したとして女が逮捕された。警視庁は、本来の適応外であるダイエット目的での医薬品不正転売が相次いでいるとして警戒を強めている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82227",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-26T07:02+09:00",
-   "title_ja": "環境省、クマ被害防止に向けドローンやロボット活用の実証事業を開始"
+   "date": "2026-11-27T11:32+09:00",
+   "title_ja": "糖尿病治療薬「マンジャロ」を無許可転売した容疑で逮捕"
+  },
+  {
+   "category": "society",
+   "title": "学校のいじめ79万件超で過去最多 「性的いじめ」初調査 文科省",
+   "summary": "文部科学省の2025年度調査によると、全国の学校で把握されたいじめ件数が79万件を超え5年連続で過去最多となった。初調査となった「性的いじめ」も8000件以上確認され、対策が課題となっている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82139",
+   "source": "NHK 社会",
+   "lang": "ja",
+   "date": "2026-11-27T11:18+09:00",
+   "title_ja": "学校でのいじめが79万件超で過去最多 性的いじめも初調査"
   },
   {
    "category": "world",
-   "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
-   "summary": "北朝鮮の金正恩総書記は戦術核兵器の配置拡大を呼びかけるとともに、同国の核保有国としての地位を否定しようとするいかなる試みも「明らかな宣戦布告」とみなすと警告した。",
-   "link": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "lang": "en",
-   "date": "2026-11-26T11:03+09:00",
-   "title_ja": "北朝鮮の金正恩氏、戦術核の配置拡大を指示、核保有否定は「宣戦布告」と警告"
-  },
-  {
-   "category": "world",
-   "title": "ネパール土石流発生から3か月 住宅の確保など生活再建が課題",
-   "summary": "1500人以上が犠牲となったネパールと中国での大規模土石流発生から3か月が経過した。被災地では復興への取り組みが進むものの、住宅確保をはじめ生活再建に課題が残る。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81518",
+   "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
+   "summary": "高市首相とロシアのプーチン大統領が中国訪問時に意見交換を行ったことに対し、ロシア外務省報道官が事実を認め、今後の両国関係の改善に期待を示すコメントを発表した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-26T07:28+09:00",
-   "title_ja": "ネパール大規模土石流から3か月、住宅確保など被災者の生活再建が課題"
+   "date": "2026-11-27T11:23+09:00",
+   "title_ja": "ロシア外務省が日露首脳による中国での意見交換を確認"
+  },
+  {
+   "category": "world",
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "summary": "ニュージーランドの国民党率いる中道右派の与党連立ブロックが、政権維持に必要な議会の過半数議席にあと1議席及ばなかったことが判明し、今後の政権運営に影響が出る見通しだ。",
+   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "lang": "en",
+   "date": "2026-11-27T11:55+09:00",
+   "title_ja": "ニュージーランド与党連立ブロックが議会過半数に1議席及ばず"
   },
   {
    "category": "science",
-   "title": "ミスターマックス 約180万件の個人情報 流出した可能性",
-   "summary": "ディスカウントストアを運営するミスターマックスは、メール配信等で利用していた外部サービス「KARTE」が不正アクセスを受け、約180万件の個人情報が流出した可能性を発表した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261125de81519",
-   "source": "NHK 科学・文化",
-   "lang": "ja",
-   "date": "2026-11-25T22:30+09:00",
-   "title_ja": "ディスカウントストアのミスターマックス、外部サービス不正アクセスで約180万件の個人情報流出か"
-  },
-  {
-   "category": "science",
-   "title": "「サツドラ」顧客情報22万件流出 委託先サイバーエージェントがデータ誤公開、1年以上気づかず",
-   "summary": "サイバーエージェントは、開発クラウド上の保管領域で誤って公開設定を行い、サツドラの顧客個人情報約22万件を1年以上放置した結果、第三者に取得されていたことを発表した。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/26/2000003469/",
+   "title": "三井ショッピングパーク、約312万会員の個人情報漏えい アプリに不正アクセス",
+   "summary": "三井ショッピングパークの公式アプリが不正アクセスを受け、会員約312万人分の氏名、住所、電話番号などの個人情報が漏えいした。クレジットカード情報やパスワードの流出は確認されていない。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
    "source": "ITmedia NEWS",
    "lang": "ja",
-   "date": "2026-11-26T09:23+09:00",
-   "title_ja": "サツドラの顧客情報22万件が流出、サイバーエージェントがクラウド設定ミスで1年以上放置"
+   "date": "2026-11-27T10:33+09:00",
+   "title_ja": "三井ショッピングパークのアプリ不正アクセスで約312万人分の個人情報漏えい"
+  },
+  {
+   "category": "science",
+   "title": "高市首相ノーベル化学賞そ※合さんと面会 研究費充実取り組む",
+   "summary": "高市総理大臣はノーベル化学賞に選出された東京理科大学の栄誉教授と面会し、日本国内における研究力の強化を目指して、研究費をはじめとする支援体制の充実に着手する方針を示した。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261126de81952",
+   "source": "NHK 科学・文化",
+   "lang": "ja",
+   "date": "2026-11-26T17:44+09:00",
+   "title_ja": "高市首相がノーベル化学賞の受賞者と面会 研究費拡充に意欲"
   },
   {
    "category": "environment",
    "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
-   "summary": "国連気候変動枠組条約締約国会議（COP31）は、有志国連合が提案された「アンタルヤ協定」を拒否したことで緊迫した閉幕を迎えた。この結果を受け、会議の「失敗」の責任をめぐる議論が広がっている。",
+   "summary": "COP31が「アンタルヤ協定」の拒否により決裂したことを受け、交渉失敗の原因や合意に至らなかった責任の所在について各国メディアの論調を分析・紹介している。（80字）",
    "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
    "source": "Carbon Brief",
    "lang": "en",
    "date": "2026-11-26T01:09+09:00",
-   "title_ja": "COP31の「失敗」は誰の責任か、メディアの反応"
+   "title_ja": "COP31決裂の責任はどこに？各国メディアの反応"
   },
   {
    "category": "environment",
    "title": "What is holding back bidirectional EV charging as a grid resource?",
-   "summary": "電気自動車（EV）の双方向充電を電力網リソースとして活用するにあたり、コストの高さや技術の不完全さが課題となっている。一方、適切な電力プログラム設計や新技術により双方に価値をもたらすと期待される。",
+   "summary": "電気自動車（EV）の双方向充電を電力網リソースとして活用するには高コストや技術的課題があるが、適切な電力プログラム設計と新世代の充電技術による普及拡大が期待されている。（87字）",
    "link": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
    "source": "Utility Dive",
    "lang": "en",
    "date": "2026-11-26T01:12+09:00",
-   "title_ja": "電力網リソースとしてのEV双方向充電の課題"
+   "title_ja": "EVの双方向充電普及を阻む課題と解決への展望"
+  },
+  {
+   "category": "work",
+   "title": "【資料2】AI for Science時代における学術研究の新たな推進課題（案）－第14期学術分科会における - 文部科学省",
+   "summary": "文部科学省は「AI for Science」時代を見据え、学術研究の新たな推進課題案を提示した。科学研究におけるAI技術の活用や体制整備に向けた論点をまとめている。（81字）",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45Yk9DdkNtcm9abktSWnJ3cGZRWXp5NWpteGZnSDR3aFNobm9Fa1ZKS3dNUGVqd0x1UXFDc0s0aTMwSjVaRkhERzhQZS1DakJVSkFKUVIwWEZndmtvcVg5NW9saXc3SVA3elVWTWVqYWtGUHhsRGEyaw?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
+   "lang": "ja",
+   "date": "2026-11-27T10:09+09:00",
+   "title_ja": "AI時代における学術研究推進の課題案を文科省が公表"
   },
   {
    "category": "security",
-   "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-   "summary": "Palo Alto NetworksのPAN-OS搭載機器に対し、PHP2ShellとFragnesiaの2つの脆弱性を組み合わせた攻撃が確認された。管理インターフェースがインターネットに露出した機器が標的となっている。",
-   "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-   "source": "BleepingComputer",
-   "lang": "en",
-   "date": "2026-11-26T07:05+09:00",
-   "title_ja": "Palo Alto Networks製品のFragnesia脆弱性を狙う攻撃に警戒感"
+   "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
+   "summary": "VMware製品において新たな脆弱性（CVE-2026-123890）が確認された。システムのセキュリティを確保するため、対象製品への迅速な修正プログラム適用などの対策が求められる。（87字）",
+   "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261124.html",
+   "source": "IPA セキュリティ重要情報",
+   "lang": "ja",
+   "date": "2026-11-24T00:00+09:00",
+   "title_ja": "VMware製品における深刻な脆弱性対策の周知"
   },
   {
    "category": "security",
-   "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-   "summary": "GeoServerにおいて新たに修正された2つのセキュリティ脆弱性（CVE-2026-120705、CVE-2026-129243）が悪用されている。研究者は認証なしのリモートコード実行につながる危険性を警告している。",
-   "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-   "source": "The Hacker News",
-   "lang": "en",
-   "date": "2026-11-25T21:48+09:00",
-   "title_ja": "GeoServerの2つの脆弱性を悪用した攻撃が確認される"
+   "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
+   "summary": "複数のPalo Alto Networks製品に脆弱性が存在することが公表された。同社製品を利用する組織に対し、最新のセキュリティレポートを確認し適切な対策を講じるよう呼びかけている。（88字）",
+   "link": "https://www.jpcert.or.jp/wr/2026/wr261126.html#1",
+   "source": "JPCERT/CC",
+   "lang": "ja",
+   "date": "2026-11-26T09:24+09:00",
+   "title_ja": "Palo Alto Networks製品における複数脆弱性の公表"
   }
  ]
 }
