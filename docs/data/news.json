@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T12:14+09:00",
+ "generated_at": "2026-11-28T12:00+09:00",
  "ai_summary": true,
  "categories": [
   {
@@ -62,233 +62,255 @@
  "items": [
   {
    "category": "medical",
-   "title": "消費税問題、「薬局も含めて」解決策検討 - PHARMACY NEWSBREAK",
-   "summary": "医療機関や薬局における控除対象外消費税（損税）問題について、薬局を含めた形での抜本的な解決策の検討が進められている。医療提供体制の維持に向けた税制上の見直し議論が注目される。",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KRi1uZkdjT2g5TjhvRXhrRVhvaGpBZ0JNbG5LOE9ESkk3WGxGSDRFLUtlVy1JZGloSFRrRUQyZzQ2ekZ4eWEyLWpB0gFPQVVfeXFMUDA2b2VPZXUtVmkyVXBhQkV2c21FUlg2RkwtMVRrRWdkZHVnYldTSC1tbGhJZFZlOW9OWm90dHdia2FtZm1RUzQ2VThMLTRIMA?oc=5",
-   "source": "Google News 診療報酬・医療制度",
-   "lang": "ja",
-   "date": "2026-11-27T04:50+09:00",
-   "title_ja": "消費税問題、「薬局も含めて」解決策検討"
-  },
-  {
-   "category": "medical",
    "title": "Medicare sets 2028 prices for 13 new drugs under Biden-era law",
-   "summary": "米国のメディケアが、インフレ抑制法に基づき13種類の医薬品に対して2028年からの適用価格を設定した。特許切れが近い製品を中心に価格上昇が大幅に抑制され、薬価管理の対象が拡大している。",
+   "summary": "米メディケアは、インフレ抑制法に基づく医療費抑制の対象を拡大し、特許切れまたは期限が近い13の新薬について2028年の公定価格を設定した。対象となる医薬品は大幅な薬価引き下げに直面することになる。",
    "link": "https://www.healthcaredive.com/news/inflation-reduction-act-2028-final-medicare-drug-price/875783/",
    "source": "Healthcare Dive",
    "lang": "en",
    "date": "2026-11-26T01:26+09:00",
-   "title_ja": "米メディケア、インフレ抑制法に基づき新たに13製剤の2028年価格を設定"
+   "title_ja": "米メディケア、インフレ抑制法に基づき新たに13医薬品の2028年価格を設定"
+  },
+  {
+   "category": "medical",
+   "title": "【75歳以上の医療の保険料】都道府県で月4990円〜1万352円の差。均等割は所得に応じ7割・5割・2割軽減 - LIMO | くらしとお金の経済メディア",
+   "summary": "75歳以上が加入する後期高齢者医療制度の保険料は、都道府県により月額4990円から1万352円と大きな差がある。均等割額については、加入者の所得水準に応じて7割、5割、2割の軽減措置が設けられている。",
+   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBWVkx1VWxNRU8tNk4zTXRKaVE4WlZmSTRqRmp1N1JaNDZqRm5sSERIdV9qS05NXzU1WWhfYVI5UGRCQW9WNm13SGhET2c?oc=5",
+   "source": "Google News 診療報酬・医療制度",
+   "lang": "ja",
+   "date": "2026-11-28T10:05+09:00",
+   "title_ja": "75歳以上の医療保険料に都道府県で最大2倍超の地域差"
+  },
+  {
+   "category": "dental",
+   "title": "歯科定期受診 5割止まり 日本歯科医師会調査 予防の意識 浸透不十分 - 沖縄タイムス社",
+   "summary": "日本歯科医師会の調査によると、歯科の定期受診を行っている人の割合は約5割にとどまっていることが分かった。口腔内の健康維持に向けた予防意識が依然として社会に十分に浸透していない実態が浮き彫りとなっている。",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83R0U5eGFiV1UwSE5NM3BlcEZINVNJeDdBYzJqTVVkcFJqWmFkMHJxeDhBeE5hSzNBdFkzY3NNMnFPeFRNSmRwRzBDbmhtQ2NVTWVWU3BPTlZUSVNpYnc?oc=5",
+   "source": "Google News 歯科業界",
+   "lang": "ja",
+   "date": "2026-11-28T03:58+09:00",
+   "title_ja": "歯科の定期受診率は5割止まり、日本歯科医師会の調査で予防意識の不足が判明"
   },
   {
    "category": "business",
-   "title": "東京23区 11月の消費者物価指数 前年同月比2.9％上昇",
-   "summary": "東京都区部の11月消費者物価指数（生鮮食品を除く総合）速報値は、前年同月比2.9％上昇した。上昇率が2％を超えるのは3か月連続となり、依然として高水準の物価高が継続している。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82195",
+   "title": "データセンター整備めぐり 政府が関係者向け指針策定へ",
+   "summary": "全球的なデータセンター整備の急増に伴い、周辺住民との摩擦が生じていることを受け、政府は事業者や自治体、電力会社が遵守すべき新たな指針を策定する方針を固めた。円滑な整備環境の構築を目指す。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261128de82863",
    "source": "NHK 経済",
    "lang": "ja",
-   "date": "2026-11-27T11:53+09:00",
-   "title_ja": "東京23区 11月の消費者物価指数 前年同月比2.9％上昇"
+   "date": "2026-11-28T10:47+09:00",
+   "title_ja": "政府、データセンター整備に伴う地域摩擦防止へ事業者向け指針策定へ"
   },
   {
    "category": "business",
-   "title": "エヌビディアが東南アジア4か国への輸出を停止 欧米メディア",
-   "summary": "米半導体大手エヌビディアが、取引先に対し東南アジア4か国への先端半導体搭載製品の輸出停止を通知したと報じられた。米国政府による中国への迂回輸出規制の強化に対応した措置とみられる。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82164",
-   "source": "NHK 経済",
-   "lang": "ja",
-   "date": "2026-11-27T08:00+09:00",
-   "title_ja": "エヌビディアが東南アジア4か国への輸出を停止"
+   "title": "Will new energy fixes cost more in January?",
+   "summary": "イランの軍事衝突による天然ガス価格の急騰を受け、数百万世帯で1月の光熱費が26％跳ね上がる見込みとなっている。エネルギー価格の固定プラン改定に伴う家計への負担増が懸念されている。",
+   "link": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC Business",
+   "lang": "en",
+   "date": "2026-11-28T01:05+09:00",
+   "title_ja": "1月の光熱費が26％急騰へ、イラン情勢に伴うガス価格上昇が影響"
   },
   {
    "category": "politics",
-   "title": "中央防災会議 防災基本計画に防災の「国家戦略」盛り込む",
-   "summary": "政府の中央防災会議において、防災庁の発足を踏まえた「防災基本計画」の改定が行われ、国家戦略が新たに明記された。大規模災害発生時における国としての責務と支援体制の強化が盛り込まれた。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82248",
+   "title": "問責決議案否決 与党“消費税法案成立を” 野党“疑惑を追及”",
+   "summary": "関文部科学大臣に対する問責決議案は与党などの反対多数で否決された。会期末まで2週間となる中、与党側は食料品の消費税減税関連法案の成立を優先し、野党側は疑惑追及を継続する方針をとっている。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261128de82805",
    "source": "NHK 政治",
    "lang": "ja",
-   "date": "2026-11-27T11:37+09:00",
-   "title_ja": "中央防災会議、防災基本計画に防災の「国家戦略」盛り込む"
+   "date": "2026-11-28T06:29+09:00",
+   "title_ja": "関文科相の問責決議案が否決、与党は消費税減税法案の成立に注力へ"
   },
   {
    "category": "politics",
-   "title": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表",
-   "summary": "政府は、大規模災害時に首都機能を代替する「副首都」について、2027年秋に複数の道府県を指定し、2028年春から運用を開始する基本スケジュールを公表した。国家の危機管理体制を強化する。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82236",
-   "source": "NHK 政治",
+   "title": "独 核禁止条約再検討会議を欠席へ - Yahoo!ニュース",
+   "summary": "ドイツが核兵器禁止条約の再検討会議に欠席する方針を固めた。核廃絶に向けた初の再検討会議が国連本部で開催される中、締約国会議への関与をめぐり、国際世論や各国の安全保障政策における姿勢の違いが浮き彫りとなっている。",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qaXc4R3A5LUxBWXJYWFB3aTBYal8xeHIyMWY3eDQ3XzJHajBnYUY1Uk9WTjBDcG4yLWFxZmlfMUxlWkVuVnlrWndBc3ZqZ0Nt?oc=5",
+   "source": "Google News 政治",
    "lang": "ja",
-   "date": "2026-11-27T11:27+09:00",
-   "title_ja": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表"
+   "date": "2026-11-28T11:17+09:00",
+   "title_ja": "ドイツが核兵器禁止条約の再検討会議を欠席へ"
   },
   {
    "category": "ai",
    "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-   "summary": "破産手続き中のAI企業Character.AIに対し、米42州の司法長官連合が利用者のチャット履歴データの売却を差し止める法的措置を講じた。破産過程での個人情報保護のあり方が問われている。",
+   "summary": "米国42州の司法長官連合は、連邦破産法第11条の適用下にある対話型AI企業キャラクターAIに対し、ユーザーのチャットデータの売却を阻止する動きを開始した。プライバシー侵害への懸念から共同で差し止めを求めている。",
    "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
    "source": "The Verge AI",
    "lang": "en",
    "date": "2026-11-26T18:54+09:00",
-   "title_ja": "米42州の司法長官、Character.AIによるユーザー会話データの売却阻止へ"
+   "title_ja": "米42州の司法長官、経営破綻したキャラクターAIによるチャット履歴売却の差し止めを要求"
   },
   {
    "category": "ai",
    "title": "AIリスク監査の実施、わずか5.7％ 内部監査が追い付かない「もう一つのリスク」とは？",
-   "summary": "企業におけるAIおよび生成AIのリスク認識が高まる一方、実際にAIに関する内部監査を実施している企業は5.7％にとどまることが調査で判明した。ガバナンス体制構築の遅れが浮き彫りとなっている。",
+   "summary": "調査によると、今後重要となるリスクとしてAIを挙げた回答が過半数を占めた一方、AIリスクに対する内部監査を実施済みの企業は5.7％にとどまった。ガバナンス体制がAIの普及スピードに追いついていない実態が示された。",
    "link": "https://www.itmedia.co.jp/enterprise/articles/2611/26/news037.html",
    "source": "ITmedia AI+",
    "lang": "ja",
    "date": "2026-11-27T10:50+09:00",
-   "title_ja": "AIリスク監査の実施はわずか5.7％ 内部監査が追いつかないリスク"
+   "title_ja": "AIリスクを重視する企業は半数超も、内部監査の実施は5.7％にとどまる"
+  },
+  {
+   "category": "startup",
+   "title": "散らばる医療データをAIで使える形にするAevius、2,200万ドルを調達",
+   "summary": "Mass General Brigham からスピンアウトした Aevius は現地時間17日、Insight Partners がリードする2,200万ドルの資金を得て始動したと発表した。同社は、医療のデータを AI […]",
+   "link": "https://thebridge.jp/2026/11/aevius-raises-22m",
+   "source": "THE BRIDGE",
+   "lang": "ja",
+   "date": "2026-11-27T10:13+09:00"
   },
   {
    "category": "startup",
    "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-   "summary": "AIスタートアップであるCharacter.AIの破産手続きに伴う資産オークションにおいて、未成年者210万人を含む2100万人分以上の個人データ売却が含まれることに対し、米国の複数の州司法長官がプライバシー保護の観点から異議を唱えた。",
+   "summary": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
    "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
    "source": "TechCrunch",
    "lang": "en",
-   "date": "2026-11-26T02:35+09:00",
-   "title_ja": "Character.AIのユーザー対話データ売却計画に米州司法長官らが異議申し立て"
-  },
-  {
-   "category": "startup",
-   "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-   "summary": "AI向けデータセンターの建設において、Nvidiaが運用間近まで支援を行わない姿勢を示したことで、建設遅延や資金調達コストの上昇に直面するネオクラウド企業の苦境が顕著となっている。AIインフラ開発への要求水準が高まりを見せている。",
-   "link": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it/",
-   "source": "TechCrunch",
-   "lang": "en",
-   "date": "2026-11-26T00:41+09:00",
-   "title_ja": "AIデータセンター建設難航でネオクラウド企業が直面する課題"
+   "date": "2026-11-26T02:35+09:00"
   },
   {
    "category": "finance",
-   "title": "Semiconductor chips are the new oil. Here's why",
-   "summary": "AIブームに伴う世界的な半導体需要の拡大により、半導体の輸出額が石油および天然ガスを初めて上回った。半導体が現代の産業基盤において石油に代わる重要資源として位置付けられつつある市場動向を示している。",
-   "link": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html",
-   "source": "CNBC Markets",
-   "lang": "en",
-   "date": "2026-11-27T02:52+09:00",
-   "title_ja": "半導体輸出が石油・天然ガスを逆転 AI需要拡大で"
-  },
-  {
-   "category": "finance",
-   "title": "国際関係,金融安定理事会による「グローバルなシステム上重要な銀行（G-SIB）の2026年リスト」を公表しました。",
-   "summary": "金融安定理事会（FSB）は、国際的な金融システムの安定に大きな影響を与える「グローバルなシステム上重要な銀行（G-SIB）」の2026年版リストを公表した。",
-   "link": "https://www.fsa.go.jp/inter/fsf/20261126/20261126.html",
+   "title": "貸金業関係資料集について掲載しました。",
+   "summary": "",
+   "link": "https://www.fsa.go.jp/status/kasikin/20261126/index.html",
    "source": "金融庁",
    "lang": "ja",
-   "date": "2026-11-27T02:00+09:00",
-   "title_ja": "金融安定理事会が2026年版G-SIB（システム上重要な銀行）リストを公表"
+   "date": "2026-11-27T02:00+09:00"
+  },
+  {
+   "category": "finance",
+   "title": "為替相場まとめ１１月２３日から１１月２７日の週 - みんかぶ FX/為替",
+   "summary": "為替相場まとめ１１月２３日から１１月２７日の週 みんかぶ FX/為替",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB4d3E2X29DMjl0ZVByUUtod1FmVk5CdE5Uanh3RTRkQUpFMkk5SW9MR0lLMmpzMDVsWDhDZzVOa19RYXBvRDBueQ?oc=5",
+   "source": "Google News 市況",
+   "lang": "ja",
+   "date": "2026-11-28T07:50+09:00"
   },
   {
    "category": "society",
-   "title": "処方された糖尿病治療薬「マンジャロ」を他人に販売か 逮捕",
-   "summary": "病院で処方された糖尿病治療薬「マンジャロ」を他人に譲渡・販売したとして女が逮捕された。警視庁は、本来の適応外であるダイエット目的での医薬品不正転売が相次いでいるとして警戒を強めている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82227",
+   "title": "皇居「乾通り」で紅葉楽しむ 秋の一般公開はじまる",
+   "summary": "皇居の「乾通り」の一般公開が28日から始まり、大勢の人たちがふだんは立ち入ることができない並木道を歩き、見頃の紅葉を楽しみました。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261128de82874",
    "source": "NHK 社会",
    "lang": "ja",
-   "date": "2026-11-27T11:32+09:00",
-   "title_ja": "糖尿病治療薬「マンジャロ」を無許可転売した容疑で逮捕"
+   "date": "2026-11-28T11:26+09:00"
   },
   {
    "category": "society",
-   "title": "学校のいじめ79万件超で過去最多 「性的いじめ」初調査 文科省",
-   "summary": "文部科学省の2025年度調査によると、全国の学校で把握されたいじめ件数が79万件を超え5年連続で過去最多となった。初調査となった「性的いじめ」も8000件以上確認され、対策が課題となっている。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82139",
-   "source": "NHK 社会",
+   "title": "宮城県山中で身元不明2人の遺体 1人は横浜の女子高校生か 警察",
+   "summary": "27日、宮城県の山中で身元が分からない2人が遺体で見つかり、警察はこのうち1人は10月から行方が分からなくなっている横浜市の高校1年の女子生徒の可能性があるとみて確認を進めています。警察は女子生徒を連…",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82799",
+   "source": "NHK 主要",
    "lang": "ja",
-   "date": "2026-11-27T11:18+09:00",
-   "title_ja": "学校でのいじめが79万件超で過去最多 性的いじめも初調査"
+   "date": "2026-11-28T08:39+09:00"
   },
   {
    "category": "world",
-   "title": "ロシア外務省 日ロ首脳の中国での意見交換の事実を認める",
-   "summary": "高市首相とロシアのプーチン大統領が中国訪問時に意見交換を行ったことに対し、ロシア外務省報道官が事実を認め、今後の両国関係の改善に期待を示すコメントを発表した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82181",
+   "title": "ドイツ 冬の風物詩「クリスマスマーケット」が始まる",
+   "summary": "ドイツで伝統のクリスマスマーケットが始まり、会場には多くの人が訪れてクリスマスの華やかな雰囲気に包まれています。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261128de82848",
    "source": "NHK 国際",
    "lang": "ja",
-   "date": "2026-11-27T11:23+09:00",
-   "title_ja": "ロシア外務省が日露首脳による中国での意見交換を確認"
+   "date": "2026-11-28T08:45+09:00"
   },
   {
    "category": "world",
-   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
-   "summary": "ニュージーランドの国民党率いる中道右派の与党連立ブロックが、政権維持に必要な議会の過半数議席にあと1議席及ばなかったことが判明し、今後の政権運営に影響が出る見通しだ。",
-   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
+   "title": "Nigeria's 'ultimate hard man' who become an online meme",
+   "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "lang": "en",
-   "date": "2026-11-27T11:55+09:00",
-   "title_ja": "ニュージーランド与党連立ブロックが議会過半数に1議席及ばず"
+   "date": "2026-11-28T10:20+09:00"
   },
   {
    "category": "science",
-   "title": "三井ショッピングパーク、約312万会員の個人情報漏えい アプリに不正アクセス",
-   "summary": "三井ショッピングパークの公式アプリが不正アクセスを受け、会員約312万人分の氏名、住所、電話番号などの個人情報が漏えいした。クレジットカード情報やパスワードの流出は確認されていない。",
-   "link": "https://www.itmedia.co.jp/news/article/2611/27/2000003510/",
-   "source": "ITmedia NEWS",
-   "lang": "ja",
-   "date": "2026-11-27T10:33+09:00",
-   "title_ja": "三井ショッピングパークのアプリ不正アクセスで約312万人分の個人情報漏えい"
-  },
-  {
-   "category": "science",
-   "title": "高市首相ノーベル化学賞そ※合さんと面会 研究費充実取り組む",
-   "summary": "高市総理大臣はノーベル化学賞に選出された東京理科大学の栄誉教授と面会し、日本国内における研究力の強化を目指して、研究費をはじめとする支援体制の充実に着手する方針を示した。",
-   "link": "https://news.web.nhk/newsweb/na/nd-20261126de81952",
+   "title": "生成AIへの不安 「犯罪に悪用される」が73% NHK世論調査",
+   "summary": "急速に普及が進む生成AIについて、NHKの世論調査で期待と不安を聞いたところ、期待することとしては「仕事の効率化が進む」が62％だった一方、不安は「犯罪に悪用される」が最も多く73％でした。",
+   "link": "https://news.web.nhk/newsweb/na/nd-20261127de82786",
    "source": "NHK 科学・文化",
    "lang": "ja",
-   "date": "2026-11-26T17:44+09:00",
-   "title_ja": "高市首相がノーベル化学賞の受賞者と面会 研究費拡充に意欲"
+   "date": "2026-11-28T05:34+09:00"
+  },
+  {
+   "category": "science",
+   "title": "そばチェーン「ゆで太郎」は、なぜ個人情報を「持たない」と決めた？ 8年続いたバースデークラブ終了の理由を社長に聞いた",
+   "summary": "ゆで太郎システムは、個人情報の漏えいリスクを理由に、約4000人が登録する「バースデークラブ」の終了を決めた。8年続けた制度を廃止する理由や、個人情報を持たずに顧客との関係を築く戦略を社長に聞いた。",
+   "link": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+   "source": "ITmedia NEWS",
+   "lang": "ja",
+   "date": "2026-11-28T10:00+09:00"
+  },
+  {
+   "category": "law",
+   "title": "無線局の免許等関連手続の電子申請義務化に係る制度改正案に対する意見募集（電波法施行規則の一部を改正する省令案）",
+   "summary": "案の公示日：2026/11/28 受付締切日時：2026/12/28 00:00 カテゴリー：電気通信 問合せ先（所管省庁・部局名等）：総務省総合通信基盤局 電波部電波政策課 電話：03-5253-5874",
+   "link": "https://public-comment.e-gov.go.jp/servlet/Public?CLASSNAME=PCMMSTDETAIL&id=145210803&Mode=0",
+   "source": "パブリックコメント(e-Gov)",
+   "lang": "ja",
+   "date": "2026-11-28T00:00+09:00"
+  },
+  {
+   "category": "law",
+   "title": "- 確定申告書等作成コーナー",
+   "summary": "確定申告書等作成コーナー",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA4STBuZEl5YTFmbTQ1Slp3NGFxNkR4Y3VHU2V2Q0p4UTF4dkZ2WEFnLUNpR0pkYU1WYldSXzIzeHh0RWhVS2xVZ201TGZCc2RtdXFDMGpTTkE?oc=5",
+   "source": "国税庁・法務省・個人情報保護委員会",
+   "lang": "ja",
+   "date": "2026-11-28T09:46+09:00"
   },
   {
    "category": "environment",
-   "title": "Media reaction: Who is to blame for COP31 ‘failure’?",
-   "summary": "COP31が「アンタルヤ協定」の拒否により決裂したことを受け、交渉失敗の原因や合意に至らなかった責任の所在について各国メディアの論調を分析・紹介している。（80字）",
-   "link": "https://www.carbonbrief.org/media-reaction-who-is-to-blame-for-cop31-failure",
-   "source": "Carbon Brief",
-   "lang": "en",
-   "date": "2026-11-26T01:09+09:00",
-   "title_ja": "COP31決裂の責任はどこに？各国メディアの反応"
+   "title": "2026年11月 - 環境省",
+   "summary": "2026年11月 環境省",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CTU1QQU5JU2pTV0VsU2tKdHRWeTdlbUtJSzdqR29ad2NhUS1nV3dlTG4wUTI4dUIwSjRoUDFxYXFHUlZVY3R0SVhTMnpuUDRE?oc=5",
+   "source": "環境省・資源エネルギー庁",
+   "lang": "ja",
+   "date": "2026-11-28T11:19+09:00"
   },
   {
    "category": "environment",
-   "title": "What is holding back bidirectional EV charging as a grid resource?",
-   "summary": "電気自動車（EV）の双方向充電を電力網リソースとして活用するには高コストや技術的課題があるが、適切な電力プログラム設計と新世代の充電技術による普及拡大が期待されている。（87字）",
-   "link": "https://www.utilitydive.com/news/what-is-holding-back-bidirectional-ev-charging-as-a-grid-resource/875766/",
-   "source": "Utility Dive",
+   "title": "The US army just detonated a poison bomb over Iowa | Steven Donziger",
+   "summary": "The shocking situation in Iowa is a metaphor for much of what is wrong with the United States There’s no way to hide it: the US government just deliberately detonated a poison bomb of lead azide over the state of Iowa wh…",
+   "link": "https://www.theguardian.com/commentisfree/2026/nov/27/army-lead-poison-bomb-iowa",
+   "source": "The Guardian Environment",
    "lang": "en",
-   "date": "2026-11-26T01:12+09:00",
-   "title_ja": "EVの双方向充電普及を阻む課題と解決への展望"
+   "date": "2026-11-28T04:30+09:00"
   },
   {
    "category": "work",
-   "title": "【資料2】AI for Science時代における学術研究の新たな推進課題（案）－第14期学術分科会における - 文部科学省",
-   "summary": "文部科学省は「AI for Science」時代を見据え、学術研究の新たな推進課題案を提示した。科学研究におけるAI技術の活用や体制整備に向けた論点をまとめている。（81字）",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45Yk9DdkNtcm9abktSWnJ3cGZRWXp5NWpteGZnSDR3aFNobm9Fa1ZKS3dNUGVqd0x1UXFDc0s0aTMwSjVaRkhERzhQZS1DakJVSkFKUVIwWEZndmtvcVg5NW9saXc3SVA3elVWTWVqYWtGUHhsRGEyaw?oc=5",
+   "title": "標準的なカリキュラム案で扱う生活上の行為の事例（トルコ語訳） - 日本語教育コンテンツ共有システム",
+   "summary": "標準的なカリキュラム案で扱う生活上の行為の事例（トルコ語訳） 日本語教育コンテンツ共有システム",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOUdWd0xWa1Iya3V3cHZ4Vkc2aHN0WDZ4Z1NfYlEzQktQNUd1eHZhTkMxaGFDZUkyRTA2aGNxNVJrUDl2MTdoZnlRQU0yMzFONnRqR0FQWTBVbXNfMTV3RUdQUU14NEdvamg1QjFrTGgzRnl2NVVpSEwtM0hRTTJlVGc3ZHpMdmJpcjJSclhkSlRyQmF2dHUyWmg0OU43OF9OWmtzdzBaYm5ucVRFMVFiMElYTW1FT0dWYUZHMFpzbG4zNVBZOC1BRi1LTkFJekRFekJ5cGNwb2tHTEtGUk5tYUk1cTZaRlctVXVB?oc=5",
    "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-27T10:09+09:00",
-   "title_ja": "AI時代における学術研究推進の課題案を文科省が公表"
+   "date": "2026-11-27T23:01+09:00"
   },
   {
-   "category": "security",
-   "title": "VMware製品の脆弱性対策について(CVE-2026-123890)",
-   "summary": "VMware製品において新たな脆弱性（CVE-2026-123890）が確認された。システムのセキュリティを確保するため、対象製品への迅速な修正プログラム適用などの対策が求められる。（87字）",
-   "link": "https://www.ipa.go.jp/security/security-alert/2026/alert20261124.html",
-   "source": "IPA セキュリティ重要情報",
+   "category": "work",
+   "title": "令和９年度からの私立大学医学部の収容定員の増加に係る学則変更予定一覧 - 文部科学省",
+   "summary": "令和９年度からの私立大学医学部の収容定員の増加に係る学則変更予定一覧 文部科学省",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBEYlB3NDA4cXd6N3pPdFkzMmpJeHBrdjRwNzhZZ1lHR2ktWWh3cDA0NkFmcmNGc3JUNGFvUDhVWHY1enRXSEkybmJqWUZUcXdwVXpnT0wtQ0Q2YUoyNkxCOGhDQ3hKYUJGTy12eEZaMDVNdjFRNlR3?oc=5",
+   "source": "文科省・大学ジャーナル・人事",
    "lang": "ja",
-   "date": "2026-11-24T00:00+09:00",
-   "title_ja": "VMware製品における深刻な脆弱性対策の周知"
+   "date": "2026-11-27T22:08+09:00"
   },
   {
    "category": "security",
    "title": "Weekly Report: 複数のPalo Alto Networks製品に脆弱性",
-   "summary": "複数のPalo Alto Networks製品に脆弱性が存在することが公表された。同社製品を利用する組織に対し、最新のセキュリティレポートを確認し適切な対策を講じるよう呼びかけている。（88字）",
+   "summary": "複数のPalo Alto Networks製品に脆弱性",
    "link": "https://www.jpcert.or.jp/wr/2026/wr261126.html#1",
    "source": "JPCERT/CC",
    "lang": "ja",
-   "date": "2026-11-26T09:24+09:00",
-   "title_ja": "Palo Alto Networks製品における複数脆弱性の公表"
+   "date": "2026-11-26T09:24+09:00"
+  },
+  {
+   "category": "security",
+   "title": "北九州市小倉南区で防災チャレンジパーク 11月29日、マウンテンバイク走行体験や防災食のキッチンカー登場 - 47NEWS",
+   "summary": "北九州市小倉南区で防災チャレンジパーク 11月29日、マウンテンバイク走行体験や防災食のキッチンカー登場 47NEWS",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrdUVpY0d4Qmo4TjhzRXFQT0NWSzNKelpLSWd3OFlBYm5mMkF6Qjlyd3pjQV8yU1RINWt5ZmFHQkJLYVd5bjEzcTRHSQ?oc=5",
+   "source": "Google News 災害・防衛",
+   "lang": "ja",
+   "date": "2026-11-28T11:45+09:00"
   }
  ]
 }
